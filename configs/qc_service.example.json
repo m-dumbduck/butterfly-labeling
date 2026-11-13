@@ -1,0 +1,12 @@
+{
+ "live": false,
+ "reference": "control/tasks/reference_boxes.json",
+ "iou": 0.65,
+ "poll_seconds": 2,
+ "full_sweep_seconds": 600,
+ "pools": [
+  {"type": "exam", "pool_id": "<EXAM_POOL_ID>", "skill_id": "<EXAM_SKILL_ID>", "max_failed_photos": 1, "pass_value": 100, "fail_value": 0},
+  {"type": "bbox", "pool_id": "<PILOT_POOL_ID>", "project_id": "11741", "author_skill_id": "<AUTHOR_SKILL_ID>",
+   "ban_after": 1, "ban_days": 30, "reject_failed_page": true, "max_pages_per_user": 1}
+ ]
+}

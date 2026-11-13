@@ -1,0 +1,22 @@
+.env
+*.zip
+oleg_handoff/
+images/
+__pycache__/
+control/gpt_runs/*/batch_*/check/
+oleg_handoff_v2/
+pilot/gpt_runs/*/batch_*/check/
+# --- до конца разметки: файлы с правильными ответами экзамена и ханипотов не коммитить (13.11) ---
+control/
+pilot/
+analysis/
+api/
+*_validated.json
+control_set_oleg_review*.json
+*.pdf
+configs/instruction_bbox_preview.html
+# --- локальное: настройки и журналы сервера, рабочие конфиги с id пулов ---
+server_local/
+server_log/
+configs/qc_service.json
+.DS_Store

@@ -1,0 +1,11 @@
+{
+  "project_id": "11742",
+  "private_name": "train",
+  "may_contain_adult_content": false,
+  "assignment_max_duration_seconds": 1200,
+  "mix_tasks_in_creation_order": false,
+  "shuffle_tasks_in_task_suite": true,
+  "training_tasks_in_task_suite_count": 10,
+  "task_suites_required_to_pass": 1,
+  "inherited_instructions": true
+}

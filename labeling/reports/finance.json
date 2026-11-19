@@ -1,0 +1,59 @@
+{
+  "checked_utc": "2026-11-19T11:46:51.440774+00:00",
+  "initial_project_budget_rub": "850.00",
+  "balance_before_expansion_rub": "451.84",
+  "earlier_expenses_inferred_rub": "398.16",
+  "expansion_paid_with_commission_rub": "420.490",
+  "total_project_spent_rub": "818.65",
+  "available_rub": "31.35",
+  "pending_submitted_or_active": 0,
+  "pages_accepted_in_final_pass": 110,
+  "pools": {
+    "bbox": {
+      "accepted_pages": 74,
+      "reward_rub": "73.2",
+      "including_commission_rub": "102.48"
+    },
+    "old_overlap": {
+      "accepted_pages": 2,
+      "reward_rub": "4.0",
+      "including_commission_rub": "5.60"
+    },
+    "bbox_refill": {
+      "accepted_pages": 24,
+      "reward_rub": "24.0",
+      "including_commission_rub": "33.60"
+    },
+    "old_crowd": {
+      "accepted_pages": 6,
+      "reward_rub": "48.0",
+      "including_commission_rub": "67.20"
+    },
+    "review_hard_refill": {
+      "accepted_pages": 1,
+      "reward_rub": "0.5",
+      "including_commission_rub": "0.70"
+    },
+    "new_crowd": {
+      "accepted_pages": 4,
+      "reward_rub": "20.0",
+      "including_commission_rub": "28.00"
+    },
+    "review_refill": {
+      "accepted_pages": 11,
+      "reward_rub": "6.6",
+      "including_commission_rub": "9.24"
+    },
+    "review": {
+      "accepted_pages": 186,
+      "reward_rub": "106.05",
+      "including_commission_rub": "148.470"
+    },
+    "review_hard": {
+      "accepted_pages": 36,
+      "reward_rub": "18.0",
+      "including_commission_rub": "25.20"
+    }
+  },
+  "note": "Расходы расширения рассчитаны по фактическим reward принятых страниц ×1.4, включая неполные страницы. Более ранние расходы = 850−451.84; это сверка общего бюджета, не детализация прежних этапов."
+}

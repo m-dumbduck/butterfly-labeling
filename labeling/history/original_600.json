@@ -1,0 +1,7068 @@
+{
+  "100608722": {
+    "boxes": [
+      {
+        "left": 0.02344,
+        "top": 0.013,
+        "width": 0.95243,
+        "height": 0.965
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "1013509": {
+    "boxes": [
+      {
+        "left": 0.50862,
+        "top": 0.43012,
+        "width": 0.09303,
+        "height": 0.14273
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна бабочка, разметки совпадают по смыслу (0,73)"
+  },
+  "103609661": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "103946928": {
+    "boxes": [
+      {
+        "left": 0.00122,
+        "top": 0.28796,
+        "width": 0.92167,
+        "height": 0.4175
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "104577334": {
+    "boxes": [
+      {
+        "left": 0.38312,
+        "top": 0.46351,
+        "width": 0.25915,
+        "height": 0.07869
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "106594035": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "106789522": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "106892348": {
+    "boxes": [
+      {
+        "left": 0.2015,
+        "top": 0.22725,
+        "width": 0.58116,
+        "height": 0.54278
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "107629660": {
+    "boxes": [
+      {
+        "left": 0.38674,
+        "top": 0.41858,
+        "width": 0.28155,
+        "height": 0.22365
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "107636285": {
+    "boxes": [
+      {
+        "left": 0.4696585648148147,
+        "top": 0.3004128086419753,
+        "width": 0.16908998842592593,
+        "height": 0.3339602623456791
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "107846488": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "108261264": {
+    "boxes": [
+      {
+        "left": 0.18383,
+        "top": 0.3059,
+        "width": 0.44865,
+        "height": 0.22867
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "108269832": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "108333647": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "108335918": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "108338295": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "109093352": {
+    "boxes": [
+      {
+        "left": 0.34539,
+        "top": 0.30463,
+        "width": 0.32419,
+        "height": 0.37608
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "109184782": {
+    "boxes": [
+      {
+        "left": 0.35228,
+        "top": 0.34872,
+        "width": 0.26981,
+        "height": 0.35198
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "109860785": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "110322407": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "112552346": {
+    "boxes": [
+      {
+        "left": 0.26871,
+        "top": 0.27244,
+        "width": 0.40851,
+        "height": 0.44874
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "113143773": {
+    "boxes": [
+      {
+        "left": 0.095,
+        "top": 0.10984,
+        "width": 0.76708,
+        "height": 0.75675
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "113144012": {
+    "boxes": [
+      {
+        "left": 0.34971,
+        "top": 0.22344,
+        "width": 0.35068,
+        "height": 0.35764
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "113332789": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "116596376": {
+    "boxes": [
+      {
+        "left": 0.37421,
+        "top": 0.42742,
+        "width": 0.26392,
+        "height": 0.15695
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна толстоголовка (0,83)"
+  },
+  "118015555": {
+    "boxes": [
+      {
+        "left": 0.38275,
+        "top": 0.14094,
+        "width": 0.33364,
+        "height": 0.54737
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "119123278": {
+    "boxes": [
+      {
+        "left": 0.26537,
+        "top": 0.18339,
+        "width": 0.27506,
+        "height": 0.36305
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "120218198": {
+    "boxes": [
+      {
+        "left": 0.38127053594393,
+        "top": 0.3985409453995299,
+        "width": 0.21367733413772316,
+        "height": 0.25205185081103243
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "120235758": {
+    "boxes": [
+      {
+        "left": 0.44512,
+        "top": 0.41857,
+        "width": 0.10019,
+        "height": 0.12649
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна бабочка (0,80)"
+  },
+  "123838844": {
+    "boxes": [
+      {
+        "left": 0.35551,
+        "top": 0.23774,
+        "width": 0.22849,
+        "height": 0.31375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "123838873": {
+    "boxes": [
+      {
+        "left": 0.38388,
+        "top": 0.19596,
+        "width": 0.36506,
+        "height": 0.61257
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "127518193": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "130874865": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "135520261": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "135568688": {
+    "boxes": [
+      {
+        "left": 0.40581,
+        "top": 0.30374,
+        "width": 0.19795,
+        "height": 0.30378
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): монарх, обе разметки совпали (IoU 0,95), голоса 2+1 и 1+2"
+  },
+  "135920515": {
+    "boxes": [
+      {
+        "left": 0.23067,
+        "top": 0.24433,
+        "width": 0.5505,
+        "height": 0.56501
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "138010255": {
+    "boxes": [
+      {
+        "left": 0.23636,
+        "top": 0.19879,
+        "width": 0.43603,
+        "height": 0.67875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): парусник, обе разметки совпали (0,91)"
+  },
+  "138147193": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "141483368": {
+    "boxes": [
+      {
+        "left": 0.41857,
+        "top": 0.15148,
+        "width": 0.15875,
+        "height": 0.2768
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "143068420": {
+    "boxes": [
+      {
+        "left": 0.14638,
+        "top": 0.18191,
+        "width": 0.65751,
+        "height": 0.65376
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "150662707": {
+    "boxes": [
+      {
+        "left": 0.18944,
+        "top": 0.14903,
+        "width": 0.42,
+        "height": 0.59625
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "150797140": {
+    "boxes": [
+      {
+        "left": 0.15693,
+        "top": 0.15484,
+        "width": 0.48493,
+        "height": 0.65375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "151201608": {
+    "boxes": [
+      {
+        "left": 0.1272,
+        "top": 0.23818,
+        "width": 0.60435,
+        "height": 0.41057
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "151418135": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "156716796": {
+    "boxes": [
+      {
+        "left": 0.04305,
+        "top": 0.05167,
+        "width": 0.86479,
+        "height": 0.88125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "157327741": {
+    "boxes": [
+      {
+        "left": 0.23953977965664397,
+        "top": 0.4471587582898987,
+        "width": 0.4162746649024224,
+        "height": 0.23975628128052195
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "157474073": {
+    "boxes": [
+      {
+        "left": 0.37254,
+        "top": 0.36701,
+        "width": 0.30007,
+        "height": 0.18034
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "160652920": {
+    "boxes": [
+      {
+        "left": 0.40847,
+        "top": 0.42204,
+        "width": 0.12185,
+        "height": 0.11111
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "161820136": {
+    "boxes": [
+      {
+        "left": 0.20735,
+        "top": 0.37412,
+        "width": 0.5494,
+        "height": 0.2654
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "162383241": {
+    "boxes": [
+      {
+        "left": 0.30263,
+        "top": 0.23001,
+        "width": 0.52157,
+        "height": 0.43258
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "164170477": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "167192168": {
+    "boxes": [
+      {
+        "left": 0.61114,
+        "top": 0.24252,
+        "width": 0.32422,
+        "height": 0.40969
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "167910046": {
+    "boxes": [
+      {
+        "left": 0.43511,
+        "top": 0.30351,
+        "width": 0.27772,
+        "height": 0.19701
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "169102177": {
+    "boxes": [
+      {
+        "left": 0.14887,
+        "top": 0.088,
+        "width": 0.71156,
+        "height": 0.87125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "169976305": {
+    "boxes": [
+      {
+        "left": 0.27288,
+        "top": 0.48259,
+        "width": 0.43766,
+        "height": 0.32589
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "169978894": {
+    "boxes": [
+      {
+        "left": 0.10231,
+        "top": 0.06175,
+        "width": 0.7998,
+        "height": 0.7
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "170843265": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "175313575": {
+    "boxes": [
+      {
+        "left": 0.10366,
+        "top": 0.02524,
+        "width": 0.80476,
+        "height": 0.9125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "175425742": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "175901144": {
+    "boxes": [
+      {
+        "left": 0.18096,
+        "top": 0.04063,
+        "width": 0.60702,
+        "height": 0.82
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "177533731": {
+    "boxes": [
+      {
+        "left": 0.43431,
+        "top": 0.39429,
+        "width": 0.09321,
+        "height": 0.13239
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "177757541": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "179236621": {
+    "boxes": [
+      {
+        "left": 0.2745,
+        "top": 0.33255,
+        "width": 0.55075,
+        "height": 0.38335
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "184464478": {
+    "boxes": [
+      {
+        "left": 0.36176,
+        "top": 0.36901,
+        "width": 0.16809,
+        "height": 0.19069
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "185654855": {
+    "boxes": [
+      {
+        "left": 0.30839,
+        "top": 0.10899,
+        "width": 0.46704,
+        "height": 0.55625
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "186112871": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "186238873": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "190543607": {
+    "boxes": [
+      {
+        "left": 0.42332,
+        "top": 0.26916,
+        "width": 0.18819,
+        "height": 0.38556
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "191170656": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "192518839": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "198028573": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "202915409": {
+    "boxes": [
+      {
+        "left": 0.20285,
+        "top": 0.01652,
+        "width": 0.645,
+        "height": 0.92
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "202916119": {
+    "boxes": [
+      {
+        "left": 0.01511,
+        "top": 0.00884,
+        "width": 0.96215,
+        "height": 0.97528
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "204860025": {
+    "boxes": [
+      {
+        "left": 0.27986,
+        "top": 0.36896,
+        "width": 0.38646,
+        "height": 0.28844
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "206106043": {
+    "boxes": [
+      {
+        "left": 0.13533,
+        "top": 0.00348,
+        "width": 0.79053,
+        "height": 0.9925
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "209252184": {
+    "boxes": [
+      {
+        "left": 0.3437903968116577,
+        "top": 0.3327606717920838,
+        "width": 0.2541851425387496,
+        "height": 0.30453157317653345
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "213149819": {
+    "boxes": [
+      {
+        "left": 0.15587,
+        "top": 0.35455,
+        "width": 0.7119,
+        "height": 0.48556
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "215516280": {
+    "boxes": [
+      {
+        "left": 0.16996,
+        "top": 0.16058,
+        "width": 0.63802,
+        "height": 0.61125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "217121675": {
+    "boxes": [
+      {
+        "left": 0.20316,
+        "top": 0.22866,
+        "width": 0.70104,
+        "height": 0.67501
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "218230684": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "218230810": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "218767447": {
+    "boxes": [
+      {
+        "left": 0.37775,
+        "top": 0.15953,
+        "width": 0.53438,
+        "height": 0.75125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "220005545": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "220119482": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): злак и муха-ктырь; «не загрузилась» у одного, у двух других открылась"
+  },
+  "224599051": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): пчёлы-плотники"
+  },
+  "227779551": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "228480733": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "232473791": {
+    "boxes": [
+      {
+        "left": 0.25742,
+        "top": 0.15096,
+        "width": 0.5551,
+        "height": 0.71375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "234533051": {
+    "boxes": [
+      {
+        "left": 0.10401885363520402,
+        "top": 0.19005102040816324,
+        "width": 0.425888372927296,
+        "height": 0.4056122448979592
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "238254240": {
+    "boxes": [
+      {
+        "left": 0.13296,
+        "top": 0.02471,
+        "width": 0.58841,
+        "height": 0.92094
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "240419495": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "243315868": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "244067479": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "244419798": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "244447500": {
+    "boxes": [
+      {
+        "left": 0.21158,
+        "top": 0.31211,
+        "width": 0.64702,
+        "height": 0.38644
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "245579243": {
+    "boxes": [
+      {
+        "left": 0.08633,
+        "top": 0.2005,
+        "width": 0.63,
+        "height": 0.6
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "245655226": {
+    "boxes": [
+      {
+        "left": 0.26208,
+        "top": 0.1814,
+        "width": 0.39886,
+        "height": 0.59448
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "247243655": {
+    "boxes": [
+      {
+        "left": 0.09006934516131877,
+        "top": 0.1759166717529297,
+        "width": 0.7933959960937499,
+        "height": 0.5824999999999999
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "247850137": {
+    "boxes": [
+      {
+        "left": 0.3575,
+        "top": 0.33228,
+        "width": 0.257,
+        "height": 0.41595
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "247850234": {
+    "boxes": [
+      {
+        "left": 0.23193,
+        "top": 0.13398,
+        "width": 0.68906,
+        "height": 0.66625
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "247879215": {
+    "boxes": [
+      {
+        "left": 0.08333333333333333,
+        "top": 0.2780612244897959,
+        "width": 0.7874149659863946,
+        "height": 0.4043367346938776
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "249451905": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "250066315": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "252369998": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "254685905": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "255323139": {
+    "boxes": [
+      {
+        "left": 0.16062,
+        "top": 0.16622,
+        "width": 0.6769,
+        "height": 0.56865
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "255325660": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "255923312": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "2560426": {
+    "boxes": [
+      {
+        "left": 0.38706,
+        "top": 0.20868,
+        "width": 0.3229,
+        "height": 0.59
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "257188006": {
+    "boxes": [
+      {
+        "left": 0.47079,
+        "top": 0.3214,
+        "width": 0.16848,
+        "height": 0.32064
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "260047242": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "260378624": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): ручейник Mystacides (не чешуекрылое), похож на моль"
+  },
+  "2604996": {
+    "boxes": [
+      {
+        "left": 0.307,
+        "top": 0.2772,
+        "width": 0.39483,
+        "height": 0.5625
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "2605055": {
+    "boxes": [
+      {
+        "left": 0.09237,
+        "top": 0.17346,
+        "width": 0.70312,
+        "height": 0.67375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "261939378": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "264104765": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "267700011": {
+    "boxes": [
+      {
+        "left": 0.47052,
+        "top": 0.43624,
+        "width": 0.23006,
+        "height": 0.17046
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна бабочка (0,82)"
+  },
+  "269635974": {
+    "boxes": [
+      {
+        "left": 0.08139,
+        "top": 0.08785,
+        "width": 0.80098,
+        "height": 0.75175
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "278542044": {
+    "boxes": [
+      {
+        "left": 0.07563,
+        "top": 0.061,
+        "width": 0.77755,
+        "height": 0.86875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "278559835": {
+    "boxes": [
+      {
+        "left": 0.10474,
+        "top": 0.19388,
+        "width": 0.74312,
+        "height": 0.64253
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "279224536": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "279742970": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "280453264": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "281060319": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "282427185": {
+    "boxes": [
+      {
+        "left": 0.41671,
+        "top": 0.41057,
+        "width": 0.22827,
+        "height": 0.26716
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "284130558": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "284871454": {
+    "boxes": [
+      {
+        "left": 0.17402,
+        "top": 0.20324,
+        "width": 0.70125,
+        "height": 0.5225
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "286613882": {
+    "boxes": [
+      {
+        "left": 0.10654006799086584,
+        "top": 0.3068167999916467,
+        "width": 0.8934599320091342,
+        "height": 0.5459518637534491
+      },
+      {
+        "left": 0.2597132004261715,
+        "top": 0.05460646641854376,
+        "width": 0.5253349451512855,
+        "height": 0.3295733382317026
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "294889887": {
+    "boxes": [
+      {
+        "left": 0.2969245114572182,
+        "top": 0.2187499933624266,
+        "width": 0.4073716860159816,
+        "height": 0.46968751433372535
+      },
+      {
+        "left": 0.5137513765947568,
+        "top": 0.24968749430656417,
+        "width": 0.1924221097540928,
+        "height": 0.4584375139904026
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "303164565": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "309054552": {
+    "boxes": [
+      {
+        "left": 0.39828,
+        "top": 0.3934,
+        "width": 0.17653,
+        "height": 0.25136
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "310630068": {
+    "boxes": [
+      {
+        "left": 0.440070799389835,
+        "top": 0.37168342034253715,
+        "width": 0.12079392563235286,
+        "height": 0.14759475218658896
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "310682239": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "313755613": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "313755722": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "315614825": {
+    "boxes": [
+      {
+        "left": 0.12983,
+        "top": 0.21475,
+        "width": 0.81342,
+        "height": 0.65
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "316687974": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "317365480": {
+    "boxes": [
+      {
+        "left": 0.06122,
+        "top": 0.32546,
+        "width": 0.59,
+        "height": 0.47875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "318819858": {
+    "boxes": [
+      {
+        "left": 0.44291,
+        "top": 0.3372,
+        "width": 0.12002,
+        "height": 0.1997
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "318825860": {
+    "boxes": [
+      {
+        "left": 0.25137,
+        "top": 0.30071,
+        "width": 0.32906,
+        "height": 0.3125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "320637046": {
+    "boxes": [
+      {
+        "left": 0.29628,
+        "top": 0.30859,
+        "width": 0.46361,
+        "height": 0.41394
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "325241258": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "327719751": {
+    "boxes": [
+      {
+        "left": 0.15725589956275718,
+        "top": 0.19754499019418723,
+        "width": 0.5881645715449246,
+        "height": 0.4693804454411008
+      },
+      {
+        "left": 0.28493575317215375,
+        "top": 0.47383582095550414,
+        "width": 0.5525816615226338,
+        "height": 0.3014081790123456
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (take_B): пара данаид: у первой лишняя третья рамка, вторая — две бабочки"
+  },
+  "329485177": {
+    "boxes": [
+      {
+        "left": 0.03068,
+        "top": 0.14813,
+        "width": 0.9315,
+        "height": 0.79875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "345651028": {
+    "boxes": [
+      {
+        "left": 0.4222465166476716,
+        "top": 0.19149643186439935,
+        "width": 0.37653586999603655,
+        "height": 0.5072086801426874
+      },
+      {
+        "left": 0.23645579132067981,
+        "top": 0.48504577788104625,
+        "width": 0.4236028537455411,
+        "height": 0.2675386444708681
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "345705027": {
+    "boxes": [
+      {
+        "left": 0.22114,
+        "top": 0.28022,
+        "width": 0.54854,
+        "height": 0.55264
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "348278699": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "349371947": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "352575645": {
+    "boxes": [
+      {
+        "left": 0.33312,
+        "top": 0.35548,
+        "width": 0.21859,
+        "height": 0.31889
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "353376247": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "353404817": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "353901773": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): пчела и журчалка на астре"
+  },
+  "354339823": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "357181377": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "357927790": {
+    "boxes": [
+      {
+        "left": 0.06989,
+        "top": 0.10667,
+        "width": 0.83666,
+        "height": 0.75625
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "358059733": {
+    "boxes": [
+      {
+        "left": 0.04931,
+        "top": 0.13304,
+        "width": 0.45224,
+        "height": 0.83352
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "358063682": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "359763685": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "364170845": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "364700777": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "364873912": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "367623": {
+    "boxes": [
+      {
+        "left": 0.31039,
+        "top": 0.0,
+        "width": 0.15183,
+        "height": 0.19614
+      },
+      {
+        "left": 0.55847,
+        "top": 0.04358,
+        "width": 0.1069,
+        "height": 0.18109
+      },
+      {
+        "left": 0.09961,
+        "top": 0.31699,
+        "width": 0.21958,
+        "height": 0.13332
+      },
+      {
+        "left": 0.48951,
+        "top": 0.17352,
+        "width": 0.08937,
+        "height": 0.13963
+      },
+      {
+        "left": 0.49184,
+        "top": 0.29345,
+        "width": 0.18302,
+        "height": 0.16953
+      },
+      {
+        "left": 0.43902,
+        "top": 0.38409,
+        "width": 0.15572,
+        "height": 0.13091
+      },
+      {
+        "left": 0.61053,
+        "top": 0.26461,
+        "width": 0.13112,
+        "height": 0.25425
+      },
+      {
+        "left": 0.20942,
+        "top": 0.33962,
+        "width": 0.16047,
+        "height": 0.2299
+      },
+      {
+        "left": 0.34074,
+        "top": 0.29156,
+        "width": 0.14715,
+        "height": 0.30319
+      },
+      {
+        "left": 0.66252,
+        "top": 0.42925,
+        "width": 0.17817,
+        "height": 0.17092
+      },
+      {
+        "left": 0.00181,
+        "top": 0.41392,
+        "width": 0.0271,
+        "height": 0.1452
+      },
+      {
+        "left": 0.0009,
+        "top": 0.57184,
+        "width": 0.18638,
+        "height": 0.20893
+      },
+      {
+        "left": 0.7983,
+        "top": 0.3859,
+        "width": 0.19841,
+        "height": 0.17455
+      },
+      {
+        "left": 0.77644,
+        "top": 0.34007,
+        "width": 0.12703,
+        "height": 0.10838
+      },
+      {
+        "left": 0.5114,
+        "top": 0.57063,
+        "width": 0.19874,
+        "height": 0.214
+      },
+      {
+        "left": 0.35626,
+        "top": 0.80042,
+        "width": 0.10551,
+        "height": 0.17132
+      },
+      {
+        "left": 0.57005,
+        "top": 0.67069,
+        "width": 0.16272,
+        "height": 0.16939
+      },
+      {
+        "left": 0.68616,
+        "top": 0.73532,
+        "width": 0.09359,
+        "height": 0.21279
+      },
+      {
+        "left": 0.79354,
+        "top": 0.71681,
+        "width": 0.04547,
+        "height": 0.14355
+      },
+      {
+        "left": 0.75819,
+        "top": 0.84575,
+        "width": 0.185,
+        "height": 0.13901
+      },
+      {
+        "left": 0.0009,
+        "top": 0.80476,
+        "width": 0.0528,
+        "height": 0.12756
+      },
+      {
+        "left": 0.017607431515422156,
+        "top": 0.23948429937740112,
+        "width": 0.14464583775521717,
+        "height": 0.1911569984985284
+      },
+      {
+        "left": 0.18021582428599314,
+        "top": 0.10321396381409374,
+        "width": 0.1257378851074763,
+        "height": 0.3028229679184608
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05+A): 23 белянки: 21 рамка совпала, плюс 2 рамки первой без пары"
+  },
+  "379661727": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "380087780": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "386406940": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "391254633": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "397124387": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "400543853": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "401560651": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "409602690": {
+    "boxes": [
+      {
+        "left": 0.51678,
+        "top": 0.24425,
+        "width": 0.18266,
+        "height": 0.47666
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "410430109": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "410695444": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): злак на асфальте"
+  },
+  "411174727": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "417706725": {
+    "boxes": [
+      {
+        "left": 0.34905,
+        "top": 0.45342,
+        "width": 0.15146,
+        "height": 0.06902
+      },
+      {
+        "left": 0.4546,
+        "top": 0.49361,
+        "width": 0.11647,
+        "height": 0.05365
+      },
+      {
+        "left": 0.34839,
+        "top": 0.52453,
+        "width": 0.10795,
+        "height": 0.08755
+      },
+      {
+        "left": 0.65512,
+        "top": 0.57602,
+        "width": 0.17264,
+        "height": 0.11586
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): 4 бабочки, все совпали при 0,5"
+  },
+  "419938648": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "420423115": {
+    "boxes": [
+      {
+        "left": 0.446433870967742,
+        "top": 0.42000000000000004,
+        "width": 0.11575013166556947,
+        "height": 0.20882653061224477
+      },
+      {
+        "left": 0.3840429558920342,
+        "top": 0.2729591836734694,
+        "width": 0.14712146148782101,
+        "height": 0.1926020408163266
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "423909719": {
+    "boxes": [
+      {
+        "left": 0.3051020408163265,
+        "top": 0.23852040816326525,
+        "width": 0.315688775510204,
+        "height": 0.4119897959183674
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "424733312": {
+    "boxes": [
+      {
+        "left": 0.46006,
+        "top": 0.4206,
+        "width": 0.14418,
+        "height": 0.22201
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "425857766": {
+    "boxes": [
+      {
+        "left": 0.43493,
+        "top": 0.44382,
+        "width": 0.11167,
+        "height": 0.1262
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна голубянка (0,91)"
+  },
+  "429383609": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "429671774": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "429690441": {
+    "boxes": [
+      {
+        "left": 0.49931,
+        "top": 0.31024,
+        "width": 0.5,
+        "height": 0.575
+      },
+      {
+        "left": 0.15005,
+        "top": 0.05024,
+        "width": 0.64567,
+        "height": 0.61
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "430917226": {
+    "boxes": [
+      {
+        "left": 0.32404,
+        "top": 0.34625,
+        "width": 0.28653,
+        "height": 0.28207
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "433046177": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "435120153": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "435138837": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "436430448": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "438506485": {
+    "boxes": [
+      {
+        "left": 0.32882,
+        "top": 0.22722,
+        "width": 0.33017,
+        "height": 0.46444
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "438506486": {
+    "boxes": [
+      {
+        "left": 0.30453,
+        "top": 0.23464,
+        "width": 0.34048,
+        "height": 0.45567
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "438506512": {
+    "boxes": [
+      {
+        "left": 0.38991,
+        "top": 0.32319,
+        "width": 0.25944,
+        "height": 0.4513
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "438937471": {
+    "boxes": [
+      {
+        "left": 0.52153,
+        "top": 0.31525,
+        "width": 0.34324,
+        "height": 0.50277
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "439945209": {
+    "boxes": [
+      {
+        "left": 0,
+        "top": 0.5263194444444445,
+        "width": 0.2846527099609375,
+        "height": 0.25
+      },
+      {
+        "left": 0.4154078165690104,
+        "top": 0.15479166666666663,
+        "width": 0.25596682333141973,
+        "height": 0.40768028804361545
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (take_B): вторая обвела и обрезанное размытое крыло второй бабочки у края — по инструкции верно"
+  },
+  "441982655": {
+    "boxes": [
+      {
+        "left": 0.31456,
+        "top": 0.21363,
+        "width": 0.68544,
+        "height": 0.47178
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "441985073": {
+    "boxes": [
+      {
+        "left": 0.37863,
+        "top": 0.22304,
+        "width": 0.29239,
+        "height": 0.47426
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "441987206": {
+    "boxes": [
+      {
+        "left": 0.34654962141842605,
+        "top": 0.3882871720116618,
+        "width": 0.4059846858680679,
+        "height": 0.3361880466472303
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "446301802": {
+    "boxes": [
+      {
+        "left": 0.44034,
+        "top": 0.23495,
+        "width": 0.32401,
+        "height": 0.28757
+      },
+      {
+        "left": 0.21342,
+        "top": 0.41804,
+        "width": 0.55943,
+        "height": 0.26314
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): 2 бабочки (0,88 / 0,96)"
+  },
+  "446410525": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "450241672": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "450371128": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "450737582": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "457740978": {
+    "boxes": [
+      {
+        "left": 0.36712,
+        "top": 0.27474,
+        "width": 0.33879,
+        "height": 0.46845
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "457909997": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "459236280": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "459646151": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "459646320": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "461349791": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "465056092": {
+    "boxes": [
+      {
+        "left": 0.23662,
+        "top": 0.14523,
+        "width": 0.45563,
+        "height": 0.74125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "466290412": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "466936869": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "467789016": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "469260436": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "470155448": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "471163563": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "47185921": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "472625885": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "473451344": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "476960339": {
+    "boxes": [
+      {
+        "left": 0.2375,
+        "top": 0.16,
+        "width": 0.575,
+        "height": 0.5775
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "477164057": {
+    "boxes": [
+      {
+        "left": 0.25857,
+        "top": 0.20519,
+        "width": 0.49881,
+        "height": 0.42939
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "479152879": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "479789795": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "482971300": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "485754985": {
+    "boxes": [
+      {
+        "left": 0.32694,
+        "top": 0.19024,
+        "width": 0.34075,
+        "height": 0.44875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "488684472": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "488750738": {
+    "boxes": [
+      {
+        "left": 0.33194,
+        "top": 0.06461,
+        "width": 0.36832,
+        "height": 0.53518
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "491746137": {
+    "boxes": [
+      {
+        "left": 0.31365,
+        "top": 0.50281,
+        "width": 0.19525,
+        "height": 0.11581
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "498237565": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "498936553": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "503238238": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "511637315": {
+    "boxes": [
+      {
+        "left": 0.42884,
+        "top": 0.37936,
+        "width": 0.27244,
+        "height": 0.24825
+      },
+      {
+        "left": 0.29041,
+        "top": 0.5241,
+        "width": 0.29449,
+        "height": 0.23473
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): 2 бабочки (0,79 / 0,89)"
+  },
+  "514219583": {
+    "boxes": [
+      {
+        "left": 0.51126,
+        "top": 0.24407,
+        "width": 0.18784,
+        "height": 0.35902
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "521721709": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "52856906": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): ручейник Limnephilus"
+  },
+  "529335364": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "529670009": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "534856738": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "536770983": {
+    "boxes": [
+      {
+        "left": 0.14295,
+        "top": 0.29079,
+        "width": 0.73389,
+        "height": 0.44375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "536771845": {
+    "boxes": [
+      {
+        "left": 0.06212290502793297,
+        "top": 0.2556917317708333,
+        "width": 0.912641869798941,
+        "height": 0.6138916015625
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "541952197": {
+    "boxes": [
+      {
+        "left": 0.379737609329446,
+        "top": 0.2266763848396501,
+        "width": 0.49319727891156473,
+        "height": 0.2842565597667638
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "544238351": {
+    "boxes": [
+      {
+        "left": 0.41856,
+        "top": 0.15657,
+        "width": 0.52303,
+        "height": 0.51456
+      },
+      {
+        "left": 0.24307,
+        "top": 0.52957,
+        "width": 0.56779,
+        "height": 0.4385
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): 2 червонца; у второй лишняя крошечная рамка внизу — отброшена"
+  },
+  "544908995": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): сетчатокрылое Drepanepteryx (похоже на сухой лист / моль)"
+  },
+  "547817048": {
+    "boxes": [
+      {
+        "left": 0.23338,
+        "top": 0.26755,
+        "width": 0.33535,
+        "height": 0.23902
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "548367259": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "549700164": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "552117405": {
+    "boxes": [
+      {
+        "left": 0.16504029304029305,
+        "top": 0.225,
+        "width": 0.6339047619047617,
+        "height": 0.495
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "552934718": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "553471505": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "554735363": {
+    "boxes": [
+      {
+        "left": 0.29036,
+        "top": 0.30935,
+        "width": 0.21868,
+        "height": 0.30058
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "555270094": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "557683818": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "557781349": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "558101108": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "558682201": {
+    "boxes": [
+      {
+        "left": 0.23609,
+        "top": 0.14596,
+        "width": 0.549,
+        "height": 0.735
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "560763637": {
+    "boxes": [
+      {
+        "left": 0.46853,
+        "top": 0.49775,
+        "width": 0.10618,
+        "height": 0.09019
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна бабочка (0,76)"
+  },
+  "561927174": {
+    "boxes": [
+      {
+        "left": 0.04521,
+        "top": 0.31827,
+        "width": 0.82049,
+        "height": 0.36718
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "565111981": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "567375323": {
+    "boxes": [
+      {
+        "left": 0.20159,
+        "top": 0.16138,
+        "width": 0.36969,
+        "height": 0.7489
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "568790341": {
+    "boxes": [
+      {
+        "left": 0.20706,
+        "top": 0.27545,
+        "width": 0.35396,
+        "height": 0.57178
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "569363181": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "573258251": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "576852768": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "578491096": {
+    "boxes": [
+      {
+        "left": 0.26167,
+        "top": 0.04471,
+        "width": 0.43438,
+        "height": 0.5075
+      },
+      {
+        "left": 0.55668,
+        "top": 0.46428,
+        "width": 0.19836,
+        "height": 0.31738
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "580638": {
+    "boxes": [
+      {
+        "left": 0.18581255803156918,
+        "top": 0,
+        "width": 0.15933363162637024,
+        "height": 0.09358430587705757
+      },
+      {
+        "left": 0,
+        "top": 0.028402777777777735,
+        "width": 0.09808391991786733,
+        "height": 0.19466145833333337
+      },
+      {
+        "left": 0,
+        "top": 0.3652083333333333,
+        "width": 0.10273262921696073,
+        "height": 0.20659722222222215
+      },
+      {
+        "left": 0.1528670690188796,
+        "top": 0.34437500000000004,
+        "width": 0.16902468276075522,
+        "height": 0.19965277777777762
+      },
+      {
+        "left": 0.3261889894769421,
+        "top": 0.22631944444444443,
+        "width": 0.18621363354998444,
+        "height": 0.22569444444444445
+      },
+      {
+        "left": 0.38205307954193746,
+        "top": 0.3877777777777777,
+        "width": 0.10430835073627392,
+        "height": 0.19419941075817343
+      },
+      {
+        "left": 0.4980544119856225,
+        "top": 0.33560042183749145,
+        "width": 0.10523683536669948,
+        "height": 0.18968830710412382
+      },
+      {
+        "left": 0.5502230996033026,
+        "top": 0.2684793769915755,
+        "width": 0.1477760835469325,
+        "height": 0.20557170577823625
+      },
+      {
+        "left": 0.6356718120805372,
+        "top": 0.18079732063757428,
+        "width": 0.2194682720467922,
+        "height": 0.17115554146751408
+      },
+      {
+        "left": 0.5259376760571411,
+        "top": 0.21350220117276802,
+        "width": 0.18895740444295506,
+        "height": 0.14279592974546912
+      },
+      {
+        "left": 0.5286360564511591,
+        "top": 0.12519902372774488,
+        "width": 0.1575314239793264,
+        "height": 0.1787994556030183
+      },
+      {
+        "left": 0.6717094370655304,
+        "top": 0.7175917347208562,
+        "width": 0.23090473338493678,
+        "height": 0.2557669174076167
+      },
+      {
+        "left": 0.4515088966189681,
+        "top": 0.8343548926678117,
+        "width": 0.10704192938374568,
+        "height": 0.164951127893318
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "582728429": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "586175359": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "586635671": {
+    "boxes": [
+      {
+        "left": 0.05136,
+        "top": 0.09541,
+        "width": 0.86023,
+        "height": 0.86875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "587924148": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "591241767": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "592928293": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "594415460": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "595422202": {
+    "boxes": [
+      {
+        "left": 0.22832,
+        "top": 0.4158,
+        "width": 0.33837,
+        "height": 0.25941
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "595595950": {
+    "boxes": [
+      {
+        "left": 0.1930098570040261,
+        "top": 0.39965118700541435,
+        "width": 0.27419130917673196,
+        "height": 0.23948354852144937
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": false,
+    "exclude_reason": "две разметки расходятся (IoU 0,64), граница бабочки неясна",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (take_B): Battus philenor: вторая обвела только бабочку, первая захватила белёсое под ней (спорно)"
+  },
+  "596962489": {
+    "boxes": [
+      {
+        "left": 0.22202,
+        "top": 0.43091,
+        "width": 0.49836,
+        "height": 0.28286
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "597052494": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "597419379": {
+    "boxes": [
+      {
+        "left": 0.21542475776126804,
+        "top": 0.6530801056314537,
+        "width": 0.03919941498129312,
+        "height": 0.08599079477274596
+      },
+      {
+        "left": 0.26275990038018804,
+        "top": 0.6003760701255771,
+        "width": 0.09171183882415751,
+        "height": 0.09708638119503565
+      },
+      {
+        "left": 0.16143311071156247,
+        "top": 0.6149390273048325,
+        "width": 0.04363708460181687,
+        "height": 0.06726699268513181
+      },
+      {
+        "left": 0.2043305837099587,
+        "top": 0.6066173374881151,
+        "width": 0.061387763083911806,
+        "height": 0.07281478589627677
+      },
+      {
+        "left": 0.3359814491188299,
+        "top": 0.5920543803088597,
+        "width": 0.051033200636023124,
+        "height": 0.08737774307553214
+      },
+      {
+        "left": 0.4306517343566698,
+        "top": 0.6045369150339357,
+        "width": 0.028105240929983732,
+        "height": 0.08252342401578039
+      },
+      {
+        "left": 0.461715421700336,
+        "top": 0.5802653197351768,
+        "width": 0.05325203544628504,
+        "height": 0.07212131174488368
+      },
+      {
+        "left": 0.7057872508291422,
+        "top": 0.5920543803088597,
+        "width": 0.06878387911811812,
+        "height": 0.08460384646995978
+      },
+      {
+        "left": 0.6436598761418096,
+        "top": 0.5740240523726388,
+        "width": 0.03624096856761072,
+        "height": 0.07558868250184925
+      },
+      {
+        "left": 0.6732443402786347,
+        "top": 0.5719436299184595,
+        "width": 0.054731258653126114,
+        "height": 0.07836257910742173
+      },
+      {
+        "left": 0.5807928898510566,
+        "top": 0.5712501557670663,
+        "width": 0.06582543270443553,
+        "height": 0.08321689816717348
+      },
+      {
+        "left": 0.5911474522989454,
+        "top": 0.5788783714323905,
+        "width": 0.019229901688936235,
+        "height": 0.07628215665324256
+      },
+      {
+        "left": 0.5549064837313347,
+        "top": 0.5539133019822385,
+        "width": 0.03328252215392824,
+        "height": 0.07697563080463554
+      },
+      {
+        "left": 0.7545705798707374,
+        "top": 0.5470447006194394,
+        "width": 0.04791965714198165,
+        "height": 0.06760169946742733
+      },
+      {
+        "left": 0.792378749725879,
+        "top": 0.5293198647834677,
+        "width": 0.03341187103477605,
+        "height": 0.06925052140565713
+      },
+      {
+        "left": 0.7422609431737146,
+        "top": 0.5144804673393982,
+        "width": 0.016266305635351586,
+        "height": 0.07914345303503689
+      },
+      {
+        "left": 0.6749975712221257,
+        "top": 0.5190147276695305,
+        "width": 0.06506522254140623,
+        "height": 0.07048713785932981
+      },
+      {
+        "left": 0.664446454053249,
+        "top": 0.4740843298527648,
+        "width": 0.05099706631623735,
+        "height": 0.06100641171450755
+      },
+      {
+        "left": 0.6393875507771668,
+        "top": 0.43698583624259124,
+        "width": 0.03165335150663018,
+        "height": 0.06018200074539265
+      },
+      {
+        "left": 0.5919075235172219,
+        "top": 0.4687256585535175,
+        "width": 0.046161137613835446,
+        "height": 0.05523553493070282
+      },
+      {
+        "left": 0.5905886338711123,
+        "top": 0.4328637813970165,
+        "width": 0.04000631926532405,
+        "height": 0.042044959424863304
+      },
+      {
+        "left": 0.5901490039890755,
+        "top": 0.38875779454936565,
+        "width": 0.020222974573680386,
+        "height": 0.05235009653880052
+      },
+      {
+        "left": 0.35432287603458146,
+        "top": 0.41390053974438457,
+        "width": 0.05319704597211172,
+        "height": 0.06090437100849466
+      },
+      {
+        "left": 0.3078454569221049,
+        "top": 0.35562135714142856,
+        "width": 0.02631853853357108,
+        "height": 0.04252805216972466
+      },
+      {
+        "left": 0.20593111621763832,
+        "top": 0.34932090496813595,
+        "width": 0.027438476343510237,
+        "height": 0.03675263767753989
+      },
+      {
+        "left": 0.1740128886343713,
+        "top": 0.3624468469958288,
+        "width": 0.032478196488236605,
+        "height": 0.037277675358647566
+      },
+      {
+        "left": 0.2434490328506013,
+        "top": 0.33882015134598176,
+        "width": 0.01567912933914875,
+        "height": 0.0441031652130478
+      },
+      {
+        "left": 0.36832209865882143,
+        "top": 0.32096887018831954,
+        "width": 0.025198600723631837,
+        "height": 0.04830346666190949
+      },
+      {
+        "left": 0.3940806682874229,
+        "top": 0.31676856873945786,
+        "width": 0.029678351963388583,
+        "height": 0.053028805791878963
+      },
+      {
+        "left": 0.22335122748248207,
+        "top": 0.4685260483957575,
+        "width": 0.03953875292408329,
+        "height": 0.04884820685515845
+      },
+      {
+        "left": 0.40476432913415855,
+        "top": 0.5356923328216002,
+        "width": 0.04698134170979312,
+        "height": 0.06978315265022628
+      },
+      {
+        "left": 0.3777849447859605,
+        "top": 0.4986200329761676,
+        "width": 0.03209616413837357,
+        "height": 0.05713495623237269
+      },
+      {
+        "left": 0.31219713111189284,
+        "top": 0.4933862965274007,
+        "width": 0.04791166530800689,
+        "height": 0.0562626668242448
+      },
+      {
+        "left": 0.3317339266743811,
+        "top": 0.5165019658427881,
+        "width": 0.05535425409371664,
+        "height": 0.07327231028273751
+      },
+      {
+        "left": 0.2410273758485428,
+        "top": 0.5500851080557094,
+        "width": 0.04232972371872454,
+        "height": 0.05931567975269236
+      },
+      {
+        "left": 0.20381443191999382,
+        "top": 0.5618610150654352,
+        "width": 0.03860842932586958,
+        "height": 0.046231338630774776
+      },
+      {
+        "left": 0.17125310598251342,
+        "top": 0.5287140175565778,
+        "width": 0.04930715070532746,
+        "height": 0.06542170560958704
+      },
+      {
+        "left": 0.18334731275929184,
+        "top": 0.5191188340671716,
+        "width": 0.01721098656695394,
+        "height": 0.03183856339666569
+      },
+      {
+        "left": 0.21823444769230657,
+        "top": 0.506906782353382,
+        "width": 0.02139744275891567,
+        "height": 0.03314699750885741
+      },
+      {
+        "left": 0.22242090388426833,
+        "top": 0.5117043740980851,
+        "width": 0.059075548486571594,
+        "height": 0.0423060362941996
+      },
+      {
+        "left": 0.29126485015208403,
+        "top": 0.5413622139744312,
+        "width": 0.03953875292408332,
+        "height": 0.06324098208926754
+      },
+      {
+        "left": 0.26568095120120655,
+        "top": 0.5308947410768973,
+        "width": 0.02558389895087748,
+        "height": 0.06673013972177888
+      },
+      {
+        "left": 0.2754493489824507,
+        "top": 0.43712362970315577,
+        "width": 0.060471033883892134,
+        "height": 0.06978315265022628
+      },
+      {
+        "left": 0.41552070291970267,
+        "top": 0.4548227048867873,
+        "width": 0.03100711988866206,
+        "height": 0.04614742161599544
+      },
+      {
+        "left": 0.44357476377134925,
+        "top": 0.4622062923453466,
+        "width": 0.03297582591333903,
+        "height": 0.04014825680591594
+      },
+      {
+        "left": 0.496729826437627,
+        "top": 0.44605469477974813,
+        "width": 0.03986629699970834,
+        "height": 0.04522447318367562
+      },
+      {
+        "left": 0.5513614186224125,
+        "top": 0.43082604564646965,
+        "width": 0.02608535482696961,
+        "height": 0.05260806064223483
+      },
+      {
+        "left": 0.5375804764496739,
+        "top": 0.45020796272518776,
+        "width": 0.01525747169124636,
+        "height": 0.034149091995836656
+      },
+      {
+        "left": 0.41453634990736415,
+        "top": 0.5023545491512625,
+        "width": 0.034944531938015944,
+        "height": 0.03138024669887696
+      },
+      {
+        "left": 0.6069773638195365,
+        "top": 0.5060463428805422,
+        "width": 0.05955335724647781,
+        "height": 0.04199415367055592
+      },
+      {
+        "left": 0.6222348355107828,
+        "top": 0.5365036411470991,
+        "width": 0.05217070965393933,
+        "height": 0.05399248329071471
+      },
+      {
+        "left": 0.5331508878941507,
+        "top": 0.5378880637955791,
+        "width": 0.04134282651821608,
+        "height": 0.03968678258975611
+      },
+      {
+        "left": 0.4878706493265807,
+        "top": 0.5669609394136562,
+        "width": 0.06398294580200098,
+        "height": 0.06137607074927398
+      },
+      {
+        "left": 0.4963867782166108,
+        "top": 0.48929768267124346,
+        "width": 0.04171803966348098,
+        "height": 0.03701264979732827
+      },
+      {
+        "left": 0.4533229953381789,
+        "top": 0.5019156314657871,
+        "width": 0.03723222894697764,
+        "height": 0.08285786375083715
+      },
+      {
+        "left": 0.5416934664532944,
+        "top": 0.48971828096439485,
+        "width": 0.06280135003104648,
+        "height": 0.07865188081932262
+      },
+      {
+        "left": 0.032689124769518185,
+        "top": 0.4409603212380329,
+        "width": 0.06197025475233768,
+        "height": 0.06640515431495392
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": false,
+    "exclude_reason": "скопление ~57 белянок: эталон по сути одного человека (второй обвёл 2), 16 % всех рамок",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (union): скопление лимонных белянок: первая обвела ~56 светлых, вторая 2 тёмных слева, которых нет у первой"
+  },
+  "597721622": {
+    "boxes": [
+      {
+        "left": 0.33313,
+        "top": 0.03948,
+        "width": 0.41102,
+        "height": 0.51722
+      },
+      {
+        "left": 0.43927,
+        "top": 0.41936,
+        "width": 0.30669,
+        "height": 0.56157
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): 2 парусника (0,77 / 0,96)"
+  },
+  "598659043": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "600281282": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "60053685": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): ручейник Psychoglypha"
+  },
+  "600559721": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "600581571": {
+    "boxes": [
+      {
+        "left": 0.17662,
+        "top": 0.13148,
+        "width": 0.55781,
+        "height": 0.705
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "601568597": {
+    "boxes": [
+      {
+        "left": 0.3957479310664304,
+        "top": 0.300583332379659,
+        "width": 0.21770906897363468,
+        "height": 0.3072916666666666
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "601568657": {
+    "boxes": [
+      {
+        "left": 0.40002,
+        "top": 0.34798,
+        "width": 0.10382,
+        "height": 0.08363
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "601686266": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "602794733": {
+    "boxes": [
+      {
+        "left": 0.2679573420125343,
+        "top": 0.3169364364727337,
+        "width": 0.5364678906340078,
+        "height": 0.5115685370602774
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "602794875": {
+    "boxes": [
+      {
+        "left": 0.10028,
+        "top": 0.12273,
+        "width": 0.78156,
+        "height": 0.7975
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "602794973": {
+    "boxes": [
+      {
+        "left": 0.17044,
+        "top": 0.29484,
+        "width": 0.40161,
+        "height": 0.45102
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "603743933": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "604322027": {
+    "boxes": [
+      {
+        "left": 0.00805,
+        "top": 0.1934,
+        "width": 0.9825,
+        "height": 0.52125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "607764422": {
+    "boxes": [
+      {
+        "left": 0.54213,
+        "top": 0.35668,
+        "width": 0.16682,
+        "height": 0.18616
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "608273701": {
+    "boxes": [
+      {
+        "left": 0.50924,
+        "top": 0.24431,
+        "width": 0.18353,
+        "height": 0.39157
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "609667374": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "613608103": {
+    "boxes": [
+      {
+        "left": 0.20677,
+        "top": 0.07719,
+        "width": 0.6647,
+        "height": 0.85127
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "613647144": {
+    "boxes": [
+      {
+        "left": 0.23212,
+        "top": 0.08223,
+        "width": 0.58031,
+        "height": 0.89375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "613649937": {
+    "boxes": [
+      {
+        "left": 0.17803,
+        "top": 0.05771,
+        "width": 0.62377,
+        "height": 0.82845
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "615248081": {
+    "boxes": [
+      {
+        "left": 0.36805,
+        "top": 0.19632,
+        "width": 0.29362,
+        "height": 0.54544
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "615248417": {
+    "boxes": [
+      {
+        "left": 0.4547083151148599,
+        "top": 0.3440702144599255,
+        "width": 0.13811168847260658,
+        "height": 0.1632181105681298
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "617695310": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "617717597": {
+    "boxes": [
+      {
+        "left": 0.28983,
+        "top": 0.35662,
+        "width": 0.31189,
+        "height": 0.16724
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "617717688": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "617719128": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "617766230": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "618971817": {
+    "boxes": [
+      {
+        "left": 0.193,
+        "top": 0.19925,
+        "width": 0.77,
+        "height": 0.76
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "618971986": {
+    "boxes": [
+      {
+        "left": 0.25958,
+        "top": 0.16141,
+        "width": 0.69638,
+        "height": 0.6602
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "618972114": {
+    "boxes": [
+      {
+        "left": 0.15844,
+        "top": 0.23125,
+        "width": 0.76125,
+        "height": 0.685
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "619290543": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "621601327": {
+    "boxes": [
+      {
+        "left": 0.3648,
+        "top": 0.40868,
+        "width": 0.1706,
+        "height": 0.24025
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна голубянка (0,82)"
+  },
+  "622270088": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "626463668": {
+    "boxes": [
+      {
+        "left": 0.38344,
+        "top": 0.44722,
+        "width": 0.08033,
+        "height": 0.08758
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "626869054": {
+    "boxes": [
+      {
+        "left": 0.27002,
+        "top": 0.25682,
+        "width": 0.50863,
+        "height": 0.51378
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "629464978": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "632243252": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "632390372": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "632410693": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "633435174": {
+    "boxes": [
+      {
+        "left": 0.12051,
+        "top": 0.29214,
+        "width": 0.24501,
+        "height": 0.51868
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "634313185": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "635645545": {
+    "boxes": [
+      {
+        "left": 0.14084,
+        "top": 0.2344,
+        "width": 0.61793,
+        "height": 0.62107
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): бабочка за мокрым стеклом (0,95)"
+  },
+  "636135822": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "638261900": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "641669577": {
+    "boxes": [
+      {
+        "left": 0.4165624967962504,
+        "top": 0.2755555558204651,
+        "width": 0.32312988281250005,
+        "height": 0.4025000000000001
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "643390091": {
+    "boxes": [
+      {
+        "left": 0.22842,
+        "top": 0.31153,
+        "width": 0.45414,
+        "height": 0.52125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "643800545": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "644435433": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "655480727": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "655493080": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "655682430": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "659803515": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "664658118": {
+    "boxes": [
+      {
+        "left": 0.28178,
+        "top": 0.08095,
+        "width": 0.55781,
+        "height": 0.79875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "670067996": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "671332675": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "671342077": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "671374809": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "672471957": {
+    "boxes": [
+      {
+        "left": 0.39021,
+        "top": 0.45318,
+        "width": 0.24204,
+        "height": 0.22394
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "67261268": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "674676325": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "674712449": {
+    "boxes": [
+      {
+        "left": 0.42206,
+        "top": 0.44224,
+        "width": 0.15324,
+        "height": 0.17965
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "674887224": {
+    "boxes": [
+      {
+        "left": 0.02501,
+        "top": 0.16648,
+        "width": 0.96008,
+        "height": 0.68
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "677497576": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "677833765": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "682871817": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "683283105": {
+    "boxes": [
+      {
+        "left": 0.24839,
+        "top": 0.28581,
+        "width": 0.71646,
+        "height": 0.36448
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "687933579": {
+    "boxes": [
+      {
+        "left": 0.043333333333333335,
+        "top": 0.3375,
+        "width": 0.8433333333333334,
+        "height": 0.6224999999999999
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "687965100": {
+    "boxes": [
+      {
+        "left": 0.33313,
+        "top": 0.33672,
+        "width": 0.31937,
+        "height": 0.36151
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна бабочка (0,84)"
+  },
+  "688118168": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "688173009": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "688498072": {
+    "boxes": [
+      {
+        "left": 0.4363,
+        "top": 0.47875,
+        "width": 0.07707,
+        "height": 0.14235
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна бабочка (0,76)"
+  },
+  "688582859": {
+    "boxes": [
+      {
+        "left": 0.41175,
+        "top": 0.47822,
+        "width": 0.22364,
+        "height": 0.10848
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "689972199": {
+    "boxes": [
+      {
+        "left": 0.35402,
+        "top": 0.22537,
+        "width": 0.35865,
+        "height": 0.38685
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "690028682": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "690102178": {
+    "boxes": [
+      {
+        "left": 0.23154,
+        "top": 0.33288,
+        "width": 0.46697,
+        "height": 0.40352
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "690102957": {
+    "boxes": [
+      {
+        "left": 0.30473,
+        "top": 0.33546,
+        "width": 0.25672,
+        "height": 0.31862
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "692094676": {
+    "boxes": [
+      {
+        "left": 0.38109,
+        "top": 0.31965,
+        "width": 0.3032,
+        "height": 0.20997
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "693128087": {
+    "boxes": [
+      {
+        "left": 0.24188,
+        "top": 0.03523,
+        "width": 0.61011,
+        "height": 0.8625
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "693217724": {
+    "boxes": [
+      {
+        "left": 0.20052,
+        "top": 0.12595,
+        "width": 0.53623,
+        "height": 0.7675
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "694579445": {
+    "boxes": [
+      {
+        "left": 0.16005,
+        "top": 0.15704,
+        "width": 0.56051,
+        "height": 0.40793
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "695949998": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "700031971": {
+    "boxes": [
+      {
+        "left": 0.18187,
+        "top": 0.13816,
+        "width": 0.61059,
+        "height": 0.81127
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "703287942": {
+    "boxes": [
+      {
+        "left": 0.06335,
+        "top": 0.17503,
+        "width": 0.82881,
+        "height": 0.75821
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "703610390": {
+    "boxes": [
+      {
+        "left": 0.35993,
+        "top": 0.49195,
+        "width": 0.21618,
+        "height": 0.15608
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "704116511": {
+    "boxes": [
+      {
+        "left": 0.25094,
+        "top": 0.34895,
+        "width": 0.19337,
+        "height": 0.09537
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "704134950": {
+    "boxes": [
+      {
+        "left": 0.14925,
+        "top": 0.21425,
+        "width": 0.63884,
+        "height": 0.65375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "705254021": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "705280912": {
+    "boxes": [
+      {
+        "left": 0.47185,
+        "top": 0.36404,
+        "width": 0.33131,
+        "height": 0.39368
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "705770730": {
+    "boxes": [
+      {
+        "left": 0.29627,
+        "top": 0.06637,
+        "width": 0.48148,
+        "height": 0.71292
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "709683235": {
+    "boxes": [
+      {
+        "left": 0.03507,
+        "top": 0.16879,
+        "width": 0.92426,
+        "height": 0.6825
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "713450104": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "713554547": {
+    "boxes": [
+      {
+        "left": 0.15495,
+        "top": 0.23741,
+        "width": 0.33778,
+        "height": 0.64376
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "714418049": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "719020547": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): муравьиный лев Palpares"
+  },
+  "719084151": {
+    "boxes": [
+      {
+        "left": 0.29199,
+        "top": 0.04721,
+        "width": 0.54318,
+        "height": 0.87375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "719986222": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "721584229": {
+    "boxes": [
+      {
+        "left": 0.3977,
+        "top": 0.41046,
+        "width": 0.24913,
+        "height": 0.28641
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "723198037": {
+    "boxes": [
+      {
+        "left": 0.26016,
+        "top": 0.13388,
+        "width": 0.62587,
+        "height": 0.48036
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "723611819": {
+    "boxes": [
+      {
+        "left": 0.2536,
+        "top": 0.42471,
+        "width": 0.32308,
+        "height": 0.325
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "724597066": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "726156955": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "726228975": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "728628205": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "729471653": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "730886452": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "731504609": {
+    "boxes": [
+      {
+        "left": 0.18702,
+        "top": 0.05274,
+        "width": 0.72167,
+        "height": 0.68375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "731707253": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "731712562": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "732863884": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "732906645": {
+    "boxes": [
+      {
+        "left": 0.34371,
+        "top": 0.45922,
+        "width": 0.26865,
+        "height": 0.16958
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "733403164": {
+    "boxes": [
+      {
+        "left": 0.31785,
+        "top": 0.32707,
+        "width": 0.22464,
+        "height": 0.2361
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "734744147": {
+    "boxes": [
+      {
+        "left": 0.40974,
+        "top": 0.40597,
+        "width": 0.18925,
+        "height": 0.18119
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "734953280": {
+    "boxes": [
+      {
+        "left": 0.41061,
+        "top": 0.34991,
+        "width": 0.20328,
+        "height": 0.25276
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "734961328": {
+    "boxes": [
+      {
+        "left": 0.34547,
+        "top": 0.21629,
+        "width": 0.28309,
+        "height": 0.5476
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "735963810": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "735975566": {
+    "boxes": [
+      {
+        "left": 0.13505,
+        "top": 0.05086,
+        "width": 0.71182,
+        "height": 0.79754
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "736215374": {
+    "boxes": [
+      {
+        "left": 0.0953,
+        "top": 0.04125,
+        "width": 0.75224,
+        "height": 0.88625
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): бражник (0,99)"
+  },
+  "736794360": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "736944024": {
+    "boxes": [
+      {
+        "left": 0.4001,
+        "top": 0.34941,
+        "width": 0.20267,
+        "height": 0.23503
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "738488730": {
+    "boxes": [
+      {
+        "left": 0.43455,
+        "top": 0.4349,
+        "width": 0.16818,
+        "height": 0.14596
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "739844914": {
+    "boxes": [
+      {
+        "left": 0.4603,
+        "top": 0.47661,
+        "width": 0.09004,
+        "height": 0.03706
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "740041336": {
+    "boxes": [
+      {
+        "left": 0.38066,
+        "top": 0.23366,
+        "width": 0.3478,
+        "height": 0.43251
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "741335111": {
+    "boxes": [
+      {
+        "left": 0.16172,
+        "top": 0.08118,
+        "width": 0.82889,
+        "height": 0.87375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "741736698": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "742764772": {
+    "boxes": [
+      {
+        "left": 0.21692,
+        "top": 0.17153,
+        "width": 0.59532,
+        "height": 0.57375
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "742913351": {
+    "boxes": [
+      {
+        "left": 0.42332290808359774,
+        "top": 0.11273611015743679,
+        "width": 0.44270833333333337,
+        "height": 0.4565972222222222
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "743377168": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "743691037": {
+    "boxes": [
+      {
+        "left": 0.08792,
+        "top": 0.34611,
+        "width": 0.61015,
+        "height": 0.27311
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "744059661": {
+    "boxes": [
+      {
+        "left": 0.06649,
+        "top": 0.1646,
+        "width": 0.84698,
+        "height": 0.66198
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "744338671": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "744377354": {
+    "boxes": [
+      {
+        "left": 0.17553,
+        "top": 0.28188,
+        "width": 0.51307,
+        "height": 0.59786
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "744384277": {
+    "boxes": [
+      {
+        "left": 0.38704,
+        "top": 0.34078,
+        "width": 0.30587,
+        "height": 0.33131
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "74459866": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): ручейник Glyphotaelius"
+  },
+  "744862830": {
+    "boxes": [
+      {
+        "left": 0.20166,
+        "top": 0.27485,
+        "width": 0.59781,
+        "height": 0.61473
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "745291621": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "745312551": {
+    "boxes": [
+      {
+        "left": 0.28353,
+        "top": 0.11502,
+        "width": 0.50995,
+        "height": 0.64656
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна бабочка (0,97)"
+  },
+  "745365475": {
+    "boxes": [
+      {
+        "left": 0.36608,
+        "top": 0.13458,
+        "width": 0.23982,
+        "height": 0.4066
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "745778839": {
+    "boxes": [
+      {
+        "left": 0.21591,
+        "top": 0.32122,
+        "width": 0.43824,
+        "height": 0.36644
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "745838021": {
+    "boxes": [
+      {
+        "left": 0.32674187451694925,
+        "top": 0.37013689859602983,
+        "width": 0.27221172022684315,
+        "height": 0.23605860113421562
+      },
+      {
+        "left": 0.00865499661128131,
+        "top": 0.26637909505759194,
+        "width": 0.06512626813083146,
+        "height": 0.07326705164718539
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "745894838": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "746074036": {
+    "boxes": [
+      {
+        "left": 0.35451,
+        "top": 0.25197,
+        "width": 0.24543,
+        "height": 0.38517
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "746365925": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "746613732": {
+    "boxes": [
+      {
+        "left": 0.36295,
+        "top": 0.3254,
+        "width": 0.23557,
+        "height": 0.43317
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "746949716": {
+    "boxes": [
+      {
+        "left": 0.03119,
+        "top": 0.21638,
+        "width": 0.69846,
+        "height": 0.36271
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "748756738": {
+    "boxes": [
+      {
+        "left": 0.36587,
+        "top": 0.36188,
+        "width": 0.19919,
+        "height": 0.17395
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "748940536": {
+    "boxes": [
+      {
+        "left": 0.37928,
+        "top": 0.13571,
+        "width": 0.34833,
+        "height": 0.54125
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "749062106": {
+    "boxes": [
+      {
+        "left": 0.1489,
+        "top": 0.13857,
+        "width": 0.75233,
+        "height": 0.74489
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "749064201": {
+    "boxes": [
+      {
+        "left": 0.35757,
+        "top": 0.42034,
+        "width": 0.08438,
+        "height": 0.1338
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "749070391": {
+    "boxes": [
+      {
+        "left": 0.24647,
+        "top": 0.23241,
+        "width": 0.48095,
+        "height": 0.60251
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "749212836": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "749480188": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "749885055": {
+    "boxes": [
+      {
+        "left": 0.4809,
+        "top": 0.45246,
+        "width": 0.26135,
+        "height": 0.34573
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "751147168": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "751201646": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "751250375": {
+    "boxes": [
+      {
+        "left": 0.36815,
+        "top": 0.30683,
+        "width": 0.36618,
+        "height": 0.50819
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "751348395": {
+    "boxes": [
+      {
+        "left": 0.28304,
+        "top": 0.22596,
+        "width": 0.55879,
+        "height": 0.6341
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "751468176": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "751752003": {
+    "boxes": [
+      {
+        "left": 0.18846,
+        "top": 0.15349,
+        "width": 0.60047,
+        "height": 0.62822
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "752395403": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "752869333": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "752954143": {
+    "boxes": [
+      {
+        "left": 0.33696,
+        "top": 0.27407,
+        "width": 0.53481,
+        "height": 0.35788
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "753333916": {
+    "boxes": [
+      {
+        "left": 0.16674,
+        "top": 0.30309,
+        "width": 0.61565,
+        "height": 0.39665
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "753697999": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "754654618": {
+    "boxes": [
+      {
+        "left": 0.15291,
+        "top": 0.02699,
+        "width": 0.34723,
+        "height": 0.57455
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "754886676": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "754887056": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "755548976": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "755697346": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "756575793": {
+    "boxes": [
+      {
+        "left": 0.38994,
+        "top": 0.37203,
+        "width": 0.34019,
+        "height": 0.10675
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): одна бабочка на ботинке (0,90)"
+  },
+  "756735670": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "756769889": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "757712868": {
+    "boxes": [
+      {
+        "left": 0.25042545955187273,
+        "top": 0.35076216159316886,
+        "width": 0.3599575659258006,
+        "height": 0.2496823645843742
+      },
+      {
+        "left": 0.865471064322729,
+        "top": 0.42972154184634703,
+        "width": 0.0921151251384923,
+        "height": 0.08216043620938807
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "757958799": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "757990153": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "758088812": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "758333372": {
+    "boxes": [
+      {
+        "left": 0.27513,
+        "top": 0.30391,
+        "width": 0.40279,
+        "height": 0.45842
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "758652808": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "758722128": {
+    "boxes": [
+      {
+        "left": 0.12338,
+        "top": 0.13088,
+        "width": 0.70491,
+        "height": 0.81391
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "758781298": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "758837050": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "758873493": {
+    "boxes": [
+      {
+        "left": 0.40402,
+        "top": 0.30745,
+        "width": 0.54228,
+        "height": 0.3431
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "758887816": {
+    "boxes": [
+      {
+        "left": 0.16256,
+        "top": 0.10116,
+        "width": 0.77086,
+        "height": 0.73876
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "759057267": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759104703": {
+    "boxes": [
+      {
+        "left": 0.51833,
+        "top": 0.37911,
+        "width": 0.08259,
+        "height": 0.19527
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (avg05): Atteva aurea — моль, похожая на осу; обе разметки совпали (0,97)"
+  },
+  "759110208": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759115032": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759128081": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759152743": {
+    "boxes": [
+      {
+        "left": 0.16213,
+        "top": 0.23183,
+        "width": 0.63124,
+        "height": 0.48876
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "759163164": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759244314": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759304083": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759307176": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759329401": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759362805": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759425314": {
+    "boxes": [
+      {
+        "left": 0.66545,
+        "top": 0.46736,
+        "width": 0.10562,
+        "height": 0.25552
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "759506974": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759519456": {
+    "boxes": [
+      {
+        "left": 0.14857,
+        "top": 0.01901,
+        "width": 0.6353,
+        "height": 0.96909
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "759561242": {
+    "boxes": [
+      {
+        "left": 0.18738,
+        "top": 0.09399,
+        "width": 0.66333,
+        "height": 0.49875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "759563669": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759571143": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759743360": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "759777767": {
+    "boxes": [
+      {
+        "left": 0.23583,
+        "top": 0.17917,
+        "width": 0.62375,
+        "height": 0.515
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "759801546": {
+    "boxes": [
+      {
+        "left": 0.24926,
+        "top": 0.23348,
+        "width": 0.60588,
+        "height": 0.51
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "759891708": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760157361": {
+    "boxes": [
+      {
+        "left": 0.34565,
+        "top": 0.33166,
+        "width": 0.28687,
+        "height": 0.4475
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "760290128": {
+    "boxes": [
+      {
+        "left": 0.36204,
+        "top": 0.17599,
+        "width": 0.57838,
+        "height": 0.77192
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "760312043": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760332048": {
+    "boxes": [
+      {
+        "left": 0.32307,
+        "top": 0.37856,
+        "width": 0.50731,
+        "height": 0.33678
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "760333921": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760370167": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760457396": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760565320": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760587987": {
+    "boxes": [
+      {
+        "left": 0.02865,
+        "top": 0.32242,
+        "width": 0.74381,
+        "height": 0.40501
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "760597433": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760620476": {
+    "boxes": [
+      {
+        "left": 0.24724,
+        "top": 0.1513,
+        "width": 0.56383,
+        "height": 0.83679
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "760695550": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760767689": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "760903289": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "761014252": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "761069355": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "761165525": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "761219682": {
+    "boxes": [
+      {
+        "left": 0.18428015564202332,
+        "top": 0.185,
+        "width": 0.43164721141374834,
+        "height": 0.51875
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "761284782": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "761295995": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "761297515": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "761324109": {
+    "boxes": [
+      {
+        "left": 0.22541465027248875,
+        "top": 0.1800451379352145,
+        "width": 0.5842061847759362,
+        "height": 0.6163194444444446
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "761387075": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "761919006": {
+    "boxes": [
+      {
+        "left": 0.07393,
+        "top": 0.0,
+        "width": 0.8039,
+        "height": 0.75857
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "762017044": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "762283861": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "762371571": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "762547557": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "762622307": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "762750482": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "762752324": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "762755678": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "763000941": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "763009856": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "763011688": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "763020247": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "77907094": {
+    "boxes": [
+      {
+        "left": 0.11485,
+        "top": 0.38086,
+        "width": 0.63949,
+        "height": 0.39006
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "78439167": {
+    "boxes": [
+      {
+        "left": 0.35927,
+        "top": 0.39076,
+        "width": 0.37831,
+        "height": 0.21243
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "81179799": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; проверка: бабочек нет (3 из 3)"
+  },
+  "85208895": {
+    "boxes": [
+      {
+        "left": 0.3180433635322415,
+        "top": 0.41019217432761684,
+        "width": 0.3118622448979591,
+        "height": 0.20663265306122441
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; одна принятая"
+  },
+  "90840453": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): аскалаф (сетчатокрылое)"
+  },
+  "91569183": {
+    "boxes": [],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; вручную (none): ручейник Nemotaulius"
+  },
+  "95429793": {
+    "boxes": [
+      {
+        "left": 0.00067,
+        "top": 0.18404,
+        "width": 0.39088,
+        "height": 0.29882
+      }
+    ],
+    "label_source": "crowd_main",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "люди: обводка × 2 + проверка × 3; две принятые совпали → среднее"
+  },
+  "108262561": {
+    "boxes": [
+      {
+        "left": 0.20674,
+        "top": 0.22,
+        "width": 0.64689,
+        "height": 0.4575
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "109096805": {
+    "boxes": [
+      {
+        "left": 0.25462,
+        "top": 0.251,
+        "width": 0.52313,
+        "height": 0.4875
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "14414527": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "145698970": {
+    "boxes": [
+      {
+        "left": 0.46505,
+        "top": 0.21,
+        "width": 0.31186,
+        "height": 0.5175
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "253876122": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "309057475": {
+    "boxes": [
+      {
+        "left": 0.47325,
+        "top": 0.45199,
+        "width": 0.1512,
+        "height": 0.21578
+      },
+      {
+        "left": 0.26726,
+        "top": 0.45147,
+        "width": 0.0801,
+        "height": 0.09182
+      },
+      {
+        "left": 0.20194,
+        "top": 0.30047,
+        "width": 0.14611,
+        "height": 0.21793
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "320495807": {
+    "boxes": [
+      {
+        "left": 0.2168,
+        "top": 0.461,
+        "width": 0.20605,
+        "height": 0.34
+      },
+      {
+        "left": 0.39597,
+        "top": 0.431,
+        "width": 0.25532,
+        "height": 0.22
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "344194815": {
+    "boxes": [
+      {
+        "left": 0.14962,
+        "top": 0.041,
+        "width": 0.55688,
+        "height": 0.9325
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "378886717": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "564396847": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "613586421": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "634924005": {
+    "boxes": [
+      {
+        "left": 0.36139,
+        "top": 0.39625,
+        "width": 0.25463,
+        "height": 0.25521
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "692101960": {
+    "boxes": [
+      {
+        "left": 0.3375,
+        "top": 0.18,
+        "width": 0.53262,
+        "height": 0.50117
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "705280594": {
+    "boxes": [
+      {
+        "left": 0.2596,
+        "top": 0.206,
+        "width": 0.598,
+        "height": 0.615
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "743877673": {
+    "boxes": [
+      {
+        "left": 0.43066,
+        "top": 0.2652,
+        "width": 0.19917,
+        "height": 0.33414
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "748831945": {
+    "boxes": [
+      {
+        "left": 0.0845,
+        "top": 0.211,
+        "width": 0.86,
+        "height": 0.6175
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "754462605": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "758086902": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "759866610": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "760169688": {
+    "boxes": [
+      {
+        "left": 0.27365,
+        "top": 0.39305,
+        "width": 0.49971,
+        "height": 0.40842
+      }
+    ],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: один обводчик + проверка × 3 (приняли)"
+  },
+  "761006111": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "761719203": {
+    "boxes": [],
+    "label_source": "crowd_pilot",
+    "use_for_model_eval": true,
+    "exclude_reason": "",
+    "how": "пилот: проверка × 3 подтвердила, что бабочек нет"
+  },
+  "105831691": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "107636245": {
+    "boxes": [
+      {
+        "left": 0.4263,
+        "top": 0.3919,
+        "width": 0.18962,
+        "height": 0.226
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "111273515": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "116372737": {
+    "boxes": [
+      {
+        "left": 0.40021,
+        "top": 0.34002,
+        "width": 0.22026,
+        "height": 0.299
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "118729794": {
+    "boxes": [
+      {
+        "left": 0.2035,
+        "top": 0.2111,
+        "width": 0.5355,
+        "height": 0.7083
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "123838939": {
+    "boxes": [
+      {
+        "left": 0.23753,
+        "top": 0.37648,
+        "width": 0.39249,
+        "height": 0.38013
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "134554576": {
+    "boxes": [
+      {
+        "left": 0.263,
+        "top": 0.4412,
+        "width": 0.39988,
+        "height": 0.2835
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "135569620": {
+    "boxes": [
+      {
+        "left": 0.02142,
+        "top": 0.25251,
+        "width": 0.82042,
+        "height": 0.60164
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "156184937": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "163471844": {
+    "boxes": [
+      {
+        "left": 0.3523,
+        "top": 0.37101,
+        "width": 0.37612,
+        "height": 0.30082
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "165605055": {
+    "boxes": [
+      {
+        "left": 0.18345,
+        "top": 0.25251,
+        "width": 0.58933,
+        "height": 0.57885
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "185655315": {
+    "boxes": [
+      {
+        "left": 0.41137,
+        "top": 0.14221,
+        "width": 0.42134,
+        "height": 0.69644
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "207350716": {
+    "boxes": [
+      {
+        "left": 0.01353,
+        "top": 0.02005,
+        "width": 0.51021,
+        "height": 0.64904
+      },
+      {
+        "left": 0.09846,
+        "top": 0.18049,
+        "width": 0.78435,
+        "height": 0.77119
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "213149489": {
+    "boxes": [
+      {
+        "left": 0.21938,
+        "top": 0.1919,
+        "width": 0.49336,
+        "height": 0.53972
+      },
+      {
+        "left": 0.0,
+        "top": 0.6048,
+        "width": 0.235,
+        "height": 0.3952
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "218372958": {
+    "boxes": [
+      {
+        "left": 0.2305,
+        "top": 0.2974,
+        "width": 0.5495,
+        "height": 0.377
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "238254551": {
+    "boxes": [
+      {
+        "left": 0.35723,
+        "top": 0.02279,
+        "width": 0.56987,
+        "height": 0.86235
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "243763845": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "316879414": {
+    "boxes": [
+      {
+        "left": 0.2124,
+        "top": 0.373,
+        "width": 0.3726,
+        "height": 0.2715
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "397885614": {
+    "boxes": [
+      {
+        "left": 0.30128,
+        "top": 0.18232,
+        "width": 0.4191,
+        "height": 0.45852
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "412321992": {
+    "boxes": [
+      {
+        "left": 0.161,
+        "top": 0.43482,
+        "width": 0.42855,
+        "height": 0.26892
+      },
+      {
+        "left": 0.37499,
+        "top": 0.23792,
+        "width": 0.49012,
+        "height": 0.53692
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "425859526": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "429672703": {
+    "boxes": [
+      {
+        "left": 0.12194,
+        "top": 0.0082,
+        "width": 0.67301,
+        "height": 0.73108
+      },
+      {
+        "left": 0.25154,
+        "top": 0.49772,
+        "width": 0.35751,
+        "height": 0.46764
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "442322044": {
+    "boxes": [
+      {
+        "left": 0.37281,
+        "top": 0.41386,
+        "width": 0.2626,
+        "height": 0.29353
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "455638255": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "458079134": {
+    "boxes": [
+      {
+        "left": 0.43316,
+        "top": 0.36828,
+        "width": 0.43634,
+        "height": 0.27165
+      },
+      {
+        "left": 0.12566,
+        "top": 0.32179,
+        "width": 0.46673,
+        "height": 0.35825
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "489444765": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "514184980": {
+    "boxes": [
+      {
+        "left": 0.47327,
+        "top": 0.57065,
+        "width": 0.19569,
+        "height": 0.15588
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "529813567": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "552117435": {
+    "boxes": [
+      {
+        "left": 0.0908,
+        "top": 0.2754,
+        "width": 0.8044,
+        "height": 0.5347
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "562348093": {
+    "boxes": [
+      {
+        "left": 0.1402,
+        "top": 0.0594,
+        "width": 0.776,
+        "height": 0.8635
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "58872437": {
+    "boxes": [
+      {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.83599,
+        "height": 0.98724
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "594752976": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "608273983": {
+    "boxes": [
+      {
+        "left": 0.23003,
+        "top": 0.57248,
+        "width": 0.3478,
+        "height": 0.12215
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "636356818": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "638433254": {
+    "boxes": [
+      {
+        "left": 0.1733,
+        "top": 0.3503,
+        "width": 0.293,
+        "height": 0.5697
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "685522812": {
+    "boxes": [
+      {
+        "left": 0.0983,
+        "top": 0.3164,
+        "width": 0.4524,
+        "height": 0.2749
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "686990867": {
+    "boxes": [
+      {
+        "left": 0.2858,
+        "top": 0.1103,
+        "width": 0.48418,
+        "height": 0.61987
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "692094280": {
+    "boxes": [
+      {
+        "left": 0.2491,
+        "top": 0.1201,
+        "width": 0.6259,
+        "height": 0.416
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу); моль переразмечена по правилу 13.11"
+  },
+  "693861897": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "706991786": {
+    "boxes": [
+      {
+        "left": 0.21074,
+        "top": 0.28624,
+        "width": 0.67578,
+        "height": 0.43209
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "714495542": {
+    "boxes": [
+      {
+        "left": 0.27118,
+        "top": 0.19234,
+        "width": 0.56903,
+        "height": 0.50046
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "725728453": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "734953212": {
+    "boxes": [
+      {
+        "left": 0.3876,
+        "top": 0.33546,
+        "width": 0.2327,
+        "height": 0.24886
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "745618651": {
+    "boxes": [
+      {
+        "left": 0.0509,
+        "top": 0.1193,
+        "width": 0.8968,
+        "height": 0.6548
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "748729010": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "748774893": {
+    "boxes": [
+      {
+        "left": 0.2663,
+        "top": 0.3945,
+        "width": 0.4915,
+        "height": 0.2051
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу); моль переразмечена по правилу 13.11"
+  },
+  "757205789": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "759076220": {
+    "boxes": [
+      {
+        "left": 0.2339,
+        "top": 0.2981,
+        "width": 0.5171,
+        "height": 0.3957
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу); моль переразмечена по правилу 13.11"
+  },
+  "759522084": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "761542014": {
+    "boxes": [
+      {
+        "left": 0.4282,
+        "top": 0.2095,
+        "width": 0.3872,
+        "height": 0.4535
+      }
+    ],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима"
+  },
+  "762902372": {
+    "boxes": [],
+    "label_source": "ours_control",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима → вторая проверка Олега (итог по Олегу)"
+  },
+  "108268477": {
+    "boxes": [
+      {
+        "left": 0.207,
+        "top": 0.3784,
+        "width": 0.4583,
+        "height": 0.2256
+      }
+    ],
+    "label_source": "ours_training",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима (фото обучения обводки)"
+  },
+  "231547757": {
+    "boxes": [
+      {
+        "left": 0.1641,
+        "top": 0.0,
+        "width": 0.8359,
+        "height": 0.9245
+      }
+    ],
+    "label_source": "ours_training",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима (фото обучения обводки)"
+  },
+  "267700844": {
+    "boxes": [
+      {
+        "left": 0.3398,
+        "top": 0.3401,
+        "width": 0.3188,
+        "height": 0.3199
+      }
+    ],
+    "label_source": "ours_training",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима (фото обучения обводки)"
+  },
+  "380522940": {
+    "boxes": [
+      {
+        "left": 0.2637,
+        "top": 0.1973,
+        "width": 0.4948,
+        "height": 0.354
+      },
+      {
+        "left": 0.1367,
+        "top": 0.4453,
+        "width": 0.4134,
+        "height": 0.4385
+      }
+    ],
+    "label_source": "ours_training",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима (фото обучения обводки)"
+  },
+  "578486437": {
+    "boxes": [
+      {
+        "left": 0.2513,
+        "top": 0.245,
+        "width": 0.4741,
+        "height": 0.4815
+      }
+    ],
+    "label_source": "ours_training",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима (фото обучения обводки)"
+  },
+  "735982811": {
+    "boxes": [
+      {
+        "left": 0.3721,
+        "top": 0.4094,
+        "width": 0.3699,
+        "height": 0.207
+      }
+    ],
+    "label_source": "ours_training",
+    "use_for_model_eval": false,
+    "exclude_reason": "",
+    "how": "наш эталон: GPT-6.1-sol → проверка Максима (фото обучения обводки)"
+  }
+}

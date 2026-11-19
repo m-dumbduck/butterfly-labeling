@@ -1,0 +1,19 @@
+{
+  "live": false,
+  "reference": "control/tasks/reference_boxes.json",
+  "iou": 0.85,
+  "poll_seconds": 2,
+  "full_sweep_seconds": 600,
+  "pools": [
+    {
+      "type": "bbox",
+      "pool_id": "6870418",
+      "project_id": "11741",
+      "author_skill_id": "21320",
+      "ban_after": 1,
+      "ban_days": 30,
+      "reject_failed_page": true,
+      "max_pages_per_user": 5
+    }
+  ]
+}

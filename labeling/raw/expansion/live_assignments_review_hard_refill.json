@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "id": "000068d594--6afe0a28a6287e79d3d30030",
+      "task_suite_id": "000068d594--6afe0a28a6287e79d3d3002e",
+      "pool_id": "6870420",
+      "user_id": "worker_e4755b123ab17292",
+      "status": "ACCEPTED",
+      "reward": 0.5,
+      "tasks": [
+        {
+          "id": "000068d594--6afe09be50964b5335da169c",
+          "input_values": {
+            "photo_id": "686990867",
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/686990867/original.jpg",
+            "boxes": [],
+            "bbox_assignment_id": "control-30"
+          },
+          "known_solutions": [
+            {
+              "output_values": {
+                "verdict": "bad"
+              },
+              "correctness_weight": 1.0
+            }
+          ],
+          "pool_id": "6870420",
+          "infinite_overlap": true,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-18T20:25:34.960"
+        },
+        {
+          "id": "000068d594--6afe09be50964b5335da1628",
+          "input_values": {
+            "photo_id": "327719751",
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/327719751/original.jpg",
+            "boxes": [
+              {
+                "shape": "rectangle",
+                "left": 0.1733491876853602,
+                "top": 0.1993877435136382,
+                "width": 0.5643247877298817,
+                "height": 0.4498474736475343
+              },
+              {
+                "shape": "rectangle",
+                "left": 0.2894388583040787,
+                "top": 0.47872851343992967,
+                "width": 0.5417517962206866,
+                "height": 0.2515276196738902
+              },
+              {
+                "shape": "rectangle",
+                "left": 0.3281354151769849,
+                "top": 0.6685834955976256,
+                "width": 0.45307218672027655,
+                "height": 0.19469205176680915
+              }
+            ],
+            "bbox_assignment_id": "000068d4e8--6afdeb3593859475ce74f7f1"
+          },
+          "pool_id": "6870420",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [
+            "9ee4ef76530ed4da8e3189d8e8948a5a",
+            "d2038f131fe775e93b6dbf9fc3631562",
+            "9e3245c4eb36e4b84bd288bbdd052cb0"
+          ],
+          "created": "2026-11-18T20:25:34.319",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "verdict": "bad",
+            "reasons": {
+              "missed": true
+            }
+          }
+        },
+        {
+          "output_values": {
+            "verdict": "ok"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-18T20:27:20.510",
+      "submitted": "2026-11-18T20:27:44.403",
+      "accepted": "2026-11-18T20:27:44.403",
+      "owner": {
+        "id": "a909a76c5d6bef57abb34177f2be3d22",
+        "myself": true,
+        "company_id": "151"
+      }
+    }
+  ]
+}

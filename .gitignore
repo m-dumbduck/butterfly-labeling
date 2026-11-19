@@ -20,3 +20,10 @@ server_local/
 server_log/
 configs/qc_service.json
 .DS_Store
+
+# Reproducible dataset downloads and generated outputs
+/build/
+/data/images/
+*.part
+*api_key*
+*_token

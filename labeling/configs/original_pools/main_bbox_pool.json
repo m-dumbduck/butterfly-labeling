@@ -1,0 +1,52 @@
+{
+  "project_id": "11741",
+  "private_name": "main",
+  "may_contain_adult_content": false,
+  "will_expire": "2026-11-20T20:59:00",
+  "reward_per_assignment": 1.0,
+  "assignment_max_duration_seconds": 900,
+  "auto_accept_solutions": false,
+  "auto_accept_period_day": 2,
+  "assignments_issuing_config": {
+    "issue_task_suites_in_creation_order": false
+  },
+  "filter": {
+    "and": [
+      {
+        "or": [
+          {
+            "category": "profile",
+            "key": "languages",
+            "operator": "IN",
+            "value": "RU"
+          }
+        ]
+      },
+      {
+        "or": [
+          {
+            "category": "skill",
+            "key": "21319",
+            "operator": "EQ",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  },
+  "mixer_config": {
+    "real_tasks_count": 4,
+    "golden_tasks_count": 1,
+    "training_tasks_count": 0,
+    "min_real_tasks_count": 1,
+    "min_golden_tasks_count": 1,
+    "min_training_tasks_count": 0,
+    "force_last_assignment": true,
+    "mix_tasks_in_creation_order": false,
+    "shuffle_tasks_in_task_suite": true
+  },
+  "defaults": {
+    "default_overlap_for_new_task_suites": 2,
+    "default_overlap_for_new_tasks": 2
+  }
+}

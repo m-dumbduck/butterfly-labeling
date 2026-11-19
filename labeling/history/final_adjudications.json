@@ -1,0 +1,33 @@
+{
+  "760651018": {
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.006135579976332436,
+        "top": 0.09048295497894288,
+        "width": 0.8158955576559547,
+        "height": 0.8225000000000001
+      }
+    ],
+    "confidence": "medium",
+    "reason": "One adult. Retain wider candidate A / human candidate: includes thin leftward antenna; candidate B truncates it. Human did not confirm; this is assistant adjudication."
+  },
+  "702337445": {
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.625,
+        "top": 0.3662109375,
+        "width": 0.048828125,
+        "height": 0.0830078125
+      }
+    ],
+    "confidence": "medium",
+    "reason": "One yellow adult beside lower red flower cluster, previously mistaken for leaf. Same observation photos 702337279 and 702337348 corroborate wing pattern and posture. Box manually placed on target image; appendage boundaries partly unclear. Both workers missed it.",
+    "context_observation": "https://www.inaturalist.org/observations/383721925",
+    "context_photo_ids": [
+      702337279,
+      702337348
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "project_id": "11742",
+  "private_name": "exam",
+  "public_description": "Короткий экзамен: проверьте рамки на 15 фото",
+  "may_contain_adult_content": false,
+  "will_expire": "2026-11-20T20:59:00",
+  "reward_per_assignment": 0,
+  "assignment_max_duration_seconds": 1200,
+  "auto_accept_solutions": true,
+  "assignments_issuing_config": {
+    "issue_task_suites_in_creation_order": false
+  },
+  "filter": {
+    "and": [
+      {
+        "or": [
+          {
+            "category": "profile",
+            "key": "languages",
+            "operator": "IN",
+            "value": "RU"
+          }
+        ]
+      }
+    ]
+  },
+  "quality_control": {
+    "training_requirement": {
+      "training_pool_id": "6863012",
+      "training_passing_skill_value": 100
+    },
+    "configs": [
+      {
+        "collector_config": {
+          "type": "GOLDEN_SET",
+          "parameters": {
+            "history_size": 15
+          }
+        },
+        "rules": [
+          {
+            "conditions": [
+              {
+                "key": "total_answers_count",
+                "operator": "GTE",
+                "value": 15
+              }
+            ],
+            "action": {
+              "type": "SET_SKILL_FROM_OUTPUT_FIELD",
+              "parameters": {
+                "from_field": "correct_answers_rate",
+                "skill_id": "21324"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "defaults": {
+    "default_overlap_for_new_task_suites": 1000,
+    "default_overlap_for_new_tasks": 1000
+  }
+}

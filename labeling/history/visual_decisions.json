@@ -1,0 +1,925 @@
+[
+  {
+    "photo_id": "129650272",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Вторая бабочка видна у правого края. Вариант A её пропускает.",
+    "evidence_sheet": "sheets/02.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.8635218624637547,
+        "top": 0.6974216143109686,
+        "width": 0.13647813753624527,
+        "height": 0.13048201106924084
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.37438279152114917,
+        "top": 0.18939729910592443,
+        "width": 0.26373581172975713,
+        "height": 0.4109949569837763
+      }
+    ]
+  },
+  {
+    "photo_id": "422715213",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "В кадре две перекрывающиеся бабочки; вариант B объединяет их одной рамкой.",
+    "evidence_sheet": "sheets/02.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3036217444171168,
+        "top": 0.2886873097197759,
+        "width": 0.40155845839961185,
+        "height": 0.3213249565245581
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.34131592920941756,
+        "top": 0.49691433746759806,
+        "width": 0.21770314890247155,
+        "height": 0.26001953718763593
+      }
+    ]
+  },
+  {
+    "photo_id": "695514043",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Одна бабочка с хвостиками на крыльях. Вариант B ошибочно делит её на два объекта; проверено увеличенное фото.",
+    "evidence_sheet": "sheets/03.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3947077774527976,
+        "top": 0.3279039803303742,
+        "width": 0.24025663777216566,
+        "height": 0.38149841876549945
+      }
+    ]
+  },
+  {
+    "photo_id": "727216039",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/03.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4474904522692698,
+        "top": 0.22920892494929007,
+        "width": 0.18521508145283977,
+        "height": 0.4178498985801217
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.30087449176869024,
+        "top": 0.4718715072235791,
+        "width": 0.265558641290568,
+        "height": 0.31357370534420675
+      }
+    ]
+  },
+  {
+    "photo_id": "2095326",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/03.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.42570738398742014,
+        "top": 0.48162962962962963,
+        "width": 0.21977316069456987,
+        "height": 0.3314814814814816
+      }
+    ]
+  },
+  {
+    "photo_id": "111676223",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/04.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3844011142061281,
+        "top": 0.31197771587743733,
+        "width": 0.2308495821727019,
+        "height": 0.3189415041782729
+      }
+    ]
+  },
+  {
+    "photo_id": "218431721",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/04.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.10246402360660173,
+        "top": 0.27589511183261184,
+        "width": 0.721824121222925,
+        "height": 0.6072217712842712
+      }
+    ]
+  },
+  {
+    "photo_id": "384990565",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Вариант B включает верхнюю часть насекомого и усики, которые обрезаны в A.",
+    "evidence_sheet": "sheets/04.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3491188480367338,
+        "top": 0.36361824505370427,
+        "width": 0.3362195332271731,
+        "height": 0.176369495031017
+      }
+    ]
+  },
+  {
+    "photo_id": "420819460",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Вариант A сохраняет выступающие слева части насекомого; B уже.",
+    "evidence_sheet": "sheets/04.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.21457291580306653,
+        "top": 0.18069496764401696,
+        "width": 0.6159757467202327,
+        "height": 0.2714778384258423
+      }
+    ]
+  },
+  {
+    "photo_id": "430535352",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/05.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.011747641136849967,
+        "top": 0.10282776349614396,
+        "width": 0.9471535666585285,
+        "height": 0.8097686375321337
+      }
+    ]
+  },
+  {
+    "photo_id": "550948540",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Бабочка присутствует. Вариант B охватывает видимый силуэт; A теснее слева.",
+    "evidence_sheet": "sheets/05.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3094831828966656,
+        "top": 0.36111667207415005,
+        "width": 0.19602372055141742,
+        "height": 0.1262507617999889
+      }
+    ]
+  },
+  {
+    "photo_id": "691321831",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/05.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3587794820374171,
+        "top": 0.3111418971295622,
+        "width": 0.21831557701352639,
+        "height": 0.3136753304562323
+      }
+    ]
+  },
+  {
+    "photo_id": "694685204",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Вариант B захватывает выступающую слева часть насекомого.",
+    "evidence_sheet": "sheets/05.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.30396420355481946,
+        "top": 0.4187254758881384,
+        "width": 0.33961852717128715,
+        "height": 0.21307144308122844
+      }
+    ]
+  },
+  {
+    "photo_id": "694686326",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/06.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.47703926611796976,
+        "top": 0.21994636393080322,
+        "width": 0.3544336919867399,
+        "height": 0.45633347146014336
+      }
+    ]
+  },
+  {
+    "photo_id": "695283021",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/06.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.05454545454545455,
+        "top": 0.2613636363636364,
+        "width": 0.8054234556935149,
+        "height": 0.4667315008440493
+      }
+    ]
+  },
+  {
+    "photo_id": "704042321",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/06.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.6169665809768637,
+        "top": 0.2455012853470437,
+        "width": 0.3541845187089403,
+        "height": 0.3020565552699228
+      }
+    ]
+  },
+  {
+    "photo_id": "711324682",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/06.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.0009356766400217107,
+        "top": 0.022456325191915382,
+        "width": 0.9990643233599783,
+        "height": 0.6757950312091382
+      }
+    ]
+  },
+  {
+    "photo_id": "712663308",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/06.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.38033553599893455,
+        "top": 0.3590309683794126,
+        "width": 0.16618444694028967,
+        "height": 0.09531113077496756
+      }
+    ]
+  },
+  {
+    "photo_id": "724380962",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Вариант A охватывает видимую бабочку целиком; B теснее по верхней границе.",
+    "evidence_sheet": "sheets/06.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3422200442472804,
+        "top": 0.26892921724726887,
+        "width": 0.3154322261323878,
+        "height": 0.11250333144193408
+      }
+    ]
+  },
+  {
+    "photo_id": "725933377",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/07.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.25812441968430827,
+        "top": 0.12395543175487465,
+        "width": 0.4456824512534819,
+        "height": 0.5766016713091922
+      }
+    ]
+  },
+  {
+    "photo_id": "730086809",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/07.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.485,
+        "top": 0.3466666666666667,
+        "width": 0.126,
+        "height": 0.30533333333333335
+      }
+    ]
+  },
+  {
+    "photo_id": "731862534",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/07.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.10253001830385124,
+        "top": 0.2448884602216916,
+        "width": 0.5699990211323405,
+        "height": 0.5505502356343864
+      }
+    ]
+  },
+  {
+    "photo_id": "732041998",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/07.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3548971312662996,
+        "top": 0.24108953926398144,
+        "width": 0.38793103448275856,
+        "height": 0.4650825847580411
+      }
+    ]
+  },
+  {
+    "photo_id": "732052448",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/07.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.39977220956719817,
+        "top": 0.1594533029612756,
+        "width": 0.3519362186788154,
+        "height": 0.5785876993166288
+      }
+    ]
+  },
+  {
+    "photo_id": "733322497",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/07.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.41983803226507127,
+        "top": 0.24218774555263126,
+        "width": 0.2568603068270175,
+        "height": 0.48310028846796604
+      }
+    ]
+  },
+  {
+    "photo_id": "737432343",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/08.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.04924579874688054,
+        "top": 0.32061006105676526,
+        "width": 0.6451468563904925,
+        "height": 0.44971496120704957
+      }
+    ]
+  },
+  {
+    "photo_id": "742494378",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Бабочка видна среди листьев; пустой ответ A неверен.",
+    "evidence_sheet": "sheets/08.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.22101916669688704,
+        "top": 0.36679971055176697,
+        "width": 0.105711036342021,
+        "height": 0.15710900031092812
+      }
+    ]
+  },
+  {
+    "photo_id": "743848189",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/08.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.31202536246558843,
+        "top": 0.26903590700955116,
+        "width": 0.2520286014331685,
+        "height": 0.18506042212002
+      }
+    ]
+  },
+  {
+    "photo_id": "744674489",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/08.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.45371768292072034,
+        "top": 0.4161783030279282,
+        "width": 0.16838747165355672,
+        "height": 0.1994124488499222
+      }
+    ]
+  },
+  {
+    "photo_id": "745423573",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Вариант B захватывает нижние выступающие части насекомого.",
+    "evidence_sheet": "sheets/09.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.22991645244215939,
+        "top": 0.3264781491002571,
+        "width": 0.5776831619537275,
+        "height": 0.40616966580976865
+      }
+    ]
+  },
+  {
+    "photo_id": "745687982",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/09.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2486171933751949,
+        "top": 0.12337283024868388,
+        "width": 0.46805326387020335,
+        "height": 0.821346601037788
+      }
+    ]
+  },
+  {
+    "photo_id": "746857129",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/09.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.42412765518809536,
+        "top": 0.33046391482016035,
+        "width": 0.32341051753803574,
+        "height": 0.15011449721389591
+      }
+    ]
+  },
+  {
+    "photo_id": "747814033",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/09.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3026591841144873,
+        "top": 0.24063366369059613,
+        "width": 0.3794378533169062,
+        "height": 0.4582689318147405
+      }
+    ]
+  },
+  {
+    "photo_id": "749953122",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "В кадре взрослая моль и оса. Обводим моль, осу не включаем.",
+    "evidence_sheet": "sheets/10.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1314100202135025,
+        "top": 0,
+        "width": 0.486796501525628,
+        "height": 0.464458753028178
+      }
+    ]
+  },
+  {
+    "photo_id": "751709613",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/10.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.30377290463403395,
+        "top": 0.33844011142061275,
+        "width": 0.3122700488196013,
+        "height": 0.34679665738161575
+      }
+    ]
+  },
+  {
+    "photo_id": "751709816",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/10.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.37225209783967145,
+        "top": 0.2693333333333333,
+        "width": 0.23866880914122485,
+        "height": 0.4053333333333333
+      }
+    ]
+  },
+  {
+    "photo_id": "752466576",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/10.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.26673709711261145,
+        "top": 0.2779256780028385,
+        "width": 0.3817740282503658,
+        "height": 0.20079380852914808
+      }
+    ]
+  },
+  {
+    "photo_id": "755317913",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/11.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2670735527665223,
+        "top": 0.21077578576207417,
+        "width": 0.26363362396380335,
+        "height": 0.4206215528914428
+      }
+    ]
+  },
+  {
+    "photo_id": "755736310",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/11.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.05913173367163379,
+        "top": 0.1786427140949729,
+        "width": 0.718562874251497,
+        "height": 0.7005988023952097
+      }
+    ]
+  },
+  {
+    "photo_id": "756856199",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/11.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4107505070993914,
+        "top": 0.38742393509127787,
+        "width": 0.2607939727615185,
+        "height": 0.2796290930165169
+      }
+    ]
+  },
+  {
+    "photo_id": "757765401",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/11.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.34529443267022836,
+        "top": 0.48189184567269905,
+        "width": 0.24060668348441022,
+        "height": 0.09333271169174695
+      }
+    ]
+  },
+  {
+    "photo_id": "758112264",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/12.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2860005655772903,
+        "top": 0.18458417849898578,
+        "width": 0.5183760251088387,
+        "height": 0.6227180527383367
+      }
+    ]
+  },
+  {
+    "photo_id": "758126480",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Вариант B плотнее снизу, не захватывает лишнюю траву.",
+    "evidence_sheet": "sheets/12.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1619850404449263,
+        "top": 0.09728400512981832,
+        "width": 0.6651041647788798,
+        "height": 0.6759807756789986
+      }
+    ]
+  },
+  {
+    "photo_id": "758303142",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/12.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2749971129900386,
+        "top": 0.17352185089974292,
+        "width": 0.34781566315874035,
+        "height": 0.5604113110539846
+      }
+    ]
+  },
+  {
+    "photo_id": "758364081",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/12.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.02208826601671309,
+        "top": 0.2298050139275766,
+        "width": 0.9232895194986073,
+        "height": 0.6852367688022284
+      }
+    ]
+  },
+  {
+    "photo_id": "758370761",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Осмотрен весь кадр на обзорном листе: целевой объект обведён, явных пропусков или лишних рамок не видно; различия двух вариантов невелики.",
+    "evidence_sheet": "sheets/12.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4798461549689464,
+        "top": 0.21689497716894976,
+        "width": 0.42148648747272305,
+        "height": 0.547945205479452
+      }
+    ]
+  },
+  {
+    "photo_id": "759073486",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Вариант B включает тонкие конечности/усики за пределами рамки A.",
+    "evidence_sheet": "sheets/12.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.42534233871188465,
+        "top": 0.2866570113168498,
+        "width": 0.2679795512118398,
+        "height": 0.3858207219401732
+      }
+    ]
+  },
+  {
+    "photo_id": "759975921",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Это взрослая ночная бабочка с перистыми усиками, не пустой кадр. Вариант B.",
+    "evidence_sheet": "sheets/13.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.16405373938891207,
+        "top": 0.2174681878092654,
+        "width": 0.7974354169069311,
+        "height": 0.66551339714758
+      }
+    ]
+  },
+  {
+    "photo_id": "760578624",
+    "reviewer": "assistant",
+    "decision": "select_candidate_B",
+    "reason": "Вариант B включает выступающий влево усик, обрезанный в A.",
+    "evidence_sheet": "sheets/13.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.321285140562249,
+        "top": 0.3152610441767068,
+        "width": 0.34805890227576974,
+        "height": 0.3935742971887551
+      }
+    ]
+  },
+  {
+    "photo_id": "759133629",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "На снимке оса у гнезда; взрослых чешуекрылых не видно.",
+    "evidence_sheet": "sheets/13.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": []
+  },
+  {
+    "photo_id": "761551914",
+    "reviewer": "assistant",
+    "decision": "select_candidate_A",
+    "reason": "На снимке пчела-плотник, не взрослая бабочка; других целевых объектов не видно.",
+    "evidence_sheet": "sheets/13.jpg",
+    "confidence": "high",
+    "human_confirmed": false,
+    "boxes": []
+  }
+]

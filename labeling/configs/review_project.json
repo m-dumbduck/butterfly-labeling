@@ -1,0 +1,98 @@
+{
+  "id": "11742",
+  "public_name": "Проверьте рамки вокруг бабочек",
+  "public_description": "Посмотрите на фото с рамками и ответьте, все ли бабочки обведены верно",
+  "public_instructions": "<p>На фото бабочки обведены рамками. Посмотрите на всё фото целиком и ответьте, всё ли обведено верно.</p>\n\n<h3>Как должно быть</h3>\n<p>Каждая взрослая бабочка обведена своей рамкой. Это касается и дневных, и ночных бабочек, моль тоже считается. Рамка плотно охватывает всю видимую бабочку: крылья, тело, усики и лапки. Если часть бабочки закрыта листом или обрезана краем фото, рамка охватывает только видимую часть.</p>\n<p>Гусеницы, куколки, пчёлы, осы, мухи, жуки, стрекозы и другие насекомые не обводятся. Тени и отражения бабочек тоже.</p>\n\n<h3>Как проверять</h3>\n<ul><li>Сначала просмотрите всё фото, включая края и траву. Увеличьте его кнопкой с лупой, чтобы не пропустить маленьких бабочек.</li><li>Потом проверьте каждую рамку: стоит ли она на бабочке и плотно ли её охватывает.</li></ul>\n\n<h3>Когда отвечать «Нет, есть ошибка»</h3>\n<ul><li>Пропущена бабочка: на фото есть бабочка без рамки.</li><li>Лишняя рамка: она стоит на гусенице, другом насекомом, тени или на пустом месте.</li><li>Рамка неточная: срезает заметную часть крыла или усики, или вокруг бабочки много пустого места.</li><li>Одна рамка охватывает сразу несколько бабочек.</li></ul>\n<p>Отметьте все ошибки, которые видите.</p>\n<p>Если рамка лишь немного шире или уже бабочки, это не ошибка.</p>\n\n<h3>Если рамок нет</h3>\n<p>Иногда на фото нет ни одной рамки. Проверьте, что бабочек на фото действительно нет. Если их нет, ответ «Да, всё верно». Если бабочка есть, ответ «Нет, есть ошибка» и причина «Пропущена бабочка».</p>\n\n<h3>Если фото не открылось</h3>\n<p>Выберите «Картинка не загрузилась».</p>\n\n<h3>Как проверяются ответы</h3>\n<p>Для части фото мы знаем правильный ответ и сверяем с ним ваши. Если ошибок на таких фото много, доступ к заданиям закроется. Работайте внимательно: точность важнее скорости.</p>\n\n<h3>Примеры</h3>\n<p>1. Одна бабочка, рамка плотно охватывает оба крыла и усики. Паук на цветах не бабочка, рамки на нём нет. Ответ «Да, всё верно».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/01_238254551_ok.jpg\" alt=\"Пример 1\" style=\"max-width:100%\" /></p>\n<p>2. На фото только куст, бабочек нет, рамок тоже нет. Это верно. Ответ «Да, всё верно».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/02_636356818_ok_empty.jpg\" alt=\"Пример 2\" style=\"max-width:100%\" /></p>\n<p>3. Ночная бабочка, рамка чуть шире неё. Такая небольшая неточность ошибкой не считается. Ответ «Да, всё верно».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/03_692094280_ok_slightly_wide.jpg\" alt=\"Пример 3\" style=\"max-width:100%\" /></p>\n<p>4. Бабочек две, а рамка только у одной. Ответ «Нет, есть ошибка», причина «Пропущена бабочка».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/04_207350716_missed.jpg\" alt=\"Пример 4\" style=\"max-width:100%\" /></p>\n<p>5. Внизу в траве маленькая голубая бабочка, рамки нет. Маленьких бабочек легко не заметить: просматривайте всё фото и увеличивайте его. Ответ «Нет, есть ошибка», причина «Пропущена бабочка».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/05_514184980_missed_small.jpg\" alt=\"Пример 5\" style=\"max-width:100%\" /></p>\n<p>6. Рамка стоит на пчеле. Пчёл, ос, мух и других насекомых не обводим. Ответ «Нет, есть ошибка», причина «Лишняя рамка».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/06_425859526_extra_bee.jpg\" alt=\"Пример 6\" style=\"max-width:100%\" /></p>\n<p>7. Рамка срезает верхнюю часть крыльев. Ответ «Нет, есть ошибка», причина «Рамка неточная».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/07_165605055_loose_cut.jpg\" alt=\"Пример 7\" style=\"max-width:100%\" /></p>\n<p>8. Та же бабочка, что в примере 1, но рамка захватывает много пустого места слева и снизу. Ответ «Нет, есть ошибка», причина «Рамка неточная».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/08_238254551_loose_wide.jpg\" alt=\"Пример 8\" style=\"max-width:100%\" /></p>\n<p>9. Две бабочки обведены одной общей рамкой, а нужна своя рамка каждой. Ответ «Нет, есть ошибка», причина «Одна рамка на несколько бабочек».</p>\n<p><img src=\"https://raw.githubusercontent.com/m-dumbduck/butterfly-labeling/main/configs/review_instruction_images/09_207350716_merged.jpg\" alt=\"Пример 9\" style=\"max-width:100%\" /></p>",
+  "public_instructions_price": 0.0,
+  "task_spec": {
+    "input_spec": {
+      "boxes": {
+        "type": "json",
+        "hidden": false,
+        "required": false
+      },
+      "image": {
+        "type": "url",
+        "hidden": false,
+        "required": true
+      },
+      "photo_id": {
+        "type": "string",
+        "hidden": false,
+        "required": true
+      },
+      "bbox_assignment_id": {
+        "type": "string",
+        "hidden": true,
+        "required": false
+      }
+    },
+    "output_spec": {
+      "reasons": {
+        "type": "json",
+        "hidden": false,
+        "required": false
+      },
+      "verdict": {
+        "type": "string",
+        "hidden": false,
+        "required": true,
+        "allowed_values": [
+          "ok",
+          "bad",
+          "load_error"
+        ]
+      }
+    },
+    "view_spec": {
+      "lock": {
+        "core": "1.0.0",
+        "helper.if": "1.0.0",
+        "view.list": "1.0.0",
+        "action.set": "1.0.0",
+        "condition.all": "1.0.0",
+        "condition.any": "1.0.0",
+        "condition.not": "1.0.0",
+        "plugin.toloka": "1.0.0",
+        "plugin.hotkeys": "1.0.0",
+        "condition.equals": "1.0.0",
+        "condition.required": "1.0.0",
+        "field.checkbox-group": "1.0.0",
+        "field.image-annotation": "1.0.0",
+        "field.button-radio-group": "1.0.0"
+      },
+      "type": "tb",
+      "config": "{\"view\": {\"type\": \"view.list\", \"items\": [{\"type\": \"field.image-annotation\", \"image\": {\"type\": \"data.input\", \"path\": \"image\"}, \"shapes\": {\"rectangle\": true}, \"fullHeight\": true, \"disabled\": true, \"data\": {\"type\": \"data.internal\", \"path\": \"shown_boxes\", \"default\": {\"type\": \"data.input\", \"path\": \"boxes\"}}}, {\"type\": \"field.button-radio-group\", \"label\": \"Все бабочки обведены верно?\", \"options\": [{\"label\": \"Да, всё верно\", \"value\": \"ok\"}, {\"label\": \"Нет, есть ошибка\", \"value\": \"bad\"}, {\"label\": \"Картинка не загрузилась\", \"value\": \"load_error\"}], \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"validation\": {\"type\": \"condition.all\", \"conditions\": [{\"type\": \"condition.required\", \"hint\": \"Выберите ответ\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-01\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"ok\"}], \"hint\": \"Просмотрите всё фото и каждую рамку: стоит ли рамка на бабочке, плотно ли её охватывает, у каждой ли бабочки своя рамка.\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-02\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"ok\"}], \"hint\": \"Просмотрите всё фото и каждую рамку: стоит ли рамка на бабочке, плотно ли её охватывает, у каждой ли бабочки своя рамка.\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-03\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"ok\"}], \"hint\": \"Просмотрите всё фото и каждую рамку: стоит ли рамка на бабочке, плотно ли её охватывает, у каждой ли бабочки своя рамка.\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-04\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"ok\"}], \"hint\": \"Просмотрите всё фото, увеличьте его. Есть ли здесь взрослая бабочка? Гусениц, пчёл, ос и жуков не обводим.\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-05\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"ok\"}], \"hint\": \"Просмотрите всё фото, увеличьте его. Есть ли здесь взрослая бабочка? Гусениц, пчёл, ос и жуков не обводим.\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-06\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"bad\"}], \"hint\": \"Просмотрите всё фото: у каждой ли бабочки есть своя рамка?\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-07\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"bad\"}], \"hint\": \"Посмотрите, на ком стоит рамка: это взрослая бабочка?\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-08\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"bad\"}], \"hint\": \"Сравните рамку с бабочкой: вся ли бабочка внутри рамки, с крыльями и усиками?\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-09\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"bad\"}], \"hint\": \"Сравните рамку с бабочкой: плотно ли рамка охватывает бабочку или вокруг много пустого места?\"}, {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.not\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.input\", \"path\": \"bbox_assignment_id\"}, \"to\": \"train-10\"}}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"bad\"}], \"hint\": \"Посчитайте бабочек и рамки: у каждой бабочки должна быть своя рамка.\"}]}}, {\"type\": \"helper.if\", \"condition\": {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"to\": \"bad\"}, \"then\": {\"type\": \"field.checkbox-group\", \"label\": \"Что не так? Можно отметить несколько\", \"options\": [{\"label\": \"Пропущена бабочка\", \"value\": \"missed\"}, {\"label\": \"Лишняя рамка: на другом насекомом, гусенице или пустом месте\", \"value\": \"extra\"}, {\"label\": \"Рамка неточная: срезает часть бабочки или слишком большая\", \"value\": \"loose\"}, {\"label\": \"Одна рамка на несколько бабочек\", \"value\": \"merged\"}], \"data\": {\"type\": \"data.output\", \"path\": \"reasons\"}, \"validation\": {\"type\": \"condition.required\", \"hint\": \"Отметьте хотя бы одну причину\"}}}]}, \"plugins\": [{\"type\": \"plugin.toloka\", \"layout\": {\"kind\": \"pager\"}}, {\"type\": \"plugin.hotkeys\", \"1\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"payload\": \"ok\"}, \"2\": {\"type\": \"action.set\", \"data\": {\"type\": \"data.output\", \"path\": \"verdict\"}, \"payload\": \"bad\"}}]}",
+      "settings": {
+        "showSkip": true,
+        "showTimer": true,
+        "showTitle": true,
+        "showFinish": true,
+        "showReward": true,
+        "showSubmit": true,
+        "showMessage": true,
+        "showFullscreen": true,
+        "showInstructions": true
+      },
+      "inputExample": "{\"photo_id\": \"380522940\", \"image\": \"https://inaturalist-open-data.s3.amazonaws.com/photos/380522940/original.jpeg\", \"boxes\": [{\"shape\": \"rectangle\", \"left\": 0.1367, \"top\": 0.4453, \"width\": 0.4134, \"height\": 0.4385}], \"bbox_assignment_id\": \"train-06\"}",
+      "inferDataSpec": false,
+      "localizationConfig": null
+    }
+  },
+  "assignments_issuing_type": "AUTOMATED",
+  "assignments_automerge_enabled": false,
+  "localization_config": {
+    "default_language": "RU",
+    "additional_languages": []
+  },
+  "service_type": "UNDEFINED",
+  "project_types": [],
+  "content_types": [],
+  "owner": {
+    "id": "a909a76c5d6bef57abb34177f2be3d22",
+    "myself": true,
+    "company_id": "151"
+  },
+  "status": "ACTIVE",
+  "created": "2026-11-13T09:17:41.480"
+}

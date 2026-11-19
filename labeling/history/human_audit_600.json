@@ -1,0 +1,4612 @@
+{
+  "schema": "hw5_final_human_audit_v1",
+  "rows": [
+    {
+      "n": 1,
+      "photo_id": "1013509",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/1013509.jpg",
+      "width": 960,
+      "height": 720,
+      "boxes_json": [
+        {
+          "left": 0.5225615320770495,
+          "top": 0.4292084229717411,
+          "width": 0.08067456924520744,
+          "height": 0.12685356426618044
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Charaxes jasius",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Charaxes jasius",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "http://www.inaturalist.org/observations/804373"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.50862,
+          "top": 0.43012,
+          "width": 0.09303,
+          "height": 0.14273
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 2,
+      "photo_id": "138010255",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/138010255.jpg",
+      "width": 1649,
+      "height": 1237,
+      "boxes_json": [
+        {
+          "left": 0.23636,
+          "top": 0.19879,
+          "width": 0.43603,
+          "height": 0.67875
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Papilio multicaudata",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Papilio multicaudata",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/83998240"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.23636,
+          "top": 0.19879,
+          "width": 0.43603,
+          "height": 0.67875
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 3,
+      "photo_id": "756575793",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/756575793.jpg",
+      "width": 1152,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.38994,
+          "top": 0.37203,
+          "width": 0.34019,
+          "height": 0.10675
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Burara jaina",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Burara jaina",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/411281134"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.38994,
+          "top": 0.37203,
+          "width": 0.34019,
+          "height": 0.10675
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 4,
+      "photo_id": "597721622",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/597721622.jpg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [
+        {
+          "left": 0.33313,
+          "top": 0.03948,
+          "width": 0.4092905565839537,
+          "height": 0.5685418778486783
+        },
+        {
+          "left": 0.43927,
+          "top": 0.41936,
+          "width": 0.30669,
+          "height": 0.56157
+        }
+      ],
+      "count": "2",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Parides sesostris",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Parides sesostris",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/329714235"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.33313,
+          "top": 0.03948,
+          "width": 0.41102,
+          "height": 0.51722
+        },
+        {
+          "left": 0.43927,
+          "top": 0.41936,
+          "width": 0.30669,
+          "height": 0.56157
+        }
+      ],
+      "source_count": 2,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 5,
+      "photo_id": "446301802",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/446301802.jpg",
+      "width": 2048,
+      "height": 1536,
+      "boxes_json": [
+        {
+          "left": 0.44034,
+          "top": 0.23495,
+          "width": 0.32401,
+          "height": 0.28757
+        },
+        {
+          "left": 0.21342,
+          "top": 0.41804,
+          "width": 0.55943,
+          "height": 0.26314
+        }
+      ],
+      "count": "2",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Dione vanillae",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Dione vanillae",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/249647125"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.44034,
+          "top": 0.23495,
+          "width": 0.32401,
+          "height": 0.28757
+        },
+        {
+          "left": 0.21342,
+          "top": 0.41804,
+          "width": 0.55943,
+          "height": 0.26314
+        }
+      ],
+      "source_count": 2,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 6,
+      "photo_id": "736215374",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/736215374.jpg",
+      "width": 2048,
+      "height": 1661,
+      "boxes_json": [
+        {
+          "left": 0.0953,
+          "top": 0.03372835004557885,
+          "width": 0.75070030197196,
+          "height": 0.8937716499544212
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Agrius convolvuli",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Agrius convolvuli",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/401131256"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.0953,
+          "top": 0.04125,
+          "width": 0.75224,
+          "height": 0.88625
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 7,
+      "photo_id": "74459866",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/74459866.jpeg",
+      "width": 2048,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Glyphotaelius pellucidus",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Glyphotaelius pellucidus",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/46949631"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 8,
+      "photo_id": "425857766",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/425857766.jpeg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [
+        {
+          "left": 0.43493,
+          "top": 0.44382,
+          "width": 0.11167,
+          "height": 0.1262
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Azanus jesous",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Azanus jesous",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/239142281"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.43493,
+          "top": 0.44382,
+          "width": 0.11167,
+          "height": 0.1262
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 9,
+      "photo_id": "439945209",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/439945209.jpeg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [
+        {
+          "left": 0,
+          "top": 0.5263194444444445,
+          "width": 0.2846527099609375,
+          "height": 0.25
+        },
+        {
+          "left": 0.4154078165690104,
+          "top": 0.15479166666666663,
+          "width": 0.25596682333141973,
+          "height": 0.40768028804361545
+        }
+      ],
+      "count": "2",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Dichorragia ninus",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Dichorragia ninus",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/246435733"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0,
+          "top": 0.5263194444444445,
+          "width": 0.2846527099609375,
+          "height": 0.25
+        },
+        {
+          "left": 0.4154078165690104,
+          "top": 0.15479166666666663,
+          "width": 0.25596682333141973,
+          "height": 0.40768028804361545
+        }
+      ],
+      "source_count": 2,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 10,
+      "photo_id": "560763637",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/560763637.jpg",
+      "width": 2048,
+      "height": 1837,
+      "boxes_json": [
+        {
+          "left": 0.46853,
+          "top": 0.49775,
+          "width": 0.09851824202780046,
+          "height": 0.0883940291704649
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Limenitis lorquini",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Limenitis lorquini",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/310688453"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.46853,
+          "top": 0.49775,
+          "width": 0.10618,
+          "height": 0.09019
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 11,
+      "photo_id": "688498072",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/688498072.jpg",
+      "width": 1368,
+      "height": 1024,
+      "boxes_json": [
+        {
+          "left": 0.4363,
+          "top": 0.47875,
+          "width": 0.05415276036540545,
+          "height": 0.14112237921604376
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Nymphalis californica",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Nymphalis californica",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/376554546"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.4363,
+          "top": 0.47875,
+          "width": 0.07707,
+          "height": 0.14235
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 12,
+      "photo_id": "597419379",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/597419379.jpg",
+      "width": 1473,
+      "height": 1571,
+      "boxes_json": [
+        {
+          "left": 0.21542475776126804,
+          "top": 0.6530801056314537,
+          "width": 0.03919941498129312,
+          "height": 0.08599079477274596
+        },
+        {
+          "left": 0.26275990038018804,
+          "top": 0.6003760701255771,
+          "width": 0.09171183882415751,
+          "height": 0.09708638119503565
+        },
+        {
+          "left": 0.16143311071156247,
+          "top": 0.6149390273048325,
+          "width": 0.04363708460181687,
+          "height": 0.06726699268513181
+        },
+        {
+          "left": 0.2043305837099587,
+          "top": 0.6066173374881151,
+          "width": 0.061387763083911806,
+          "height": 0.07281478589627677
+        },
+        {
+          "left": 0.3359814491188299,
+          "top": 0.5920543803088597,
+          "width": 0.051033200636023124,
+          "height": 0.08737774307553214
+        },
+        {
+          "left": 0.4306517343566698,
+          "top": 0.6045369150339357,
+          "width": 0.028105240929983732,
+          "height": 0.08252342401578039
+        },
+        {
+          "left": 0.461715421700336,
+          "top": 0.5802653197351768,
+          "width": 0.05325203544628504,
+          "height": 0.07212131174488368
+        },
+        {
+          "left": 0.7057872508291422,
+          "top": 0.5920543803088597,
+          "width": 0.06878387911811812,
+          "height": 0.08460384646995978
+        },
+        {
+          "left": 0.6436598761418096,
+          "top": 0.5740240523726388,
+          "width": 0.03624096856761072,
+          "height": 0.07558868250184925
+        },
+        {
+          "left": 0.6732443402786347,
+          "top": 0.5719436299184595,
+          "width": 0.054731258653126114,
+          "height": 0.07836257910742173
+        },
+        {
+          "left": 0.5807928898510566,
+          "top": 0.5712501557670663,
+          "width": 0.06582543270443553,
+          "height": 0.08321689816717348
+        },
+        {
+          "left": 0.5911474522989454,
+          "top": 0.5788783714323905,
+          "width": 0.019229901688936235,
+          "height": 0.07628215665324256
+        },
+        {
+          "left": 0.5549064837313347,
+          "top": 0.5539133019822385,
+          "width": 0.03328252215392824,
+          "height": 0.07697563080463554
+        },
+        {
+          "left": 0.7545705798707374,
+          "top": 0.5470447006194394,
+          "width": 0.04791965714198165,
+          "height": 0.06760169946742733
+        },
+        {
+          "left": 0.792378749725879,
+          "top": 0.5293198647834677,
+          "width": 0.03341187103477605,
+          "height": 0.06925052140565713
+        },
+        {
+          "left": 0.7422609431737146,
+          "top": 0.5144804673393982,
+          "width": 0.016266305635351586,
+          "height": 0.07914345303503689
+        },
+        {
+          "left": 0.6749975712221257,
+          "top": 0.5190147276695305,
+          "width": 0.06506522254140623,
+          "height": 0.07048713785932981
+        },
+        {
+          "left": 0.664446454053249,
+          "top": 0.4740843298527648,
+          "width": 0.05099706631623735,
+          "height": 0.06100641171450755
+        },
+        {
+          "left": 0.6393875507771668,
+          "top": 0.43698583624259124,
+          "width": 0.03165335150663018,
+          "height": 0.06018200074539265
+        },
+        {
+          "left": 0.5919075235172219,
+          "top": 0.4687256585535175,
+          "width": 0.046161137613835446,
+          "height": 0.05523553493070282
+        },
+        {
+          "left": 0.5905886338711123,
+          "top": 0.4328637813970165,
+          "width": 0.04000631926532405,
+          "height": 0.042044959424863304
+        },
+        {
+          "left": 0.5901490039890755,
+          "top": 0.38875779454936565,
+          "width": 0.020222974573680386,
+          "height": 0.05235009653880052
+        },
+        {
+          "left": 0.35432287603458146,
+          "top": 0.41390053974438457,
+          "width": 0.05319704597211172,
+          "height": 0.06090437100849466
+        },
+        {
+          "left": 0.3078454569221049,
+          "top": 0.35562135714142856,
+          "width": 0.02631853853357108,
+          "height": 0.04252805216972466
+        },
+        {
+          "left": 0.20593111621763832,
+          "top": 0.34932090496813595,
+          "width": 0.027438476343510237,
+          "height": 0.03675263767753989
+        },
+        {
+          "left": 0.1740128886343713,
+          "top": 0.3624468469958288,
+          "width": 0.032478196488236605,
+          "height": 0.037277675358647566
+        },
+        {
+          "left": 0.2434490328506013,
+          "top": 0.33882015134598176,
+          "width": 0.01567912933914875,
+          "height": 0.0441031652130478
+        },
+        {
+          "left": 0.36832209865882143,
+          "top": 0.32096887018831954,
+          "width": 0.025198600723631837,
+          "height": 0.04830346666190949
+        },
+        {
+          "left": 0.3940806682874229,
+          "top": 0.31676856873945786,
+          "width": 0.029678351963388583,
+          "height": 0.053028805791878963
+        },
+        {
+          "left": 0.22335122748248207,
+          "top": 0.4685260483957575,
+          "width": 0.03953875292408329,
+          "height": 0.04884820685515845
+        },
+        {
+          "left": 0.40476432913415855,
+          "top": 0.5356923328216002,
+          "width": 0.04698134170979312,
+          "height": 0.06978315265022628
+        },
+        {
+          "left": 0.3777849447859605,
+          "top": 0.4986200329761676,
+          "width": 0.03209616413837357,
+          "height": 0.05713495623237269
+        },
+        {
+          "left": 0.31219713111189284,
+          "top": 0.4933862965274007,
+          "width": 0.04791166530800689,
+          "height": 0.0562626668242448
+        },
+        {
+          "left": 0.3317339266743811,
+          "top": 0.5165019658427881,
+          "width": 0.05535425409371664,
+          "height": 0.07327231028273751
+        },
+        {
+          "left": 0.2410273758485428,
+          "top": 0.5500851080557094,
+          "width": 0.04232972371872454,
+          "height": 0.05931567975269236
+        },
+        {
+          "left": 0.20381443191999382,
+          "top": 0.5618610150654352,
+          "width": 0.03860842932586958,
+          "height": 0.046231338630774776
+        },
+        {
+          "left": 0.17125310598251342,
+          "top": 0.5287140175565778,
+          "width": 0.04930715070532746,
+          "height": 0.06542170560958704
+        },
+        {
+          "left": 0.18334731275929184,
+          "top": 0.5191188340671716,
+          "width": 0.01721098656695394,
+          "height": 0.03183856339666569
+        },
+        {
+          "left": 0.21823444769230657,
+          "top": 0.506906782353382,
+          "width": 0.02139744275891567,
+          "height": 0.03314699750885741
+        },
+        {
+          "left": 0.22242090388426833,
+          "top": 0.5117043740980851,
+          "width": 0.059075548486571594,
+          "height": 0.0423060362941996
+        },
+        {
+          "left": 0.29126485015208403,
+          "top": 0.5413622139744312,
+          "width": 0.03953875292408332,
+          "height": 0.06324098208926754
+        },
+        {
+          "left": 0.26568095120120655,
+          "top": 0.5308947410768973,
+          "width": 0.02558389895087748,
+          "height": 0.06673013972177888
+        },
+        {
+          "left": 0.2754493489824507,
+          "top": 0.43712362970315577,
+          "width": 0.060471033883892134,
+          "height": 0.06978315265022628
+        },
+        {
+          "left": 0.41552070291970267,
+          "top": 0.4548227048867873,
+          "width": 0.03100711988866206,
+          "height": 0.04614742161599544
+        },
+        {
+          "left": 0.44357476377134925,
+          "top": 0.4622062923453466,
+          "width": 0.03297582591333903,
+          "height": 0.04014825680591594
+        },
+        {
+          "left": 0.496729826437627,
+          "top": 0.44605469477974813,
+          "width": 0.03986629699970834,
+          "height": 0.04522447318367562
+        },
+        {
+          "left": 0.5513614186224125,
+          "top": 0.43082604564646965,
+          "width": 0.02608535482696961,
+          "height": 0.05260806064223483
+        },
+        {
+          "left": 0.5375804764496739,
+          "top": 0.45020796272518776,
+          "width": 0.01525747169124636,
+          "height": 0.034149091995836656
+        },
+        {
+          "left": 0.41453634990736415,
+          "top": 0.5023545491512625,
+          "width": 0.034944531938015944,
+          "height": 0.03138024669887696
+        },
+        {
+          "left": 0.6069773638195365,
+          "top": 0.5060463428805422,
+          "width": 0.05955335724647781,
+          "height": 0.04199415367055592
+        },
+        {
+          "left": 0.6222348355107828,
+          "top": 0.5365036411470991,
+          "width": 0.05217070965393933,
+          "height": 0.05399248329071471
+        },
+        {
+          "left": 0.5331508878941507,
+          "top": 0.5378880637955791,
+          "width": 0.04134282651821608,
+          "height": 0.03968678258975611
+        },
+        {
+          "left": 0.4878706493265807,
+          "top": 0.5669609394136562,
+          "width": 0.06398294580200098,
+          "height": 0.06137607074927398
+        },
+        {
+          "left": 0.4963867782166108,
+          "top": 0.48929768267124346,
+          "width": 0.04171803966348098,
+          "height": 0.03701264979732827
+        },
+        {
+          "left": 0.4533229953381789,
+          "top": 0.5019156314657871,
+          "width": 0.03723222894697764,
+          "height": 0.08285786375083715
+        },
+        {
+          "left": 0.5416934664532944,
+          "top": 0.48971828096439485,
+          "width": 0.06280135003104648,
+          "height": 0.07865188081932262
+        },
+        {
+          "left": 0.032689124769518185,
+          "top": 0.4409603212380329,
+          "width": 0.06197025475233768,
+          "height": 0.06640515431495392
+        }
+      ],
+      "count": "6+",
+      "role": "audit",
+      "note": "Подтвердить спорное решение; Много объектов: проверить пропуски",
+      "taxon_name": "Catopsilia pomona",
+      "reasons": [
+        "manual_decision_needs_human_confirmation",
+        "crowded_scene"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Catopsilia pomona",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/329563383"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.21542475776126804,
+          "top": 0.6530801056314537,
+          "width": 0.03919941498129312,
+          "height": 0.08599079477274596
+        },
+        {
+          "left": 0.26275990038018804,
+          "top": 0.6003760701255771,
+          "width": 0.09171183882415751,
+          "height": 0.09708638119503565
+        },
+        {
+          "left": 0.16143311071156247,
+          "top": 0.6149390273048325,
+          "width": 0.04363708460181687,
+          "height": 0.06726699268513181
+        },
+        {
+          "left": 0.2043305837099587,
+          "top": 0.6066173374881151,
+          "width": 0.061387763083911806,
+          "height": 0.07281478589627677
+        },
+        {
+          "left": 0.3359814491188299,
+          "top": 0.5920543803088597,
+          "width": 0.051033200636023124,
+          "height": 0.08737774307553214
+        },
+        {
+          "left": 0.4306517343566698,
+          "top": 0.6045369150339357,
+          "width": 0.028105240929983732,
+          "height": 0.08252342401578039
+        },
+        {
+          "left": 0.461715421700336,
+          "top": 0.5802653197351768,
+          "width": 0.05325203544628504,
+          "height": 0.07212131174488368
+        },
+        {
+          "left": 0.7057872508291422,
+          "top": 0.5920543803088597,
+          "width": 0.06878387911811812,
+          "height": 0.08460384646995978
+        },
+        {
+          "left": 0.6436598761418096,
+          "top": 0.5740240523726388,
+          "width": 0.03624096856761072,
+          "height": 0.07558868250184925
+        },
+        {
+          "left": 0.6732443402786347,
+          "top": 0.5719436299184595,
+          "width": 0.054731258653126114,
+          "height": 0.07836257910742173
+        },
+        {
+          "left": 0.5807928898510566,
+          "top": 0.5712501557670663,
+          "width": 0.06582543270443553,
+          "height": 0.08321689816717348
+        },
+        {
+          "left": 0.5911474522989454,
+          "top": 0.5788783714323905,
+          "width": 0.019229901688936235,
+          "height": 0.07628215665324256
+        },
+        {
+          "left": 0.5549064837313347,
+          "top": 0.5539133019822385,
+          "width": 0.03328252215392824,
+          "height": 0.07697563080463554
+        },
+        {
+          "left": 0.7545705798707374,
+          "top": 0.5470447006194394,
+          "width": 0.04791965714198165,
+          "height": 0.06760169946742733
+        },
+        {
+          "left": 0.792378749725879,
+          "top": 0.5293198647834677,
+          "width": 0.03341187103477605,
+          "height": 0.06925052140565713
+        },
+        {
+          "left": 0.7422609431737146,
+          "top": 0.5144804673393982,
+          "width": 0.016266305635351586,
+          "height": 0.07914345303503689
+        },
+        {
+          "left": 0.6749975712221257,
+          "top": 0.5190147276695305,
+          "width": 0.06506522254140623,
+          "height": 0.07048713785932981
+        },
+        {
+          "left": 0.664446454053249,
+          "top": 0.4740843298527648,
+          "width": 0.05099706631623735,
+          "height": 0.06100641171450755
+        },
+        {
+          "left": 0.6393875507771668,
+          "top": 0.43698583624259124,
+          "width": 0.03165335150663018,
+          "height": 0.06018200074539265
+        },
+        {
+          "left": 0.5919075235172219,
+          "top": 0.4687256585535175,
+          "width": 0.046161137613835446,
+          "height": 0.05523553493070282
+        },
+        {
+          "left": 0.5905886338711123,
+          "top": 0.4328637813970165,
+          "width": 0.04000631926532405,
+          "height": 0.042044959424863304
+        },
+        {
+          "left": 0.5901490039890755,
+          "top": 0.38875779454936565,
+          "width": 0.020222974573680386,
+          "height": 0.05235009653880052
+        },
+        {
+          "left": 0.35432287603458146,
+          "top": 0.41390053974438457,
+          "width": 0.05319704597211172,
+          "height": 0.06090437100849466
+        },
+        {
+          "left": 0.3078454569221049,
+          "top": 0.35562135714142856,
+          "width": 0.02631853853357108,
+          "height": 0.04252805216972466
+        },
+        {
+          "left": 0.20593111621763832,
+          "top": 0.34932090496813595,
+          "width": 0.027438476343510237,
+          "height": 0.03675263767753989
+        },
+        {
+          "left": 0.1740128886343713,
+          "top": 0.3624468469958288,
+          "width": 0.032478196488236605,
+          "height": 0.037277675358647566
+        },
+        {
+          "left": 0.2434490328506013,
+          "top": 0.33882015134598176,
+          "width": 0.01567912933914875,
+          "height": 0.0441031652130478
+        },
+        {
+          "left": 0.36832209865882143,
+          "top": 0.32096887018831954,
+          "width": 0.025198600723631837,
+          "height": 0.04830346666190949
+        },
+        {
+          "left": 0.3940806682874229,
+          "top": 0.31676856873945786,
+          "width": 0.029678351963388583,
+          "height": 0.053028805791878963
+        },
+        {
+          "left": 0.22335122748248207,
+          "top": 0.4685260483957575,
+          "width": 0.03953875292408329,
+          "height": 0.04884820685515845
+        },
+        {
+          "left": 0.40476432913415855,
+          "top": 0.5356923328216002,
+          "width": 0.04698134170979312,
+          "height": 0.06978315265022628
+        },
+        {
+          "left": 0.3777849447859605,
+          "top": 0.4986200329761676,
+          "width": 0.03209616413837357,
+          "height": 0.05713495623237269
+        },
+        {
+          "left": 0.31219713111189284,
+          "top": 0.4933862965274007,
+          "width": 0.04791166530800689,
+          "height": 0.0562626668242448
+        },
+        {
+          "left": 0.3317339266743811,
+          "top": 0.5165019658427881,
+          "width": 0.05535425409371664,
+          "height": 0.07327231028273751
+        },
+        {
+          "left": 0.2410273758485428,
+          "top": 0.5500851080557094,
+          "width": 0.04232972371872454,
+          "height": 0.05931567975269236
+        },
+        {
+          "left": 0.20381443191999382,
+          "top": 0.5618610150654352,
+          "width": 0.03860842932586958,
+          "height": 0.046231338630774776
+        },
+        {
+          "left": 0.17125310598251342,
+          "top": 0.5287140175565778,
+          "width": 0.04930715070532746,
+          "height": 0.06542170560958704
+        },
+        {
+          "left": 0.18334731275929184,
+          "top": 0.5191188340671716,
+          "width": 0.01721098656695394,
+          "height": 0.03183856339666569
+        },
+        {
+          "left": 0.21823444769230657,
+          "top": 0.506906782353382,
+          "width": 0.02139744275891567,
+          "height": 0.03314699750885741
+        },
+        {
+          "left": 0.22242090388426833,
+          "top": 0.5117043740980851,
+          "width": 0.059075548486571594,
+          "height": 0.0423060362941996
+        },
+        {
+          "left": 0.29126485015208403,
+          "top": 0.5413622139744312,
+          "width": 0.03953875292408332,
+          "height": 0.06324098208926754
+        },
+        {
+          "left": 0.26568095120120655,
+          "top": 0.5308947410768973,
+          "width": 0.02558389895087748,
+          "height": 0.06673013972177888
+        },
+        {
+          "left": 0.2754493489824507,
+          "top": 0.43712362970315577,
+          "width": 0.060471033883892134,
+          "height": 0.06978315265022628
+        },
+        {
+          "left": 0.41552070291970267,
+          "top": 0.4548227048867873,
+          "width": 0.03100711988866206,
+          "height": 0.04614742161599544
+        },
+        {
+          "left": 0.44357476377134925,
+          "top": 0.4622062923453466,
+          "width": 0.03297582591333903,
+          "height": 0.04014825680591594
+        },
+        {
+          "left": 0.496729826437627,
+          "top": 0.44605469477974813,
+          "width": 0.03986629699970834,
+          "height": 0.04522447318367562
+        },
+        {
+          "left": 0.5513614186224125,
+          "top": 0.43082604564646965,
+          "width": 0.02608535482696961,
+          "height": 0.05260806064223483
+        },
+        {
+          "left": 0.5375804764496739,
+          "top": 0.45020796272518776,
+          "width": 0.01525747169124636,
+          "height": 0.034149091995836656
+        },
+        {
+          "left": 0.41453634990736415,
+          "top": 0.5023545491512625,
+          "width": 0.034944531938015944,
+          "height": 0.03138024669887696
+        },
+        {
+          "left": 0.6069773638195365,
+          "top": 0.5060463428805422,
+          "width": 0.05955335724647781,
+          "height": 0.04199415367055592
+        },
+        {
+          "left": 0.6222348355107828,
+          "top": 0.5365036411470991,
+          "width": 0.05217070965393933,
+          "height": 0.05399248329071471
+        },
+        {
+          "left": 0.5331508878941507,
+          "top": 0.5378880637955791,
+          "width": 0.04134282651821608,
+          "height": 0.03968678258975611
+        },
+        {
+          "left": 0.4878706493265807,
+          "top": 0.5669609394136562,
+          "width": 0.06398294580200098,
+          "height": 0.06137607074927398
+        },
+        {
+          "left": 0.4963867782166108,
+          "top": 0.48929768267124346,
+          "width": 0.04171803966348098,
+          "height": 0.03701264979732827
+        },
+        {
+          "left": 0.4533229953381789,
+          "top": 0.5019156314657871,
+          "width": 0.03723222894697764,
+          "height": 0.08285786375083715
+        },
+        {
+          "left": 0.5416934664532944,
+          "top": 0.48971828096439485,
+          "width": 0.06280135003104648,
+          "height": 0.07865188081932262
+        },
+        {
+          "left": 0.032689124769518185,
+          "top": 0.4409603212380329,
+          "width": 0.06197025475233768,
+          "height": 0.06640515431495392
+        }
+      ],
+      "source_count": 57,
+      "checked_by_oleg": "needs_review",
+      "oleg_note": "",
+      "oleg_unsure": true,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 13,
+      "photo_id": "417706725",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/417706725.jpeg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.35689202262513364,
+          "top": 0.45342,
+          "width": 0.14361797737486637,
+          "height": 0.0694348271711483
+        },
+        {
+          "left": 0.4546,
+          "top": 0.4936100000000001,
+          "width": 0.11647,
+          "height": 0.05365
+        },
+        {
+          "left": 0.34839,
+          "top": 0.52453,
+          "width": 0.10795,
+          "height": 0.08755
+        },
+        {
+          "left": 0.664938104053896,
+          "top": 0.57602,
+          "width": 0.16282189594610408,
+          "height": 0.11876753402697726
+        }
+      ],
+      "count": "4",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Limenitis arthemis arthemis",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Limenitis arthemis arthemis",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/234919255"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.34905,
+          "top": 0.45342,
+          "width": 0.15146,
+          "height": 0.06902
+        },
+        {
+          "left": 0.4546,
+          "top": 0.49361,
+          "width": 0.11647,
+          "height": 0.05365
+        },
+        {
+          "left": 0.34839,
+          "top": 0.52453,
+          "width": 0.10795,
+          "height": 0.08755
+        },
+        {
+          "left": 0.65512,
+          "top": 0.57602,
+          "width": 0.17264,
+          "height": 0.11586
+        }
+      ],
+      "source_count": 4,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 14,
+      "photo_id": "327719751",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/327719751.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.29217527899004925,
+          "top": 0.4637530219009999,
+          "width": 0.5399194697611203,
+          "height": 0.272124568828389
+        },
+        {
+          "left": 0.17389595035372285,
+          "top": 0.20340010531609454,
+          "width": 0.5507408994399486,
+          "height": 0.4448223032691977
+        },
+        {
+          "left": 0.3306245536161788,
+          "top": 0.5219593675211133,
+          "width": 0.49550039887396424,
+          "height": 0.33759685354225133
+        }
+      ],
+      "count": "3",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Danaus gilippus",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Danaus gilippus",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/187402262"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.15725589956275718,
+          "top": 0.19754499019418723,
+          "width": 0.5881645715449246,
+          "height": 0.4693804454411008
+        },
+        {
+          "left": 0.28493575317215375,
+          "top": 0.47383582095550414,
+          "width": 0.5525816615226338,
+          "height": 0.3014081790123456
+        }
+      ],
+      "source_count": 2,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "Не уверен",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 15,
+      "photo_id": "719020547",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/719020547.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Palpares libelluloides",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Palpares libelluloides",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/392347869"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 16,
+      "photo_id": "90840453",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/90840453.jpeg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Ascalorphne impavida",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Ascalorphne impavida",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/56976846"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 17,
+      "photo_id": "120235758",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/120235758.jpeg",
+      "width": 2048,
+      "height": 1536,
+      "boxes_json": [
+        {
+          "left": 0.4464631895079243,
+          "top": 0.41857,
+          "width": 0.10019,
+          "height": 0.12649
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Rapala arata",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Rapala arata",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/73634475"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.44512,
+          "top": 0.41857,
+          "width": 0.10019,
+          "height": 0.12649
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 18,
+      "photo_id": "135568688",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/135568688.jpeg",
+      "width": 2048,
+      "height": 1536,
+      "boxes_json": [
+        {
+          "left": 0.40581,
+          "top": 0.30374,
+          "width": 0.19795,
+          "height": 0.30378
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Danaus erippus",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Danaus erippus",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/82592132"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.40581,
+          "top": 0.30374,
+          "width": 0.19795,
+          "height": 0.30378
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 19,
+      "photo_id": "595595950",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/595595950.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.1930098570040261,
+          "top": 0.39965118700541435,
+          "width": 0.2701461836393514,
+          "height": 0.35155172439601157
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Battus philenor",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Battus philenor",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/328661933"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.1930098570040261,
+          "top": 0.39965118700541435,
+          "width": 0.27419130917673196,
+          "height": 0.23948354852144937
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 20,
+      "photo_id": "759104703",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/759104703.jpg",
+      "width": 2000,
+      "height": 1484,
+      "boxes_json": [
+        {
+          "left": 0.5176656080181731,
+          "top": 0.3791100489455943,
+          "width": 0.08259,
+          "height": 0.19527
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Atteva aurea",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Atteva aurea",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/412534322"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.51833,
+          "top": 0.37911,
+          "width": 0.08259,
+          "height": 0.19527
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 21,
+      "photo_id": "220119482",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/220119482.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Briza maxima",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Briza maxima",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/129520734"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 22,
+      "photo_id": "745312551",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/745312551.jpg",
+      "width": 1998,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.28353,
+          "top": 0.11502,
+          "width": 0.50995,
+          "height": 0.64656
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Junonia iphita",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Junonia iphita",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/405736400"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.28353,
+          "top": 0.11502,
+          "width": 0.50995,
+          "height": 0.64656
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 23,
+      "photo_id": "410695444",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/410695444.jpg",
+      "width": 800,
+      "height": 651,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Cenchrus ciliaris",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Cenchrus ciliaris",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/231251869"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 24,
+      "photo_id": "687965100",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/687965100.jpg",
+      "width": 1900,
+      "height": 1425,
+      "boxes_json": [
+        {
+          "left": 0.33313,
+          "top": 0.33672,
+          "width": 0.31937,
+          "height": 0.36151
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Polyura zoolina",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Polyura zoolina",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/376279788"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.33313,
+          "top": 0.33672,
+          "width": 0.31937,
+          "height": 0.36151
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 25,
+      "photo_id": "267700011",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/267700011.jpeg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.47052,
+          "top": 0.43624,
+          "width": 0.23006,
+          "height": 0.17046
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Nymphalis xanthomelas japonica",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Nymphalis xanthomelas japonica",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/154905334"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.47052,
+          "top": 0.43624,
+          "width": 0.23006,
+          "height": 0.17046
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 26,
+      "photo_id": "91569183",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/91569183.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Nemotaulius hostilis",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Nemotaulius hostilis",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/57409843"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 27,
+      "photo_id": "353901773",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/353901773.jpg",
+      "width": 1969,
+      "height": 1801,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Augochlora pura",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Augochlora pura",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/200572736"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 28,
+      "photo_id": "367623",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/367623.jpg",
+      "width": 2048,
+      "height": 2046,
+      "boxes_json": [
+        {
+          "left": 0.31039,
+          "top": 0,
+          "width": 0.15183,
+          "height": 0.19614
+        },
+        {
+          "left": 0.55847,
+          "top": 0.04358,
+          "width": 0.1069,
+          "height": 0.18109
+        },
+        {
+          "left": 0.09961,
+          "top": 0.31699,
+          "width": 0.21958,
+          "height": 0.13332
+        },
+        {
+          "left": 0.48951,
+          "top": 0.17352,
+          "width": 0.08937,
+          "height": 0.13963
+        },
+        {
+          "left": 0.49184,
+          "top": 0.29345,
+          "width": 0.18302,
+          "height": 0.16953
+        },
+        {
+          "left": 0.43902,
+          "top": 0.38409,
+          "width": 0.15572,
+          "height": 0.13091
+        },
+        {
+          "left": 0.61053,
+          "top": 0.26461,
+          "width": 0.13112,
+          "height": 0.25425
+        },
+        {
+          "left": 0.20942,
+          "top": 0.33962,
+          "width": 0.16047,
+          "height": 0.2299
+        },
+        {
+          "left": 0.34074,
+          "top": 0.29156,
+          "width": 0.14715,
+          "height": 0.30319
+        },
+        {
+          "left": 0.66252,
+          "top": 0.42925,
+          "width": 0.17817,
+          "height": 0.17092
+        },
+        {
+          "left": 0.00181,
+          "top": 0.41392,
+          "width": 0.0271,
+          "height": 0.1452
+        },
+        {
+          "left": 0.0009,
+          "top": 0.57184,
+          "width": 0.18638,
+          "height": 0.20893
+        },
+        {
+          "left": 0.7983,
+          "top": 0.3859,
+          "width": 0.19841,
+          "height": 0.17455
+        },
+        {
+          "left": 0.77644,
+          "top": 0.34007,
+          "width": 0.12703,
+          "height": 0.10838
+        },
+        {
+          "left": 0.5114,
+          "top": 0.57063,
+          "width": 0.19874,
+          "height": 0.214
+        },
+        {
+          "left": 0.35626,
+          "top": 0.80042,
+          "width": 0.10551,
+          "height": 0.17132
+        },
+        {
+          "left": 0.57005,
+          "top": 0.67069,
+          "width": 0.16272,
+          "height": 0.16939
+        },
+        {
+          "left": 0.68616,
+          "top": 0.73532,
+          "width": 0.09359,
+          "height": 0.21279
+        },
+        {
+          "left": 0.79354,
+          "top": 0.71681,
+          "width": 0.04547,
+          "height": 0.14355
+        },
+        {
+          "left": 0.75819,
+          "top": 0.84575,
+          "width": 0.185,
+          "height": 0.13901
+        },
+        {
+          "left": 0.0009,
+          "top": 0.80476,
+          "width": 0.0528,
+          "height": 0.12756
+        },
+        {
+          "left": 0.017607431515422156,
+          "top": 0.23948429937740112,
+          "width": 0.14464583775521717,
+          "height": 0.1911569984985284
+        },
+        {
+          "left": 0.18021582428599314,
+          "top": 0.10321396381409374,
+          "width": 0.1257378851074763,
+          "height": 0.3028229679184608
+        }
+      ],
+      "count": "6+",
+      "role": "audit",
+      "note": "Подтвердить спорное решение; Много объектов: проверить пропуски",
+      "taxon_name": "Phoebis sennae",
+      "reasons": [
+        "manual_decision_needs_human_confirmation",
+        "crowded_scene"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Phoebis sennae",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "http://www.inaturalist.org/observations/297212"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.31039,
+          "top": 0,
+          "width": 0.15183,
+          "height": 0.19614
+        },
+        {
+          "left": 0.55847,
+          "top": 0.04358,
+          "width": 0.1069,
+          "height": 0.18109
+        },
+        {
+          "left": 0.09961,
+          "top": 0.31699,
+          "width": 0.21958,
+          "height": 0.13332
+        },
+        {
+          "left": 0.48951,
+          "top": 0.17352,
+          "width": 0.08937,
+          "height": 0.13963
+        },
+        {
+          "left": 0.49184,
+          "top": 0.29345,
+          "width": 0.18302,
+          "height": 0.16953
+        },
+        {
+          "left": 0.43902,
+          "top": 0.38409,
+          "width": 0.15572,
+          "height": 0.13091
+        },
+        {
+          "left": 0.61053,
+          "top": 0.26461,
+          "width": 0.13112,
+          "height": 0.25425
+        },
+        {
+          "left": 0.20942,
+          "top": 0.33962,
+          "width": 0.16047,
+          "height": 0.2299
+        },
+        {
+          "left": 0.34074,
+          "top": 0.29156,
+          "width": 0.14715,
+          "height": 0.30319
+        },
+        {
+          "left": 0.66252,
+          "top": 0.42925,
+          "width": 0.17817,
+          "height": 0.17092
+        },
+        {
+          "left": 0.00181,
+          "top": 0.41392,
+          "width": 0.0271,
+          "height": 0.1452
+        },
+        {
+          "left": 0.0009,
+          "top": 0.57184,
+          "width": 0.18638,
+          "height": 0.20893
+        },
+        {
+          "left": 0.7983,
+          "top": 0.3859,
+          "width": 0.19841,
+          "height": 0.17455
+        },
+        {
+          "left": 0.77644,
+          "top": 0.34007,
+          "width": 0.12703,
+          "height": 0.10838
+        },
+        {
+          "left": 0.5114,
+          "top": 0.57063,
+          "width": 0.19874,
+          "height": 0.214
+        },
+        {
+          "left": 0.35626,
+          "top": 0.80042,
+          "width": 0.10551,
+          "height": 0.17132
+        },
+        {
+          "left": 0.57005,
+          "top": 0.67069,
+          "width": 0.16272,
+          "height": 0.16939
+        },
+        {
+          "left": 0.68616,
+          "top": 0.73532,
+          "width": 0.09359,
+          "height": 0.21279
+        },
+        {
+          "left": 0.79354,
+          "top": 0.71681,
+          "width": 0.04547,
+          "height": 0.14355
+        },
+        {
+          "left": 0.75819,
+          "top": 0.84575,
+          "width": 0.185,
+          "height": 0.13901
+        },
+        {
+          "left": 0.0009,
+          "top": 0.80476,
+          "width": 0.0528,
+          "height": 0.12756
+        },
+        {
+          "left": 0.017607431515422156,
+          "top": 0.23948429937740112,
+          "width": 0.14464583775521717,
+          "height": 0.1911569984985284
+        },
+        {
+          "left": 0.18021582428599314,
+          "top": 0.10321396381409374,
+          "width": 0.1257378851074763,
+          "height": 0.3028229679184608
+        }
+      ],
+      "source_count": 23,
+      "checked_by_oleg": "needs_review",
+      "oleg_note": "",
+      "oleg_unsure": true,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 29,
+      "photo_id": "60053685",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/60053685.jpeg",
+      "width": 1599,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Psychoglypha bella",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Psychoglypha bella",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/37831629"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 30,
+      "photo_id": "260378624",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/260378624.jpeg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Mystacides longicornis",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Mystacides longicornis",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/150952203"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 31,
+      "photo_id": "224599051",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/224599051.jpg",
+      "width": 1081,
+      "height": 1919,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Xylocopa virginica",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Xylocopa virginica",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/131935641"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 32,
+      "photo_id": "544238351",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/544238351.jpg",
+      "width": 1109,
+      "height": 1250,
+      "boxes_json": [
+        {
+          "left": 0.41856,
+          "top": 0.15657,
+          "width": 0.52303,
+          "height": 0.51456
+        },
+        {
+          "left": 0.24307,
+          "top": 0.52957,
+          "width": 0.56779,
+          "height": 0.4385
+        }
+      ],
+      "count": "2",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Tharsalea dorcas",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Tharsalea dorcas",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/301999723"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.41856,
+          "top": 0.15657,
+          "width": 0.52303,
+          "height": 0.51456
+        },
+        {
+          "left": 0.24307,
+          "top": 0.52957,
+          "width": 0.56779,
+          "height": 0.4385
+        }
+      ],
+      "source_count": 2,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 33,
+      "photo_id": "544908995",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/544908995.jpg",
+      "width": 1024,
+      "height": 768,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Drepanepteryx phalaenoides",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Drepanepteryx phalaenoides",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/302358932"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 34,
+      "photo_id": "635645545",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/635645545.jpg",
+      "width": 2048,
+      "height": 1530,
+      "boxes_json": [
+        {
+          "left": 0.14084,
+          "top": 0.2344,
+          "width": 0.61793,
+          "height": 0.62107
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Limenitis arthemis astyanax",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Limenitis arthemis astyanax",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/348527430"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.14084,
+          "top": 0.2344,
+          "width": 0.61793,
+          "height": 0.62107
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 35,
+      "photo_id": "116596376",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/116596376.jpg",
+      "width": 1520,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.37421,
+          "top": 0.42742,
+          "width": 0.26392,
+          "height": 0.15695
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Mesodina halyzia",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Mesodina halyzia",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/71598854"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.37421,
+          "top": 0.42742,
+          "width": 0.26392,
+          "height": 0.15695
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 36,
+      "photo_id": "511637315",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/511637315.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.42884,
+          "top": 0.37936,
+          "width": 0.27244,
+          "height": 0.24825
+        },
+        {
+          "left": 0.29041,
+          "top": 0.5241,
+          "width": 0.29449,
+          "height": 0.23473
+        }
+      ],
+      "count": "2",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Euphydryas chalcedona",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Euphydryas chalcedona",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/284055163"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.42884,
+          "top": 0.37936,
+          "width": 0.27244,
+          "height": 0.24825
+        },
+        {
+          "left": 0.29041,
+          "top": 0.5241,
+          "width": 0.29449,
+          "height": 0.23473
+        }
+      ],
+      "source_count": 2,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 37,
+      "photo_id": "52856906",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/52856906.jpeg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Limnephilus lunatus",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Limnephilus lunatus",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/33640640"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 38,
+      "photo_id": "621601327",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/621601327.jpg",
+      "width": 2048,
+      "height": 1536,
+      "boxes_json": [
+        {
+          "left": 0.3648,
+          "top": 0.40868,
+          "width": 0.1706,
+          "height": 0.24025
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Подтвердить спорное решение",
+      "taxon_name": "Celastrina lucia",
+      "reasons": [
+        "manual_decision_needs_human_confirmation"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Celastrina lucia",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/341452709"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.3648,
+          "top": 0.40868,
+          "width": 0.1706,
+          "height": 0.24025
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 39,
+      "photo_id": "325241258",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/325241258.jpg",
+      "width": 2048,
+      "height": 1366,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Anthidium florentinum",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Anthidium florentinum",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/186146278"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 40,
+      "photo_id": "762547557",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/762547557.jpg",
+      "width": 1152,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Baccharis halimifolia",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Baccharis halimifolia",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/414241348"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 41,
+      "photo_id": "348278699",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/348278699.jpg",
+      "width": 2048,
+      "height": 1363,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Helophilus fasciatus",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Helophilus fasciatus",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/197706086"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 42,
+      "photo_id": "682871817",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/682871817.jpg",
+      "width": 2048,
+      "height": 1535,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Helosis cayennensis",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Helosis cayennensis",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/373648123"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 43,
+      "photo_id": "498237565",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/498237565.jpg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Eristalis tenax",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Eristalis tenax",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/277482177"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 44,
+      "photo_id": "759563669",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/759563669.jpg",
+      "width": 1152,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Polyphylla fullo",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Polyphylla fullo",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/412761205"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 45,
+      "photo_id": "761387075",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/761387075.jpg",
+      "width": 945,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Coelosis bicornis",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Coelosis bicornis",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/413663171"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 46,
+      "photo_id": "459236280",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/459236280.jpeg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Erigeron strigosus",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Erigeron strigosus",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/256170802"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 47,
+      "photo_id": "598659043",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/598659043.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Cirsium arizonicum tenuisectum",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Cirsium arizonicum tenuisectum",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/330173568"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 48,
+      "photo_id": "690028682",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/690028682.jpg",
+      "width": 1079,
+      "height": 1440,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Apis mellifera",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Apis mellifera",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/377343670"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 49,
+      "photo_id": "450241672",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/450241672.jpg",
+      "width": 1583,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Anthophora urbana",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Anthophora urbana",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/251613412"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 50,
+      "photo_id": "638261900",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/638261900.jpg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Bombus borealis",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Bombus borealis",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/349857821"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 51,
+      "photo_id": "107846488",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/107846488.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Polybia rejecta",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Polybia rejecta",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/66841241"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 52,
+      "photo_id": "762622307",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/762622307.jpg",
+      "width": 1542,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Berberis fremontii",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Berberis fremontii",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/414277759"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 53,
+      "photo_id": "303164565",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/303164565.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Popillia japonica",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Popillia japonica",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/413368646"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 54,
+      "photo_id": "730886452",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/730886452.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Chlosyne lacinia",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Chlosyne lacinia",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/398428235"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 55,
+      "photo_id": "106594035",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/106594035.jpeg",
+      "width": 1747,
+      "height": 1656,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Apoica arborea",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Apoica arborea",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/66159877"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 56,
+      "photo_id": "752869333",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/752869333.jpg",
+      "width": 1365,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Cynorkis discolor",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Cynorkis discolor",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/409463558"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 57,
+      "photo_id": "603743933",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/603743933.jpg",
+      "width": 2048,
+      "height": 1152,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Pluchea odorata odorata",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Pluchea odorata odorata",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/332649653"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 58,
+      "photo_id": "597052494",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/597052494.jpg",
+      "width": 1024,
+      "height": 768,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Anoplognathus montanus",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Anoplognathus montanus",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/329381948"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 59,
+      "photo_id": "677497576",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/677497576.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Sagra femorata",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Sagra femorata",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/370831759"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 60,
+      "photo_id": "762283861",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/762283861.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Mitostylus gracilis",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Mitostylus gracilis",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/414111048"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 61,
+      "photo_id": "469260436",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/469260436.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Achillea millefolium",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Achillea millefolium",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/261222984"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 62,
+      "photo_id": "761014252",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/761014252.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Cirsium vulgare",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Cirsium vulgare",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/413480565"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 63,
+      "photo_id": "364170845",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/364170845.jpg",
+      "width": 2048,
+      "height": 1152,
+      "boxes_json": [],
+      "count": "0",
+      "role": "audit",
+      "note": "Случайная проверка: пустой ответ",
+      "taxon_name": "Helophilus pendulus",
+      "reasons": [
+        "random_negative"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Helophilus pendulus",
+        "taxonomy_branch": "Таксон наблюдения не относится к чешуекрылым",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/205928306"
+      },
+      "source_boxes_json": [],
+      "source_count": 0,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 64,
+      "photo_id": "664658118",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/664658118.jpg",
+      "width": 2048,
+      "height": 1536,
+      "boxes_json": [
+        {
+          "left": 0.2797651056105235,
+          "top": 0.06841322228034785,
+          "width": 0.55781,
+          "height": 0.79875
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Polygonia interrogationis",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Polygonia interrogationis",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/361341781"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.28178,
+          "top": 0.08095,
+          "width": 0.55781,
+          "height": 0.79875
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 65,
+      "photo_id": "615248081",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/615248081.jpg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [
+        {
+          "left": 0.36805,
+          "top": 0.19632,
+          "width": 0.29362,
+          "height": 0.54544
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Papilio demodocus",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Papilio demodocus",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/338331396"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.36805,
+          "top": 0.19632,
+          "width": 0.29362,
+          "height": 0.54544
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 66,
+      "photo_id": "554735363",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/554735363.jpg",
+      "width": 2048,
+      "height": 1534,
+      "boxes_json": [
+        {
+          "left": 0.29036,
+          "top": 0.30935,
+          "width": 0.21868,
+          "height": 0.30058
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Aglais urticae",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Aglais urticae",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/307542909"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.29036,
+          "top": 0.30935,
+          "width": 0.21868,
+          "height": 0.30058
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 67,
+      "photo_id": "643390091",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/643390091.jpg",
+      "width": 2048,
+      "height": 1531,
+      "boxes_json": [
+        {
+          "left": 0.22842,
+          "top": 0.31153,
+          "width": 0.45414,
+          "height": 0.52125
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Doxocopa linda",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Doxocopa linda",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/352507225"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.22842,
+          "top": 0.31153,
+          "width": 0.45414,
+          "height": 0.52125
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 68,
+      "photo_id": "438506485",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/438506485.jpg",
+      "width": 2048,
+      "height": 1366,
+      "boxes_json": [
+        {
+          "left": 0.32882,
+          "top": 0.22722,
+          "width": 0.33017,
+          "height": 0.46444
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Arhopala leander",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Arhopala leander",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/245707735"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.32882,
+          "top": 0.22722,
+          "width": 0.33017,
+          "height": 0.46444
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 69,
+      "photo_id": "641669577",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/641669577.jpg",
+      "width": 2048,
+      "height": 1548,
+      "boxes_json": [
+        {
+          "left": 0.4165624967962504,
+          "top": 0.2755555558204651,
+          "width": 0.32312988281250005,
+          "height": 0.4025000000000001
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Celastrina asheri",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Celastrina asheri",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/351616691"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.4165624967962504,
+          "top": 0.2755555558204651,
+          "width": 0.32312988281250005,
+          "height": 0.4025000000000001
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 70,
+      "photo_id": "269635974",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/269635974.jpg",
+      "width": 2048,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.08139,
+          "top": 0.08785,
+          "width": 0.80098,
+          "height": 0.75175
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Siproeta stelenes",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Siproeta stelenes",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/155960242"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.08139,
+          "top": 0.08785,
+          "width": 0.80098,
+          "height": 0.75175
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 71,
+      "photo_id": "759152743",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/759152743.jpg",
+      "width": 1375,
+      "height": 1749,
+      "boxes_json": [
+        {
+          "left": 0.16213,
+          "top": 0.23183,
+          "width": 0.63124,
+          "height": 0.48876
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Celastrina argiolus",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Celastrina argiolus",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/412557159"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.16213,
+          "top": 0.23183,
+          "width": 0.63124,
+          "height": 0.48876
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 72,
+      "photo_id": "739844914",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/739844914.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.46507591532177217,
+          "top": 0.47481903175433543,
+          "width": 0.09004,
+          "height": 0.03706
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Luthrodes pandava",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Luthrodes pandava",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/402981609"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.4603,
+          "top": 0.47661,
+          "width": 0.09004,
+          "height": 0.03706
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 73,
+      "photo_id": "112552346",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/112552346.jpg",
+      "width": 1918,
+      "height": 1077,
+      "boxes_json": [
+        {
+          "left": 0.26871,
+          "top": 0.27244,
+          "width": 0.40851,
+          "height": 0.44874
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Kallima horsfieldii",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Kallima horsfieldii",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/69378530"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.26871,
+          "top": 0.27244,
+          "width": 0.40851,
+          "height": 0.44874
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 74,
+      "photo_id": "247850137",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/247850137.jpeg",
+      "width": 1824,
+      "height": 1368,
+      "boxes_json": [
+        {
+          "left": 0.3575,
+          "top": 0.33228,
+          "width": 0.257,
+          "height": 0.41595
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Kallimoides rumia",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Kallimoides rumia",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/144414131"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.3575,
+          "top": 0.33228,
+          "width": 0.257,
+          "height": 0.41595
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 75,
+      "photo_id": "674712449",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/674712449.jpg",
+      "width": 2048,
+      "height": 1365,
+      "boxes_json": [
+        {
+          "left": 0.42206,
+          "top": 0.44224,
+          "width": 0.15324,
+          "height": 0.17965
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Melitaea trivia",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Melitaea trivia",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/369378053"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.42206,
+          "top": 0.44224,
+          "width": 0.15324,
+          "height": 0.17965
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 76,
+      "photo_id": "78439167",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/78439167.jpeg",
+      "width": 720,
+      "height": 1280,
+      "boxes_json": [
+        {
+          "left": 0.35927,
+          "top": 0.39076,
+          "width": 0.37831,
+          "height": 0.21243
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Jalmenus ictinus",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Jalmenus ictinus",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/49410735"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.35927,
+          "top": 0.39076,
+          "width": 0.37831,
+          "height": 0.21243
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 77,
+      "photo_id": "488750738",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/488750738.jpeg",
+      "width": 2048,
+      "height": 1360,
+      "boxes_json": [
+        {
+          "left": 0.33194,
+          "top": 0.06461,
+          "width": 0.36832,
+          "height": 0.53518
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Euchloe crameri",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Euchloe crameri",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/271699503"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.33194,
+          "top": 0.06461,
+          "width": 0.36832,
+          "height": 0.53518
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 78,
+      "photo_id": "580638",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/580638.jpg",
+      "width": 1795,
+      "height": 1481,
+      "boxes_json": [
+        {
+          "left": 0.18581255803156918,
+          "top": 0,
+          "width": 0.15933363162637024,
+          "height": 0.09358430587705757
+        },
+        {
+          "left": 0,
+          "top": 0.028402777777777735,
+          "width": 0.09808391991786733,
+          "height": 0.19466145833333337
+        },
+        {
+          "left": 0,
+          "top": 0.3652083333333333,
+          "width": 0.10273262921696073,
+          "height": 0.20659722222222215
+        },
+        {
+          "left": 0.1528670690188796,
+          "top": 0.34437500000000004,
+          "width": 0.16902468276075522,
+          "height": 0.19965277777777762
+        },
+        {
+          "left": 0.3261889894769421,
+          "top": 0.22631944444444443,
+          "width": 0.18621363354998444,
+          "height": 0.22569444444444445
+        },
+        {
+          "left": 0.38205307954193746,
+          "top": 0.3877777777777777,
+          "width": 0.10430835073627392,
+          "height": 0.19419941075817343
+        },
+        {
+          "left": 0.4980544119856225,
+          "top": 0.33560042183749145,
+          "width": 0.10523683536669948,
+          "height": 0.18968830710412382
+        },
+        {
+          "left": 0.5502230996033026,
+          "top": 0.2684793769915755,
+          "width": 0.1477760835469325,
+          "height": 0.20557170577823625
+        },
+        {
+          "left": 0.6356718120805372,
+          "top": 0.18079732063757428,
+          "width": 0.2194682720467922,
+          "height": 0.17115554146751408
+        },
+        {
+          "left": 0.5259376760571411,
+          "top": 0.21350220117276802,
+          "width": 0.18895740444295506,
+          "height": 0.14279592974546912
+        },
+        {
+          "left": 0.5286360564511591,
+          "top": 0.12519902372774488,
+          "width": 0.1575314239793264,
+          "height": 0.1787994556030183
+        },
+        {
+          "left": 0.6717094370655304,
+          "top": 0.7175917347208562,
+          "width": 0.23090473338493678,
+          "height": 0.2557669174076167
+        },
+        {
+          "left": 0.4515088966189681,
+          "top": 0.8343548926678117,
+          "width": 0.10704192938374568,
+          "height": 0.164951127893318
+        }
+      ],
+      "count": "6+",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки; Много объектов: проверить пропуски",
+      "taxon_name": "Eurema daira",
+      "reasons": [
+        "random_positive",
+        "crowded_scene"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Eurema daira",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "http://www.inaturalist.org/observations/460469"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.18581255803156918,
+          "top": 0,
+          "width": 0.15933363162637024,
+          "height": 0.09358430587705757
+        },
+        {
+          "left": 0,
+          "top": 0.028402777777777735,
+          "width": 0.09808391991786733,
+          "height": 0.19466145833333337
+        },
+        {
+          "left": 0,
+          "top": 0.3652083333333333,
+          "width": 0.10273262921696073,
+          "height": 0.20659722222222215
+        },
+        {
+          "left": 0.1528670690188796,
+          "top": 0.34437500000000004,
+          "width": 0.16902468276075522,
+          "height": 0.19965277777777762
+        },
+        {
+          "left": 0.3261889894769421,
+          "top": 0.22631944444444443,
+          "width": 0.18621363354998444,
+          "height": 0.22569444444444445
+        },
+        {
+          "left": 0.38205307954193746,
+          "top": 0.3877777777777777,
+          "width": 0.10430835073627392,
+          "height": 0.19419941075817343
+        },
+        {
+          "left": 0.4980544119856225,
+          "top": 0.33560042183749145,
+          "width": 0.10523683536669948,
+          "height": 0.18968830710412382
+        },
+        {
+          "left": 0.5502230996033026,
+          "top": 0.2684793769915755,
+          "width": 0.1477760835469325,
+          "height": 0.20557170577823625
+        },
+        {
+          "left": 0.6356718120805372,
+          "top": 0.18079732063757428,
+          "width": 0.2194682720467922,
+          "height": 0.17115554146751408
+        },
+        {
+          "left": 0.5259376760571411,
+          "top": 0.21350220117276802,
+          "width": 0.18895740444295506,
+          "height": 0.14279592974546912
+        },
+        {
+          "left": 0.5286360564511591,
+          "top": 0.12519902372774488,
+          "width": 0.1575314239793264,
+          "height": 0.1787994556030183
+        },
+        {
+          "left": 0.6717094370655304,
+          "top": 0.7175917347208562,
+          "width": 0.23090473338493678,
+          "height": 0.2557669174076167
+        },
+        {
+          "left": 0.4515088966189681,
+          "top": 0.8343548926678117,
+          "width": 0.10704192938374568,
+          "height": 0.164951127893318
+        }
+      ],
+      "source_count": 13,
+      "checked_by_oleg": "needs_review",
+      "oleg_note": "",
+      "oleg_unsure": true,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 79,
+      "photo_id": "705770730",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/705770730.jpg",
+      "width": 2048,
+      "height": 1536,
+      "boxes_json": [
+        {
+          "left": 0.29627,
+          "top": 0.06637,
+          "width": 0.48148,
+          "height": 0.71292
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Cithaerias pireta",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Cithaerias pireta",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/385510911"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.29627,
+          "top": 0.06637,
+          "width": 0.48148,
+          "height": 0.71292
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 80,
+      "photo_id": "169102177",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/169102177.jpg",
+      "width": 2048,
+      "height": 1536,
+      "boxes_json": [
+        {
+          "left": 0.14887,
+          "top": 0.088,
+          "width": 0.71156,
+          "height": 0.87125
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Caligo illioneus",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Caligo illioneus",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/101266828"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.14887,
+          "top": 0.088,
+          "width": 0.71156,
+          "height": 0.87125
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 81,
+      "photo_id": "749070391",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/749070391.jpg",
+      "width": 1280,
+      "height": 960,
+      "boxes_json": [
+        {
+          "left": 0.26099640506836536,
+          "top": 0.23241,
+          "width": 0.4664235949316346,
+          "height": 0.6020727635152491
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Tarsocera",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Tarsocera",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/407603227"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.24647,
+          "top": 0.23241,
+          "width": 0.48095,
+          "height": 0.60251
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": true
+    },
+    {
+      "n": 82,
+      "photo_id": "595422202",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/595422202.jpg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.22832,
+          "top": 0.4158,
+          "width": 0.33837,
+          "height": 0.25941
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Argynnis hesperis",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Argynnis hesperis",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/328570615"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.22832,
+          "top": 0.4158,
+          "width": 0.33837,
+          "height": 0.25941
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 83,
+      "photo_id": "238254240",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/238254240.jpeg",
+      "width": 2048,
+      "height": 1368,
+      "boxes_json": [
+        {
+          "left": 0.13296,
+          "top": 0.02471,
+          "width": 0.58841,
+          "height": 0.92094
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Colotis ione",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Colotis ione",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/139311931"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.13296,
+          "top": 0.02471,
+          "width": 0.58841,
+          "height": 0.92094
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 84,
+      "photo_id": "215516280",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/215516280.jpeg",
+      "width": 901,
+      "height": 901,
+      "boxes_json": [
+        {
+          "left": 0.16996,
+          "top": 0.16058,
+          "width": 0.63802,
+          "height": 0.61125
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Echinargus isola",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Echinargus isola",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/126669965"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.16996,
+          "top": 0.16058,
+          "width": 0.63802,
+          "height": 0.61125
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 85,
+      "photo_id": "247850234",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/247850234.jpeg",
+      "width": 1824,
+      "height": 1368,
+      "boxes_json": [
+        {
+          "left": 0.23193,
+          "top": 0.13398,
+          "width": 0.68906,
+          "height": 0.66625
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Cymothoe herminia",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Cymothoe herminia",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/144414133"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.23193,
+          "top": 0.13398,
+          "width": 0.68906,
+          "height": 0.66625
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 86,
+      "photo_id": "683283105",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/683283105.jpg",
+      "width": 1152,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.24839,
+          "top": 0.28581,
+          "width": 0.71646,
+          "height": 0.36448
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Phalanta phalantha",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Phalanta phalantha",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/373858603"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.24839,
+          "top": 0.28581,
+          "width": 0.71646,
+          "height": 0.36448
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 87,
+      "photo_id": "103946928",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/103946928.jpeg",
+      "width": 1536,
+      "height": 2048,
+      "boxes_json": [
+        {
+          "left": 0.00122,
+          "top": 0.28796,
+          "width": 0.92167,
+          "height": 0.4175
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Pieris rapae",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Pieris rapae",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/64638272"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.00122,
+          "top": 0.28796,
+          "width": 0.92167,
+          "height": 0.4175
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 88,
+      "photo_id": "754654618",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/754654618.jpg",
+      "width": 2048,
+      "height": 1152,
+      "boxes_json": [
+        {
+          "left": 0.15291,
+          "top": 0.02699,
+          "width": 0.34723,
+          "height": 0.57455
+        }
+      ],
+      "count": "1",
+      "role": "audit",
+      "note": "Случайная проверка: есть рамки",
+      "taxon_name": "Aricia agestis",
+      "reasons": [
+        "random_positive"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Aricia agestis",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/410340846"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.15291,
+          "top": 0.02699,
+          "width": 0.34723,
+          "height": 0.57455
+        }
+      ],
+      "source_count": 1,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    },
+    {
+      "n": 89,
+      "photo_id": "320495807",
+      "original_path": "file:///home/ulorew/Documents/Learning/Homework/CrowdSourcing/HW5/received_team/butterflies_team_15-11/data/images/320495807.jpeg",
+      "width": 1959,
+      "height": 1755,
+      "boxes_json": [
+        {
+          "left": 0.2168,
+          "top": 0.461,
+          "width": 0.20605,
+          "height": 0.34
+        },
+        {
+          "left": 0.39597,
+          "top": 0.431,
+          "width": 0.25532,
+          "height": 0.22
+        }
+      ],
+      "count": "2",
+      "role": "audit",
+      "note": "Пилот: спорные границы перекрытой бабочки",
+      "taxon_name": "Colias philodice",
+      "reasons": [
+        "pilot_occlusion_iou_057"
+      ],
+      "taxonomy_hint": {
+        "taxon_name": "Colias philodice",
+        "taxonomy_branch": "Чешуекрылые: взрослые особи целевые, включая моль",
+        "source_stage": "Проверяйте по фото: личинки и куколки не целевые",
+        "taxonomy_reason": "Проверьте также другие объекты в кадре.",
+        "observation_url": "https://www.inaturalist.org/observations/183681550"
+      },
+      "source_boxes_json": [
+        {
+          "left": 0.2168,
+          "top": 0.461,
+          "width": 0.20605,
+          "height": 0.34
+        },
+        {
+          "left": 0.39597,
+          "top": 0.431,
+          "width": 0.25532,
+          "height": 0.22
+        }
+      ],
+      "source_count": 2,
+      "checked_by_oleg": "confirmed",
+      "oleg_note": "",
+      "oleg_unsure": false,
+      "reference_seen": false,
+      "copied_reference": false,
+      "edited_vs_source": false
+    }
+  ]
+}

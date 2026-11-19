@@ -1,0 +1,991 @@
+{"photo_id": "367623", "image_path": "images/367623.jpg", "width": 2048, "height": 2046, "boxes": [{"shape": "rectangle", "left": 0.30752888556942964, "top": 0, "width": 0.14929206904752051, "height": 0.1924391974232474}, {"shape": "rectangle", "left": 0.222530481294199, "top": 0.10408534068959908, "width": 0.08608812740696437, "height": 0.30978389274513723}, {"shape": "rectangle", "left": 0.018752255659992167, "top": 0.24370625009585814, "width": 0.1122414825685738, "height": 0.18325244359571494}, {"shape": "rectangle", "left": 0.10484038306695655, "top": 0.3156982815084604, "width": 0.16454819289179268, "height": 0.13525775598731343}, {"shape": "rectangle", "left": 0, "top": 0.5709427565167776, "width": 0.186569617946986, "height": 0.2028866339809703}, {"shape": "rectangle", "left": 0, "top": 0.8054622527851034, "width": 0.05362339587547141, "height": 0.12544066079468574}, {"shape": "rectangle", "left": 0.3750917197369207, "top": 0.8021898877208943, "width": 0.05993477224535493, "height": 0.16361825321045975}, {"shape": "rectangle", "left": 0.22062284716246414, "top": 0.35083955335412453, "width": 0.14878361806562193, "height": 0.2129845648114147}, {"shape": "rectangle", "left": 0.35420813865149026, "top": 0.29940867497229967, "width": 0.12818484872130487, "height": 0.28763556492079984}, {"shape": "rectangle", "left": 0.441326985319965, "top": 0.388900177653736, "width": 0.15442527855283, "height": 0.12074930026873226}, {"shape": "rectangle", "left": 0.5558549751755482, "top": 0.044316039222338816, "width": 0.10866950252342722, "height": 0.20113247970694725}, {"shape": "rectangle", "left": 0.6579857779835065, "top": 0.4297052046164091, "width": 0.16941508753664303, "height": 0.16145382337852926}, {"shape": "rectangle", "left": 0.61468479714347, "top": 0.2622916763480683, "width": 0.12340779539410418, "height": 0.25139118807932076}, {"shape": "rectangle", "left": 0.49723088661487086, "top": 0.30021707110141416, "width": 0.17536897240214805, "height": 0.15603590984233695}, {"shape": "rectangle", "left": 0.49344205079136766, "top": 0.17939759924432683, "width": 0.08606069941957267, "height": 0.1294881335149949}, {"shape": "rectangle", "left": 0.7602143104083094, "top": 0.8553137612191029, "width": 0.14921855197435918, "height": 0.12395387191828111}, {"shape": "rectangle", "left": 0.7924108444442708, "top": 0.7183447327494022, "width": 0.03529235461634217, "height": 0.1357294897505178}, {"shape": "rectangle", "left": 0.6685780212290349, "top": 0.7375575828967359, "width": 0.10959204854548377, "height": 0.21444019841862627}, {"shape": "rectangle", "left": 0.5750842397015319, "top": 0.6774399550163694, "width": 0.16222099841195892, "height": 0.17229588196641066}, {"left": 0.5326636293474742, "top": 0.5770373187625619, "width": 0.17368340296220763, "height": 0.18851292047188783}, {"shape": "rectangle", "left": 0.8142506489303447, "top": 0.38787966522781153, "width": 0.17988547900011054, "height": 0.15276339404874167}, {"shape": "rectangle", "left": 0.7974683301898097, "top": 0.3443079755163148, "width": 0.10226725482513566, "height": 0.10709186386922098}, {"shape": "rectangle", "left": 0.8011394624143017, "top": 0.4109779103760749, "width": 0.10488949212834431, "height": 0.042521769477484817}]}
+{"photo_id": "580638", "image_path": "images/580638.jpg", "width": 1795, "height": 1481, "boxes": [{"left": 0, "top": 0.02941410872753824, "width": 0.08680901810405979, "height": 0.1835045515595431}, {"shape": "rectangle", "left": 0, "top": 0.37507899579497656, "width": 0.10003655158879568, "height": 0.1653297815537444}, {"shape": "rectangle", "left": 0.1551565638444235, "top": 0.34599636852509785, "width": 0.16578496809260418, "height": 0.21018807890503266}, {"shape": "rectangle", "left": 0.23529106368936517, "top": 0, "width": 0.10675363420714676, "height": 0.090711865653138}, {"shape": "rectangle", "left": 0.6440151714979983, "top": 0.18204830116553533, "width": 0.20879847429730825, "height": 0.17431853546924975}, {"shape": "rectangle", "left": 0.5329924177930853, "top": 0.12929400753668346, "width": 0.1368860088293531, "height": 0.16132110080706885}, {"shape": "rectangle", "left": 0.5285767400889125, "top": 0.21645327527130834, "width": 0.14634817533829458, "height": 0.1445008912442464}, {"shape": "rectangle", "left": 0.589765416846734, "top": 0.27838222866169965, "width": 0.11543843140908583, "height": 0.1941969649525852}, {"shape": "rectangle", "left": 0.5008210516626843, "top": 0.3487212868335022, "width": 0.09714490949179899, "height": 0.1819640852705326}, {"shape": "rectangle", "left": 0.3286096211999497, "top": 0.2378608147149004, "width": 0.15833358624962046, "height": 0.19343240997245692}, {"shape": "rectangle", "left": 0.389167486857175, "top": 0.3930654756809429, "width": 0.09272923178762638, "height": 0.18272864025066077}, {"shape": "rectangle", "left": 0.6855257847851962, "top": 0.7412067219281293, "width": 0.21588851661259956, "height": 0.2296208457432718}]}
+{"photo_id": "1013509", "image_path": "images/1013509.jpg", "width": 960, "height": 720, "boxes": [{"left": 0.5225615320770495, "top": 0.4292084229717411, "width": 0.08067456924520744, "height": 0.12685356426618044}]}
+{"photo_id": "2095326", "image_path": "images/2095326.jpg", "width": 1107, "height": 736, "boxes": [{"shape": "rectangle", "left": 0.42570738398742014, "top": 0.48162962962962963, "width": 0.21977316069456987, "height": 0.3314814814814816}]}
+{"photo_id": "2560426", "image_path": "images/2560426.jpg", "width": 1200, "height": 801, "boxes": [{"left": 0.38706, "top": 0.20868, "width": 0.3229, "height": 0.59}]}
+{"photo_id": "2604996", "image_path": "images/2604996.jpg", "width": 1136, "height": 757, "boxes": [{"left": 0.307, "top": 0.2772, "width": 0.39483, "height": 0.5625}]}
+{"photo_id": "2605055", "image_path": "images/2605055.jpg", "width": 1200, "height": 900, "boxes": [{"left": 0.09237, "top": 0.17346, "width": 0.70312, "height": 0.67375}]}
+{"photo_id": "14414527", "image_path": "images/14414527.jpg", "width": 1893, "height": 1420, "boxes": []}
+{"photo_id": "47185921", "image_path": "images/47185921.jpg", "width": 749, "height": 825, "boxes": []}
+{"photo_id": "52856906", "image_path": "images/52856906.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "58872437", "image_path": "images/58872437.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.0, "top": 0.0, "width": 0.83599, "height": 0.98724}]}
+{"photo_id": "60053685", "image_path": "images/60053685.jpg", "width": 1599, "height": 2048, "boxes": []}
+{"photo_id": "67261268", "image_path": "images/67261268.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "74459866", "image_path": "images/74459866.jpg", "width": 2048, "height": 2048, "boxes": []}
+{"photo_id": "76501316", "image_path": "images/76501316.jpg", "width": 1234, "height": 823, "boxes": [{"shape": "rectangle", "left": 0.30364593250952665, "top": 0.21629685401718224, "width": 0.3923157593669559, "height": 0.5050709939148075}]}
+{"photo_id": "77907094", "image_path": "images/77907094.jpg", "width": 720, "height": 1280, "boxes": [{"left": 0.11485, "top": 0.38086, "width": 0.63949, "height": 0.39006}]}
+{"photo_id": "78439167", "image_path": "images/78439167.jpg", "width": 720, "height": 1280, "boxes": [{"left": 0.35927, "top": 0.39076, "width": 0.37831, "height": 0.21243}]}
+{"photo_id": "81179799", "image_path": "images/81179799.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "85208895", "image_path": "images/85208895.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.3180433635322415, "top": 0.41019217432761684, "width": 0.3118622448979591, "height": 0.20663265306122441}]}
+{"photo_id": "90840453", "image_path": "images/90840453.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "91569183", "image_path": "images/91569183.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "94780787", "image_path": "images/94780787.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.42674952162664276, "top": 0.23052615991675912, "width": 0.13483436381987518, "height": 0.12406151516416347}, {"shape": "rectangle", "left": 0.31137578763644025, "top": 0.3014184542962811, "width": 0.11815382396586999, "height": 0.11780631271891157}, {"shape": "rectangle", "left": 0.13762016415721975, "top": 0.38690622104805766, "width": 0.14178458875904396, "height": 0.13865698753641792}, {"shape": "rectangle", "left": 0.01946634019134974, "top": 0.44007544183269914, "width": 0.07506242934302332, "height": 0.07297736186127263}, {"shape": "rectangle", "left": 0.4239694316509752, "top": 0.36084287752617455, "width": 0.10147328411186474, "height": 0.14074205501816867}, {"shape": "rectangle", "left": 0.6519368096557125, "top": 0.42443743571956927, "width": 0.19321625330889325, "height": 0.12614658264591405}, {"shape": "rectangle", "left": 0.6936381592907255, "top": 0.5130528036939718, "width": 0.14317463374687767, "height": 0.14282712249991925}, {"shape": "rectangle", "left": 0.619965774935536, "top": 0.5474564171428574, "width": 0.09452305917269599, "height": 0.13344431883204144}, {"shape": "rectangle", "left": 0.23631335829341701, "top": 0.5902003005187457, "width": 0.11676377897803616, "height": 0.07714749682477384}, {"shape": "rectangle", "left": 0.09313872454653922, "top": 0.655879926193891, "width": 0.21406692812639977, "height": 0.10321084034665695}, {"shape": "rectangle", "left": 0.016686250215682225, "top": 0.6683903310843949, "width": 0.07506242934302325, "height": 0.14908232494517126}, {"shape": "rectangle", "left": 0.3155459225999415, "top": 0.6298165826720079, "width": 0.2168470181020673, "height": 0.09382803667877915}, {"shape": "rectangle", "left": 0.3864382169794635, "top": 0.6047957728910002, "width": 0.11537373399020251, "height": 0.06463709193427014}]}
+{"photo_id": "95429793", "image_path": "images/95429793.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.00067, "top": 0.18404, "width": 0.39088, "height": 0.29882}]}
+{"photo_id": "100337874", "image_path": "images/100337874.jpg", "width": 1651, "height": 1260, "boxes": [{"left": 0.409859904517864, "top": 0.20313942751615882, "width": 0.1824292812937094, "height": 0.4965173558106544}]}
+{"photo_id": "100608722", "image_path": "images/100608722.jpg", "width": 1114, "height": 1111, "boxes": [{"left": 0.02344, "top": 0.013, "width": 0.95243, "height": 0.965}]}
+{"photo_id": "102196985", "image_path": "images/102196985.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.4045835082801594, "top": 0.11334780217505723, "width": 0.3232820221684733, "height": 0.22398121810300475}, {"shape": "rectangle", "left": 0.4638781308631512, "top": 0.2927713670080976, "width": 0.31916964261112557, "height": 0.22346925135351747}]}
+{"photo_id": "103609661", "image_path": "images/103609661.jpg", "width": 1722, "height": 2048, "boxes": []}
+{"photo_id": "103687361", "image_path": "images/103687361.jpg", "width": 750, "height": 1000, "boxes": []}
+{"photo_id": "103946928", "image_path": "images/103946928.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.00122, "top": 0.28796, "width": 0.92167, "height": 0.4175}]}
+{"photo_id": "104577334", "image_path": "images/104577334.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.38312, "top": 0.46351, "width": 0.25915, "height": 0.07869}]}
+{"photo_id": "105103174", "image_path": "images/105103174.jpg", "width": 640, "height": 854, "boxes": []}
+{"photo_id": "105565905", "image_path": "images/105565905.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "105831691", "image_path": "images/105831691.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "106594035", "image_path": "images/106594035.jpg", "width": 1747, "height": 1656, "boxes": []}
+{"photo_id": "106789522", "image_path": "images/106789522.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "106892348", "image_path": "images/106892348.jpg", "width": 1021, "height": 1361, "boxes": [{"left": 0.2015, "top": 0.22725, "width": 0.58116, "height": 0.54278}]}
+{"photo_id": "107629660", "image_path": "images/107629660.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.38674, "top": 0.41858, "width": 0.28155, "height": 0.22365}]}
+{"photo_id": "107634858", "image_path": "images/107634858.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.08913649025069638, "top": 0.10445682451253482, "width": 0.6369545032497679, "height": 0.7520891364902507}]}
+{"photo_id": "107636245", "image_path": "images/107636245.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.4263, "top": 0.3919, "width": 0.18962, "height": 0.226}]}
+{"photo_id": "107636285", "image_path": "images/107636285.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.4696585648148147, "top": 0.3004128086419753, "width": 0.16908998842592593, "height": 0.3339602623456791}]}
+{"photo_id": "107846488", "image_path": "images/107846488.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "108261264", "image_path": "images/108261264.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.18383, "top": 0.3059, "width": 0.44865, "height": 0.22867}]}
+{"photo_id": "108262561", "image_path": "images/108262561.jpg", "width": 1477, "height": 1970, "boxes": [{"left": 0.20674, "top": 0.22, "width": 0.64689, "height": 0.4575}]}
+{"photo_id": "108268477", "image_path": "images/108268477.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.207, "top": 0.3784, "width": 0.4583, "height": 0.2256}]}
+{"photo_id": "108269832", "image_path": "images/108269832.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "108333647", "image_path": "images/108333647.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "108335918", "image_path": "images/108335918.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "108338295", "image_path": "images/108338295.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "108352907", "image_path": "images/108352907.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "108522472", "image_path": "images/108522472.jpg", "width": 900, "height": 1600, "boxes": []}
+{"photo_id": "108753842", "image_path": "images/108753842.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "109093352", "image_path": "images/109093352.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.34539, "top": 0.30463, "width": 0.32419, "height": 0.37608}]}
+{"photo_id": "109096805", "image_path": "images/109096805.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.25462, "top": 0.251, "width": 0.52313, "height": 0.4875}]}
+{"photo_id": "109184782", "image_path": "images/109184782.jpg", "width": 1820, "height": 1286, "boxes": [{"left": 0.35228, "top": 0.34872, "width": 0.26981, "height": 0.35198}]}
+{"photo_id": "109523441", "image_path": "images/109523441.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "109860785", "image_path": "images/109860785.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "110322407", "image_path": "images/110322407.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "111273515", "image_path": "images/111273515.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "111676180", "image_path": "images/111676180.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.0806288032454361, "top": 0.33671399594320484, "width": 0.5035496957403651, "height": 0.4482758620689654}]}
+{"photo_id": "111676223", "image_path": "images/111676223.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.3844011142061281, "top": 0.31197771587743733, "width": 0.2308495821727019, "height": 0.3189415041782729}]}
+{"photo_id": "112552346", "image_path": "images/112552346.jpg", "width": 1918, "height": 1077, "boxes": [{"left": 0.26871, "top": 0.27244, "width": 0.40851, "height": 0.44874}]}
+{"photo_id": "113143773", "image_path": "images/113143773.jpg", "width": 1870, "height": 2048, "boxes": [{"left": 0.095, "top": 0.10984, "width": 0.76708, "height": 0.75675}]}
+{"photo_id": "113144012", "image_path": "images/113144012.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.34971, "top": 0.22344, "width": 0.35068, "height": 0.35764}]}
+{"photo_id": "113332789", "image_path": "images/113332789.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "116372737", "image_path": "images/116372737.jpg", "width": 2048, "height": 1367, "boxes": [{"left": 0.40021, "top": 0.34002, "width": 0.22026, "height": 0.299}]}
+{"photo_id": "116596376", "image_path": "images/116596376.jpg", "width": 1520, "height": 2048, "boxes": [{"left": 0.37421, "top": 0.42742, "width": 0.26392, "height": 0.15695}]}
+{"photo_id": "116906744", "image_path": "images/116906744.jpg", "width": 828, "height": 1008, "boxes": []}
+{"photo_id": "118015555", "image_path": "images/118015555.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.38275, "top": 0.14094, "width": 0.33364, "height": 0.54737}]}
+{"photo_id": "118729794", "image_path": "images/118729794.jpg", "width": 1636, "height": 1426, "boxes": [{"left": 0.2035, "top": 0.2111, "width": 0.5355, "height": 0.7083}]}
+{"photo_id": "119123278", "image_path": "images/119123278.jpg", "width": 2048, "height": 1366, "boxes": [{"left": 0.26537, "top": 0.18339, "width": 0.27506, "height": 0.36305}]}
+{"photo_id": "120218198", "image_path": "images/120218198.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.38127053594393, "top": 0.3985409453995299, "width": 0.21367733413772316, "height": 0.25205185081103243}]}
+{"photo_id": "120235758", "image_path": "images/120235758.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.4464631895079243, "top": 0.41857, "width": 0.10019, "height": 0.12649}]}
+{"photo_id": "123838844", "image_path": "images/123838844.jpg", "width": 2048, "height": 1451, "boxes": [{"left": 0.35551, "top": 0.23774, "width": 0.22849, "height": 0.31375}]}
+{"photo_id": "123838873", "image_path": "images/123838873.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.38388, "top": 0.19596, "width": 0.36506, "height": 0.61257}]}
+{"photo_id": "123838939", "image_path": "images/123838939.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.23753, "top": 0.37648, "width": 0.39249, "height": 0.38013}]}
+{"photo_id": "127518193", "image_path": "images/127518193.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "129650272", "image_path": "images/129650272.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.8635218624637547, "top": 0.6974216143109686, "width": 0.13647813753624527, "height": 0.13048201106924084}, {"shape": "rectangle", "left": 0.37438279152114917, "top": 0.18939729910592443, "width": 0.26373581172975713, "height": 0.4109949569837763}]}
+{"photo_id": "129652573", "image_path": "images/129652573.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.2943770801440121, "top": 0.5556356606410042, "width": 0.07823764049707294, "height": 0.16792469179859548}, {"shape": "rectangle", "left": 0.34876178146514814, "top": 0.18162157436231433, "width": 0.1459799877567336, "height": 0.29132389713544216}, {"shape": "rectangle", "left": 0.4174582462918463, "top": 0.30883724996731093, "width": 0.11735646074560929, "height": 0.332032913329041}, {"shape": "rectangle", "left": 0.4928335340878068, "top": 0.3012043094310111, "width": 0.1307141066841339, "height": 0.39564075113153924}, {"shape": "rectangle", "left": 0.614006465101566, "top": 0.22869137433616307, "width": 0.1440717526226586, "height": 0.3460266376455907}, {"shape": "rectangle", "left": 0.6454923448138027, "top": 0.6166991849314026, "width": 0.07632940536299793, "height": 0.07632940536299793}, {"shape": "rectangle", "left": 0.837269975788335, "top": 0.5530913471289043, "width": 0.11735646074560935, "height": 0.44652702137353806}, {"shape": "rectangle", "left": 0.7113264569393883, "top": 0.7642693686331986, "width": 0.1259435188489466, "height": 0.1920956701635449}]}
+{"photo_id": "130874865", "image_path": "images/130874865.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "130935110", "image_path": "images/130935110.jpg", "width": 2048, "height": 1364, "boxes": [{"shape": "rectangle", "left": 0.195181956940874, "top": 0.1426735218508997, "width": 0.5230534021529563, "height": 0.6246786632390744}]}
+{"photo_id": "131917646", "image_path": "images/131917646.jpg", "width": 995, "height": 2048, "boxes": []}
+{"photo_id": "134554576", "image_path": "images/134554576.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.263, "top": 0.4412, "width": 0.39988, "height": 0.2835}]}
+{"photo_id": "135520261", "image_path": "images/135520261.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "135568688", "image_path": "images/135568688.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.40581, "top": 0.30374, "width": 0.19795, "height": 0.30378}]}
+{"photo_id": "135569620", "image_path": "images/135569620.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.02142, "top": 0.25251, "width": 0.82042, "height": 0.60164}]}
+{"photo_id": "135920515", "image_path": "images/135920515.jpg", "width": 1600, "height": 1066, "boxes": [{"left": 0.23067, "top": 0.24433, "width": 0.5505, "height": 0.56501}]}
+{"photo_id": "138010255", "image_path": "images/138010255.jpg", "width": 1649, "height": 1237, "boxes": [{"left": 0.23636, "top": 0.19879, "width": 0.43603, "height": 0.67875}]}
+{"photo_id": "138147193", "image_path": "images/138147193.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "141483368", "image_path": "images/141483368.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.41857, "top": 0.15148, "width": 0.15875, "height": 0.2768}]}
+{"photo_id": "143068420", "image_path": "images/143068420.jpg", "width": 2048, "height": 2048, "boxes": [{"left": 0.14638, "top": 0.18191, "width": 0.65751, "height": 0.65376}]}
+{"photo_id": "145698970", "image_path": "images/145698970.jpg", "width": 2048, "height": 1494, "boxes": [{"left": 0.46505, "top": 0.21, "width": 0.31186, "height": 0.5175}]}
+{"photo_id": "150662707", "image_path": "images/150662707.jpg", "width": 1500, "height": 1200, "boxes": [{"left": 0.18944, "top": 0.14903, "width": 0.42, "height": 0.59625}]}
+{"photo_id": "150797140", "image_path": "images/150797140.jpg", "width": 1500, "height": 1200, "boxes": [{"left": 0.15693, "top": 0.15484, "width": 0.48493, "height": 0.65375}]}
+{"photo_id": "151201608", "image_path": "images/151201608.jpg", "width": 1500, "height": 1200, "boxes": [{"left": 0.1272, "top": 0.23818, "width": 0.60435, "height": 0.41057}]}
+{"photo_id": "151418135", "image_path": "images/151418135.jpg", "width": 1500, "height": 2000, "boxes": []}
+{"photo_id": "156184937", "image_path": "images/156184937.jpg", "width": 1920, "height": 1080, "boxes": []}
+{"photo_id": "156716796", "image_path": "images/156716796.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.04305, "top": 0.05167, "width": 0.86479, "height": 0.88125}]}
+{"photo_id": "157327741", "image_path": "images/157327741.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.23953977965664397, "top": 0.4471587582898987, "width": 0.4162746649024224, "height": 0.23975628128052195}]}
+{"photo_id": "157474073", "image_path": "images/157474073.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.37254, "top": 0.36701, "width": 0.30007, "height": 0.18034}]}
+{"photo_id": "158945470", "image_path": "images/158945470.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.2938712430785122, "top": 0.3624740536608732, "width": 0.399174448104365, "height": 0.26685551067717733}]}
+{"photo_id": "160652920", "image_path": "images/160652920.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.40847, "top": 0.42204, "width": 0.12185, "height": 0.11111}]}
+{"photo_id": "161820136", "image_path": "images/161820136.jpg", "width": 1280, "height": 1280, "boxes": [{"left": 0.20735, "top": 0.37412, "width": 0.5494, "height": 0.2654}]}
+{"photo_id": "162383241", "image_path": "images/162383241.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.30263, "top": 0.23001, "width": 0.52157, "height": 0.43258}]}
+{"photo_id": "163471844", "image_path": "images/163471844.jpg", "width": 1365, "height": 2048, "boxes": [{"left": 0.3523, "top": 0.37101, "width": 0.37612, "height": 0.30082}]}
+{"photo_id": "164170477", "image_path": "images/164170477.jpg", "width": 2048, "height": 1820, "boxes": []}
+{"photo_id": "165605055", "image_path": "images/165605055.jpg", "width": 1280, "height": 960, "boxes": [{"left": 0.18345, "top": 0.25251, "width": 0.58933, "height": 0.57885}]}
+{"photo_id": "167192168", "image_path": "images/167192168.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.61114, "top": 0.24252, "width": 0.32422, "height": 0.40969}]}
+{"photo_id": "167910046", "image_path": "images/167910046.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.43511, "top": 0.30351, "width": 0.27772, "height": 0.19701}]}
+{"photo_id": "169102177", "image_path": "images/169102177.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.14887, "top": 0.088, "width": 0.71156, "height": 0.87125}]}
+{"photo_id": "169976305", "image_path": "images/169976305.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.27288, "top": 0.48259, "width": 0.43766, "height": 0.32589}]}
+{"photo_id": "169978894", "image_path": "images/169978894.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.10231, "top": 0.06175, "width": 0.7998, "height": 0.7}]}
+{"photo_id": "170843265", "image_path": "images/170843265.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "173227152", "image_path": "images/173227152.jpg", "width": 1080, "height": 1920, "boxes": []}
+{"photo_id": "174086363", "image_path": "images/174086363.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.299567377488927, "top": 0.03172833869448453, "width": 0.4327237959643558, "height": 0.8167215673183554}]}
+{"photo_id": "175313575", "image_path": "images/175313575.jpg", "width": 1700, "height": 1133, "boxes": [{"left": 0.10366, "top": 0.02524, "width": 0.80476, "height": 0.9125}]}
+{"photo_id": "175425742", "image_path": "images/175425742.jpg", "width": 946, "height": 754, "boxes": []}
+{"photo_id": "175901144", "image_path": "images/175901144.jpg", "width": 1895, "height": 1264, "boxes": [{"left": 0.18096, "top": 0.04063, "width": 0.60702, "height": 0.82}]}
+{"photo_id": "177533731", "image_path": "images/177533731.jpg", "width": 2048, "height": 1366, "boxes": [{"left": 0.43431, "top": 0.39429, "width": 0.09321, "height": 0.13239}]}
+{"photo_id": "177757541", "image_path": "images/177757541.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "179236621", "image_path": "images/179236621.jpg", "width": 2048, "height": 2048, "boxes": [{"left": 0.2745, "top": 0.33255, "width": 0.55075, "height": 0.38335}]}
+{"photo_id": "184464478", "image_path": "images/184464478.jpg", "width": 1896, "height": 1424, "boxes": [{"left": 0.36176, "top": 0.36901, "width": 0.16809, "height": 0.19069}]}
+{"photo_id": "185654855", "image_path": "images/185654855.jpg", "width": 2048, "height": 1364, "boxes": [{"left": 0.30839, "top": 0.10899, "width": 0.46704, "height": 0.55625}]}
+{"photo_id": "185655315", "image_path": "images/185655315.jpg", "width": 2048, "height": 1364, "boxes": [{"left": 0.41137, "top": 0.14221, "width": 0.42134, "height": 0.69644}]}
+{"photo_id": "186112871", "image_path": "images/186112871.jpg", "width": 2048, "height": 1449, "boxes": []}
+{"photo_id": "186238873", "image_path": "images/186238873.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "190543607", "image_path": "images/190543607.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.42332, "top": 0.26916, "width": 0.18819, "height": 0.38556}]}
+{"photo_id": "191170656", "image_path": "images/191170656.jpg", "width": 2048, "height": 1366, "boxes": []}
+{"photo_id": "192518839", "image_path": "images/192518839.jpg", "width": 2033, "height": 1627, "boxes": []}
+{"photo_id": "194151682", "image_path": "images/194151682.jpg", "width": 1728, "height": 1296, "boxes": [{"shape": "rectangle", "left": 0.5213153239384124, "top": 0.46604587121755514, "width": 0.258553778701584, "height": 0.31269948948295667}]}
+{"photo_id": "198028573", "image_path": "images/198028573.jpg", "width": 2048, "height": 1495, "boxes": []}
+{"photo_id": "202915409", "image_path": "images/202915409.jpg", "width": 1500, "height": 1000, "boxes": [{"left": 0.20285, "top": 0.01652, "width": 0.645, "height": 0.92}]}
+{"photo_id": "202916119", "image_path": "images/202916119.jpg", "width": 1500, "height": 1000, "boxes": [{"left": 0.01511, "top": 0.00884, "width": 0.96215, "height": 0.97528}]}
+{"photo_id": "204259768", "image_path": "images/204259768.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.4057793452311686, "top": 0.41319626270800935, "width": 0.12328377959031106, "height": 0.09452904328921896}]}
+{"photo_id": "204860025", "image_path": "images/204860025.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.27986, "top": 0.36896, "width": 0.38646, "height": 0.28844}]}
+{"photo_id": "206106043", "image_path": "images/206106043.jpg", "width": 960, "height": 720, "boxes": [{"left": 0.13533, "top": 0.00348, "width": 0.79053, "height": 0.9925}]}
+{"photo_id": "207350716", "image_path": "images/207350716.jpg", "width": 2048, "height": 1403, "boxes": [{"left": 0.01353, "top": 0.02005, "width": 0.51021, "height": 0.64904}, {"left": 0.09846, "top": 0.18049, "width": 0.78435, "height": 0.77119}]}
+{"photo_id": "209252184", "image_path": "images/209252184.jpg", "width": 1086, "height": 724, "boxes": [{"left": 0.3437903968116577, "top": 0.3327606717920838, "width": 0.2541851425387496, "height": 0.30453157317653345}]}
+{"photo_id": "213149489", "image_path": "images/213149489.jpg", "width": 719, "height": 959, "boxes": [{"left": 0.21938, "top": 0.1919, "width": 0.49336, "height": 0.53972}, {"left": 0.0, "top": 0.6048, "width": 0.235, "height": 0.3952}]}
+{"photo_id": "213149819", "image_path": "images/213149819.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.15587, "top": 0.35455, "width": 0.7119, "height": 0.48556}]}
+{"photo_id": "214437606", "image_path": "images/214437606.jpg", "width": 768, "height": 1024, "boxes": [{"shape": "rectangle", "left": 0.6936457065855622, "top": 0.21934840044454795, "width": 0.12608068456760368, "height": 0.1333148222067284}, {"shape": "rectangle", "left": 0.27101046168510917, "top": 0.6786709761904718, "width": 0.13254897935863585, "height": 0.11798867480787656}]}
+{"photo_id": "215516280", "image_path": "images/215516280.jpg", "width": 901, "height": 901, "boxes": [{"left": 0.16996, "top": 0.16058, "width": 0.63802, "height": 0.61125}]}
+{"photo_id": "217121675", "image_path": "images/217121675.jpg", "width": 2048, "height": 1411, "boxes": [{"left": 0.20316, "top": 0.22866, "width": 0.70104, "height": 0.67501}]}
+{"photo_id": "218230684", "image_path": "images/218230684.jpg", "width": 1530, "height": 2048, "boxes": []}
+{"photo_id": "218230810", "image_path": "images/218230810.jpg", "width": 1530, "height": 2048, "boxes": []}
+{"photo_id": "218372958", "image_path": "images/218372958.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.2305, "top": 0.2974, "width": 0.5495, "height": 0.377}]}
+{"photo_id": "218431721", "image_path": "images/218431721.jpg", "width": 2048, "height": 1447, "boxes": [{"shape": "rectangle", "left": 0.10246402360660173, "top": 0.27589511183261184, "width": 0.721824121222925, "height": 0.6072217712842712}]}
+{"photo_id": "218767447", "image_path": "images/218767447.jpg", "width": 2048, "height": 1152, "boxes": [{"left": 0.37775, "top": 0.15953, "width": 0.53438, "height": 0.75125}]}
+{"photo_id": "220005545", "image_path": "images/220005545.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "220119482", "image_path": "images/220119482.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "224145767", "image_path": "images/224145767.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.1687013812695031, "top": 0.266026753426799, "width": 0.4554827642840198, "height": 0.3795689702366832}]}
+{"photo_id": "224599051", "image_path": "images/224599051.jpg", "width": 1081, "height": 1919, "boxes": []}
+{"photo_id": "227779551", "image_path": "images/227779551.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "228480733", "image_path": "images/228480733.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "231547757", "image_path": "images/231547757.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.1641, "top": 0.0, "width": 0.8359, "height": 0.9245}]}
+{"photo_id": "232473791", "image_path": "images/232473791.jpg", "width": 1917, "height": 1438, "boxes": [{"left": 0.25742, "top": 0.15096, "width": 0.5551, "height": 0.71375}]}
+{"photo_id": "234533051", "image_path": "images/234533051.jpg", "width": 2048, "height": 1740, "boxes": [{"left": 0.10401885363520402, "top": 0.19005102040816324, "width": 0.425888372927296, "height": 0.4056122448979592}]}
+{"photo_id": "238254240", "image_path": "images/238254240.jpg", "width": 2048, "height": 1368, "boxes": [{"left": 0.13296, "top": 0.02471, "width": 0.58841, "height": 0.92094}]}
+{"photo_id": "238254551", "image_path": "images/238254551.jpg", "width": 1670, "height": 1113, "boxes": [{"left": 0.35723, "top": 0.02279, "width": 0.56987, "height": 0.86235}]}
+{"photo_id": "240419495", "image_path": "images/240419495.jpg", "width": 960, "height": 1280, "boxes": []}
+{"photo_id": "243315868", "image_path": "images/243315868.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "243763845", "image_path": "images/243763845.jpg", "width": 1153, "height": 2048, "boxes": []}
+{"photo_id": "244067479", "image_path": "images/244067479.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "244419798", "image_path": "images/244419798.jpg", "width": 1465, "height": 1465, "boxes": []}
+{"photo_id": "244447500", "image_path": "images/244447500.jpg", "width": 1487, "height": 2048, "boxes": [{"left": 0.21158, "top": 0.31211, "width": 0.64702, "height": 0.38644}]}
+{"photo_id": "245579243", "image_path": "images/245579243.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.08633, "top": 0.2005, "width": 0.63, "height": 0.6}]}
+{"photo_id": "245655226", "image_path": "images/245655226.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.26208, "top": 0.1814, "width": 0.39886, "height": 0.59448}]}
+{"photo_id": "247243655", "image_path": "images/247243655.jpg", "width": 2048, "height": 1857, "boxes": [{"left": 0.09006934516131877, "top": 0.1759166717529297, "width": 0.7933959960937499, "height": 0.5824999999999999}]}
+{"photo_id": "247850137", "image_path": "images/247850137.jpg", "width": 1824, "height": 1368, "boxes": [{"left": 0.3575, "top": 0.33228, "width": 0.257, "height": 0.41595}]}
+{"photo_id": "247850234", "image_path": "images/247850234.jpg", "width": 1824, "height": 1368, "boxes": [{"left": 0.23193, "top": 0.13398, "width": 0.68906, "height": 0.66625}]}
+{"photo_id": "247879215", "image_path": "images/247879215.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.08333333333333333, "top": 0.2780612244897959, "width": 0.7874149659863946, "height": 0.4043367346938776}]}
+{"photo_id": "248391782", "image_path": "images/248391782.jpg", "width": 2000, "height": 1333, "boxes": [{"shape": "rectangle", "left": 0.3941808140412444, "top": 0.36340083192860106, "width": 0.19831232234357976, "height": 0.20311309636242691}]}
+{"photo_id": "249451905", "image_path": "images/249451905.jpg", "width": 1125, "height": 1478, "boxes": []}
+{"photo_id": "250066315", "image_path": "images/250066315.jpg", "width": 800, "height": 535, "boxes": []}
+{"photo_id": "252369998", "image_path": "images/252369998.jpg", "width": 1600, "height": 1146, "boxes": []}
+{"photo_id": "253876122", "image_path": "images/253876122.jpg", "width": 630, "height": 960, "boxes": []}
+{"photo_id": "254685905", "image_path": "images/254685905.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "255323139", "image_path": "images/255323139.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.16062, "top": 0.16622, "width": 0.6769, "height": 0.56865}]}
+{"photo_id": "255325660", "image_path": "images/255325660.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "255923312", "image_path": "images/255923312.jpg", "width": 2048, "height": 1367, "boxes": []}
+{"photo_id": "257188006", "image_path": "images/257188006.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.47079, "top": 0.3214, "width": 0.16848, "height": 0.32064}]}
+{"photo_id": "260047242", "image_path": "images/260047242.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "260378624", "image_path": "images/260378624.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "261939378", "image_path": "images/261939378.jpg", "width": 1000, "height": 750, "boxes": []}
+{"photo_id": "264104765", "image_path": "images/264104765.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "267700011", "image_path": "images/267700011.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.47052, "top": 0.43624, "width": 0.23006, "height": 0.17046}]}
+{"photo_id": "267700844", "image_path": "images/267700844.jpg", "width": 2048, "height": 1535, "boxes": [{"left": 0.3398, "top": 0.3401, "width": 0.3188, "height": 0.3199}]}
+{"photo_id": "267853459", "image_path": "images/267853459.jpg", "width": 1600, "height": 2048, "boxes": [{"left": 0.326269844706237, "top": 0.18055555555555558, "width": 0.27480775811838587, "height": 0.3621115946846659}, {"left": 0.3883817626590666, "top": 0.4752033665235511, "width": 0.24978719375336222, "height": 0.2540078123227886}]}
+{"photo_id": "269635974", "image_path": "images/269635974.jpg", "width": 2048, "height": 2048, "boxes": [{"left": 0.08139, "top": 0.08785, "width": 0.80098, "height": 0.75175}]}
+{"photo_id": "278542044", "image_path": "images/278542044.jpg", "width": 1302, "height": 1300, "boxes": [{"left": 0.07563, "top": 0.061, "width": 0.77755, "height": 0.86875}]}
+{"photo_id": "278559835", "image_path": "images/278559835.jpg", "width": 1184, "height": 1183, "boxes": [{"left": 0.10474, "top": 0.19388, "width": 0.74312, "height": 0.64253}]}
+{"photo_id": "279224536", "image_path": "images/279224536.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "279742970", "image_path": "images/279742970.jpg", "width": 1507, "height": 848, "boxes": []}
+{"photo_id": "280453264", "image_path": "images/280453264.jpg", "width": 1015, "height": 1353, "boxes": []}
+{"photo_id": "281060319", "image_path": "images/281060319.jpg", "width": 835, "height": 845, "boxes": []}
+{"photo_id": "282427185", "image_path": "images/282427185.jpg", "width": 1796, "height": 1346, "boxes": [{"left": 0.41671, "top": 0.41057, "width": 0.22827, "height": 0.26716}]}
+{"photo_id": "284130558", "image_path": "images/284130558.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "284871454", "image_path": "images/284871454.jpg", "width": 1814, "height": 1814, "boxes": [{"left": 0.17402, "top": 0.20324, "width": 0.70125, "height": 0.5225}]}
+{"photo_id": "286613882", "image_path": "images/286613882.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.10654006799086584, "top": 0.3068167999916467, "width": 0.8934599320091342, "height": 0.5459518637534491}, {"left": 0.2597132004261715, "top": 0.05460646641854376, "width": 0.5253349451512855, "height": 0.3295733382317026}]}
+{"photo_id": "294889887", "image_path": "images/294889887.jpg", "width": 2048, "height": 1367, "boxes": [{"left": 0.2969245114572182, "top": 0.2187499933624266, "width": 0.4073716860159816, "height": 0.46968751433372535}, {"left": 0.5137513765947568, "top": 0.24968749430656417, "width": 0.1924221097540928, "height": 0.4584375139904026}]}
+{"photo_id": "298953148", "image_path": "images/298953148.jpg", "width": 1365, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.277984010538862, "top": 0.37742259847572274, "width": 0.26486409392391097, "height": 0.19489711950080552}]}
+{"photo_id": "303164565", "image_path": "images/303164565.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "309054552", "image_path": "images/309054552.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.39828, "top": 0.3934, "width": 0.17653, "height": 0.25136}]}
+{"photo_id": "309057475", "image_path": "images/309057475.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.47325, "top": 0.45199, "width": 0.1512, "height": 0.21578}, {"left": 0.26726, "top": 0.45147, "width": 0.0801, "height": 0.09182}, {"left": 0.20194, "top": 0.30047, "width": 0.14611, "height": 0.21793}]}
+{"photo_id": "310630068", "image_path": "images/310630068.jpg", "width": 1049, "height": 1220, "boxes": [{"left": 0.440070799389835, "top": 0.37168342034253715, "width": 0.12079392563235286, "height": 0.14759475218658896}]}
+{"photo_id": "310682239", "image_path": "images/310682239.jpg", "width": 1203, "height": 990, "boxes": []}
+{"photo_id": "312140186", "image_path": "images/312140186.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "313755613", "image_path": "images/313755613.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "313755722", "image_path": "images/313755722.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "315614825", "image_path": "images/315614825.jpg", "width": 1900, "height": 1722, "boxes": [{"left": 0.12983, "top": 0.21475, "width": 0.81342, "height": 0.65}]}
+{"photo_id": "316687974", "image_path": "images/316687974.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "316879414", "image_path": "images/316879414.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.2124, "top": 0.373, "width": 0.3726, "height": 0.2715}]}
+{"photo_id": "317365480", "image_path": "images/317365480.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.06122, "top": 0.32546, "width": 0.59, "height": 0.47875}]}
+{"photo_id": "318819858", "image_path": "images/318819858.jpg", "width": 2048, "height": 1362, "boxes": [{"left": 0.44291, "top": 0.3372, "width": 0.12002, "height": 0.1997}]}
+{"photo_id": "318825860", "image_path": "images/318825860.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.25137, "top": 0.30071, "width": 0.32906, "height": 0.3125}]}
+{"photo_id": "320495807", "image_path": "images/320495807.jpg", "width": 1959, "height": 1755, "boxes": [{"left": 0.2168, "top": 0.461, "width": 0.20605, "height": 0.34}, {"left": 0.39597, "top": 0.431, "width": 0.25532, "height": 0.22}]}
+{"photo_id": "320637046", "image_path": "images/320637046.jpg", "width": 1931, "height": 1362, "boxes": [{"left": 0.29628, "top": 0.30859, "width": 0.46361, "height": 0.41394}]}
+{"photo_id": "325241258", "image_path": "images/325241258.jpg", "width": 2048, "height": 1366, "boxes": []}
+{"photo_id": "327719751", "image_path": "images/327719751.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.1733491876853602, "top": 0.1993877435136382, "width": 0.5643247877298817, "height": 0.4498474736475343}, {"shape": "rectangle", "left": 0.2894388583040787, "top": 0.47872851343992967, "width": 0.5417517962206866, "height": 0.2515276196738902}, {"shape": "rectangle", "left": 0.3281354151769849, "top": 0.6685834955976256, "width": 0.45307218672027655, "height": 0.19469205176680915}]}
+{"photo_id": "329485177", "image_path": "images/329485177.jpg", "width": 957, "height": 533, "boxes": [{"left": 0.03068, "top": 0.14813, "width": 0.9315, "height": 0.79875}]}
+{"photo_id": "334402232", "image_path": "images/334402232.jpg", "width": 2048, "height": 2040, "boxes": [{"shape": "rectangle", "left": 0.13387136958997722, "top": 0.17084282460136674, "width": 0.8215220805452731, "height": 0.7584531605922549}]}
+{"photo_id": "344194815", "image_path": "images/344194815.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.14962, "top": 0.041, "width": 0.55688, "height": 0.9325}]}
+{"photo_id": "345651028", "image_path": "images/345651028.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.4222465166476716, "top": 0.19149643186439935, "width": 0.37653586999603655, "height": 0.5072086801426874}, {"left": 0.23645579132067981, "top": 0.48504577788104625, "width": 0.4236028537455411, "height": 0.2675386444708681}]}
+{"photo_id": "345705027", "image_path": "images/345705027.jpg", "width": 2048, "height": 1362, "boxes": [{"left": 0.22114, "top": 0.28022, "width": 0.54854, "height": 0.55264}]}
+{"photo_id": "348278699", "image_path": "images/348278699.jpg", "width": 2048, "height": 1363, "boxes": []}
+{"photo_id": "349371947", "image_path": "images/349371947.jpg", "width": 1154, "height": 2048, "boxes": []}
+{"photo_id": "351211661", "image_path": "images/351211661.jpg", "width": 2048, "height": 1233, "boxes": []}
+{"photo_id": "352575645", "image_path": "images/352575645.jpg", "width": 2048, "height": 1537, "boxes": [{"left": 0.33312, "top": 0.35548, "width": 0.21859, "height": 0.31889}]}
+{"photo_id": "353376247", "image_path": "images/353376247.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "353404817", "image_path": "images/353404817.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "353901773", "image_path": "images/353901773.jpg", "width": 1969, "height": 1801, "boxes": []}
+{"photo_id": "354339823", "image_path": "images/354339823.jpg", "width": 2048, "height": 1368, "boxes": []}
+{"photo_id": "357181377", "image_path": "images/357181377.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "357927790", "image_path": "images/357927790.jpg", "width": 1570, "height": 1260, "boxes": [{"left": 0.06989, "top": 0.10667, "width": 0.83666, "height": 0.75625}]}
+{"photo_id": "358059733", "image_path": "images/358059733.jpg", "width": 2048, "height": 1152, "boxes": [{"left": 0.04931, "top": 0.13304, "width": 0.45224, "height": 0.83352}]}
+{"photo_id": "358063682", "image_path": "images/358063682.jpg", "width": 2048, "height": 1152, "boxes": []}
+{"photo_id": "359763685", "image_path": "images/359763685.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "363476686", "image_path": "images/363476686.jpg", "width": 1864, "height": 2048, "boxes": []}
+{"photo_id": "363477970", "image_path": "images/363477970.jpg", "width": 1642, "height": 2048, "boxes": []}
+{"photo_id": "363499338", "image_path": "images/363499338.jpg", "width": 1932, "height": 2048, "boxes": []}
+{"photo_id": "363500044", "image_path": "images/363500044.jpg", "width": 1765, "height": 2048, "boxes": []}
+{"photo_id": "364170845", "image_path": "images/364170845.jpg", "width": 2048, "height": 1152, "boxes": []}
+{"photo_id": "364417185", "image_path": "images/364417185.jpg", "width": 2048, "height": 1235, "boxes": []}
+{"photo_id": "364700777", "image_path": "images/364700777.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "364873912", "image_path": "images/364873912.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "367053091", "image_path": "images/367053091.jpg", "width": 2048, "height": 1866, "boxes": [{"shape": "rectangle", "left": 0.0050759488161559885, "top": 0.06267409470752089, "width": 0.6344936020194986, "height": 0.6880222841225627}, {"shape": "rectangle", "left": 0.37562021239554316, "top": 0.4832869080779944, "width": 0.6004950444567723, "height": 0.5145172619738472}]}
+{"photo_id": "370577649", "image_path": "images/370577649.jpg", "width": 1151, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.33743794465123356, "top": 0.36812449209109577, "width": 0.20633041072572533, "height": 0.05312139060622001}, {"shape": "rectangle", "left": 0.3829689570739495, "top": 0.28423156424346785, "width": 0.19480357213769595, "height": 0.09425807723420743}]}
+{"photo_id": "372706993", "image_path": "images/372706993.jpg", "width": 2048, "height": 1588, "boxes": []}
+{"photo_id": "375420526", "image_path": "images/375420526.jpg", "width": 2048, "height": 1292, "boxes": [{"shape": "rectangle", "left": 0.009868579851327025, "top": 0.22239308882213363, "width": 0.18052833087803138, "height": 0.42345106889098005}, {"shape": "rectangle", "left": 0.16039920543800792, "top": 0.4067620662508591, "width": 0.11164933720685574, "height": 0.26791796802353895}, {"shape": "rectangle", "left": 0.3011848283442076, "top": 0.29736918721508815, "width": 0.2181638568700916, "height": 0.33478990632406763}, {"shape": "rectangle", "left": 0.34621980913767697, "top": 0.3792795582050727, "width": 0.21700220603649462, "height": 0.38976624708641755}, {"shape": "rectangle", "left": 0.4609178310670161, "top": 0.44910552317503294, "width": 0.08280648173449201, "height": 0.42899720945224473}, {"shape": "rectangle", "left": 0.5595584634406563, "top": 0.16310995821020524, "width": 0.2498686480561788, "height": 0.3175527004410914}, {"shape": "rectangle", "left": 0.5614278049473109, "top": 0.4791810752899852, "width": 0.017135630477668196, "height": 0.06568352901814167}, {"shape": "rectangle", "left": 0.518121393376477, "top": 0.42041160195796357, "width": 0.2473761927139725, "height": 0.4587969808861181}, {"shape": "rectangle", "left": 0.7208114234556988, "top": 0.5685929649723049, "width": 0.1022909070662471, "height": 0.30200832274281575}, {"shape": "rectangle", "left": 0.6633508551354508, "top": 0.3679045881089973, "width": 0.18895229786016177, "height": 0.43405428054846074}, {"shape": "rectangle", "left": 0.7981521895844687, "top": 0.40564843859147215, "width": 0.0633681486726152, "height": 0.3999630607578384}, {"shape": "rectangle", "left": 0.8300282886137236, "top": 0.4488712351117256, "width": 0.14209827278101594, "height": 0.3579578078015358}]}
+{"photo_id": "378886717", "image_path": "images/378886717.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "379661727", "image_path": "images/379661727.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "380087780", "image_path": "images/380087780.jpg", "width": 2048, "height": 2048, "boxes": []}
+{"photo_id": "380522940", "image_path": "images/380522940.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.2637, "top": 0.1973, "width": 0.4948, "height": 0.354}, {"left": 0.1367, "top": 0.4453, "width": 0.4134, "height": 0.4385}]}
+{"photo_id": "384990565", "image_path": "images/384990565.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3491188480367338, "top": 0.36361824505370427, "width": 0.3362195332271731, "height": 0.176369495031017}]}
+{"photo_id": "386406940", "image_path": "images/386406940.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "391254633", "image_path": "images/391254633.jpg", "width": 1214, "height": 1602, "boxes": []}
+{"photo_id": "393494362", "image_path": "images/393494362.jpg", "width": 1973, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.06300973636781523, "top": 0.28772166454503506, "width": 0.9129127813346859, "height": 0.39474008832309476}]}
+{"photo_id": "397124387", "image_path": "images/397124387.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "397757124", "image_path": "images/397757124.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.018223234624145785, "top": 0.4396355353075171, "width": 0.4191343963553531, "height": 0.3849658314350797}, {"shape": "rectangle", "left": 0.32801822323462415, "top": 0.23917995444191345, "width": 0.6135155656795748, "height": 0.5079726651480638}]}
+{"photo_id": "397885614", "image_path": "images/397885614.jpg", "width": 1394, "height": 974, "boxes": [{"left": 0.30128, "top": 0.18232, "width": 0.4191, "height": 0.45852}]}
+{"photo_id": "400543853", "image_path": "images/400543853.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "401560651", "image_path": "images/401560651.jpg", "width": 1603, "height": 2048, "boxes": []}
+{"photo_id": "409602690", "image_path": "images/409602690.jpg", "width": 943, "height": 597, "boxes": [{"left": 0.51678, "top": 0.24425, "width": 0.18266, "height": 0.47666}]}
+{"photo_id": "410430109", "image_path": "images/410430109.jpg", "width": 2048, "height": 1366, "boxes": []}
+{"photo_id": "410695444", "image_path": "images/410695444.jpg", "width": 800, "height": 651, "boxes": []}
+{"photo_id": "411174727", "image_path": "images/411174727.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "412321992", "image_path": "images/412321992.jpg", "width": 1668, "height": 1463, "boxes": [{"left": 0.161, "top": 0.43482, "width": 0.42855, "height": 0.26892}, {"left": 0.37499, "top": 0.23792, "width": 0.49012, "height": 0.53692}]}
+{"photo_id": "417706725", "image_path": "images/417706725.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.35689202262513364, "top": 0.45342, "width": 0.14361797737486637, "height": 0.0694348271711483}, {"left": 0.4546, "top": 0.4936100000000001, "width": 0.11647, "height": 0.05365}, {"left": 0.34839, "top": 0.52453, "width": 0.10795, "height": 0.08755}, {"left": 0.664938104053896, "top": 0.57602, "width": 0.16282189594610408, "height": 0.11876753402697726}]}
+{"photo_id": "419938648", "image_path": "images/419938648.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "420423115", "image_path": "images/420423115.jpg", "width": 1550, "height": 1077, "boxes": [{"left": 0.446433870967742, "top": 0.42000000000000004, "width": 0.11575013166556947, "height": 0.20882653061224477}, {"left": 0.3840429558920342, "top": 0.2729591836734694, "width": 0.14712146148782101, "height": 0.1926020408163266}]}
+{"photo_id": "420819460", "image_path": "images/420819460.jpg", "width": 1153, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.21457291580306653, "top": 0.18069496764401696, "width": 0.6159757467202327, "height": 0.2714778384258423}]}
+{"photo_id": "422715213", "image_path": "images/422715213.jpg", "width": 1925, "height": 1401, "boxes": [{"shape": "rectangle", "left": 0.3036217444171168, "top": 0.2886873097197759, "width": 0.40155845839961185, "height": 0.3213249565245581}, {"shape": "rectangle", "left": 0.34131592920941756, "top": 0.49691433746759806, "width": 0.21770314890247155, "height": 0.26001953718763593}]}
+{"photo_id": "423909719", "image_path": "images/423909719.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.3051020408163265, "top": 0.23852040816326525, "width": 0.315688775510204, "height": 0.4119897959183674}]}
+{"photo_id": "424733312", "image_path": "images/424733312.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.46006, "top": 0.4206, "width": 0.14418, "height": 0.22201}]}
+{"photo_id": "425857766", "image_path": "images/425857766.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.43493, "top": 0.44382, "width": 0.11167, "height": 0.1262}]}
+{"photo_id": "425859526", "image_path": "images/425859526.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "429383609", "image_path": "images/429383609.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "429671774", "image_path": "images/429671774.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "429672703", "image_path": "images/429672703.jpg", "width": 2048, "height": 2008, "boxes": [{"left": 0.12194, "top": 0.0082, "width": 0.67301, "height": 0.73108}, {"left": 0.25154, "top": 0.49772, "width": 0.35751, "height": 0.46764}]}
+{"photo_id": "429690441", "image_path": "images/429690441.jpg", "width": 1193, "height": 1230, "boxes": [{"left": 0.49931, "top": 0.31024, "width": 0.5, "height": 0.575}, {"left": 0.15005, "top": 0.05024, "width": 0.64567, "height": 0.61}]}
+{"photo_id": "430535352", "image_path": "images/430535352.jpg", "width": 1790, "height": 2045, "boxes": [{"shape": "rectangle", "left": 0.011747641136849967, "top": 0.10282776349614396, "width": 0.9471535666585285, "height": 0.8097686375321337}]}
+{"photo_id": "430571120", "image_path": "images/430571120.jpg", "width": 1740, "height": 1916, "boxes": [{"shape": "rectangle", "left": 0.0015336342970575993, "top": 0.03203342618384401, "width": 0.9677232414433453, "height": 0.8217270194986073}]}
+{"photo_id": "430917226", "image_path": "images/430917226.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.32404, "top": 0.34625, "width": 0.28653, "height": 0.28207}]}
+{"photo_id": "433046177", "image_path": "images/433046177.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "435120153", "image_path": "images/435120153.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "435138837", "image_path": "images/435138837.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "436430448", "image_path": "images/436430448.jpg", "width": 2048, "height": 1154, "boxes": []}
+{"photo_id": "437998750", "image_path": "images/437998750.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "437999764", "image_path": "images/437999764.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "438004556", "image_path": "images/438004556.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "438057297", "image_path": "images/438057297.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "438506485", "image_path": "images/438506485.jpg", "width": 2048, "height": 1366, "boxes": [{"left": 0.32882, "top": 0.22722, "width": 0.33017, "height": 0.46444}]}
+{"photo_id": "438506486", "image_path": "images/438506486.jpg", "width": 2048, "height": 1366, "boxes": [{"left": 0.30453, "top": 0.23464, "width": 0.34048, "height": 0.45567}]}
+{"photo_id": "438506512", "image_path": "images/438506512.jpg", "width": 2048, "height": 1366, "boxes": [{"left": 0.38991, "top": 0.32319, "width": 0.25944, "height": 0.4513}]}
+{"photo_id": "438937471", "image_path": "images/438937471.jpg", "width": 1280, "height": 959, "boxes": [{"left": 0.52153, "top": 0.31525, "width": 0.34324, "height": 0.50277}]}
+{"photo_id": "439880872", "image_path": "images/439880872.jpg", "width": 862, "height": 807, "boxes": []}
+{"photo_id": "439945209", "image_path": "images/439945209.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0, "top": 0.5263194444444445, "width": 0.2846527099609375, "height": 0.25}, {"left": 0.4154078165690104, "top": 0.15479166666666663, "width": 0.25596682333141973, "height": 0.40768028804361545}]}
+{"photo_id": "441982655", "image_path": "images/441982655.jpg", "width": 1208, "height": 2048, "boxes": [{"left": 0.31456, "top": 0.21363, "width": 0.68544, "height": 0.47178}]}
+{"photo_id": "441985073", "image_path": "images/441985073.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.37863, "top": 0.22304, "width": 0.29239, "height": 0.47426}]}
+{"photo_id": "441987206", "image_path": "images/441987206.jpg", "width": 1365, "height": 2048, "boxes": [{"left": 0.34654962141842605, "top": 0.3882871720116618, "width": 0.4059846858680679, "height": 0.3361880466472303}]}
+{"photo_id": "442322044", "image_path": "images/442322044.jpg", "width": 1365, "height": 2048, "boxes": [{"left": 0.37281, "top": 0.41386, "width": 0.2626, "height": 0.29353}]}
+{"photo_id": "446301802", "image_path": "images/446301802.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.44034, "top": 0.23495, "width": 0.32401, "height": 0.28757}, {"left": 0.21342, "top": 0.41804, "width": 0.55943, "height": 0.26314}]}
+{"photo_id": "446410525", "image_path": "images/446410525.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "449740805", "image_path": "images/449740805.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0, "top": 0.00010875022775799076, "width": 0.8922807577137449, "height": 0.7483114076510462}, {"shape": "rectangle", "left": 0.4399567723029046, "top": 0.38414861266908007, "width": 0.5065425379100152, "height": 0.4484377123389812}]}
+{"photo_id": "450239303", "image_path": "images/450239303.jpg", "width": 2048, "height": 1582, "boxes": []}
+{"photo_id": "450241672", "image_path": "images/450241672.jpg", "width": 1583, "height": 2048, "boxes": []}
+{"photo_id": "450371128", "image_path": "images/450371128.jpg", "width": 2048, "height": 1366, "boxes": []}
+{"photo_id": "450733970", "image_path": "images/450733970.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "450737582", "image_path": "images/450737582.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "455638255", "image_path": "images/455638255.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "457740978", "image_path": "images/457740978.jpg", "width": 1178, "height": 1207, "boxes": [{"left": 0.36712, "top": 0.27474, "width": 0.33879, "height": 0.46845}]}
+{"photo_id": "457909997", "image_path": "images/457909997.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "458079134", "image_path": "images/458079134.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.43316, "top": 0.36828, "width": 0.43634, "height": 0.27165}, {"left": 0.12566, "top": 0.32179, "width": 0.46673, "height": 0.35825}]}
+{"photo_id": "459236280", "image_path": "images/459236280.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "459646151", "image_path": "images/459646151.jpg", "width": 2048, "height": 1363, "boxes": []}
+{"photo_id": "459646320", "image_path": "images/459646320.jpg", "width": 2048, "height": 1371, "boxes": []}
+{"photo_id": "461349791", "image_path": "images/461349791.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "461545777", "image_path": "images/461545777.jpg", "width": 1583, "height": 2048, "boxes": []}
+{"photo_id": "465056092", "image_path": "images/465056092.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.23662, "top": 0.14523, "width": 0.45563, "height": 0.74125}]}
+{"photo_id": "466290412", "image_path": "images/466290412.jpg", "width": 668, "height": 1000, "boxes": []}
+{"photo_id": "466936869", "image_path": "images/466936869.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "467789016", "image_path": "images/467789016.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "469260436", "image_path": "images/469260436.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "470155448", "image_path": "images/470155448.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "471163563", "image_path": "images/471163563.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "472625416", "image_path": "images/472625416.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "472625885", "image_path": "images/472625885.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "472634655", "image_path": "images/472634655.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "473451344", "image_path": "images/473451344.jpg", "width": 1982, "height": 1599, "boxes": []}
+{"photo_id": "476960339", "image_path": "images/476960339.jpg", "width": 810, "height": 810, "boxes": [{"left": 0.2375, "top": 0.16, "width": 0.575, "height": 0.5775}]}
+{"photo_id": "477164057", "image_path": "images/477164057.jpg", "width": 960, "height": 1280, "boxes": [{"left": 0.25857, "top": 0.20519, "width": 0.49881, "height": 0.42939}]}
+{"photo_id": "479152879", "image_path": "images/479152879.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "479789795", "image_path": "images/479789795.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "482971300", "image_path": "images/482971300.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "485537886", "image_path": "images/485537886.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "485754985", "image_path": "images/485754985.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.32694, "top": 0.19024, "width": 0.34075, "height": 0.44875}]}
+{"photo_id": "488684472", "image_path": "images/488684472.jpg", "width": 2048, "height": 1360, "boxes": []}
+{"photo_id": "488750738", "image_path": "images/488750738.jpg", "width": 2048, "height": 1360, "boxes": [{"left": 0.33194, "top": 0.06461, "width": 0.36832, "height": 0.53518}]}
+{"photo_id": "489444765", "image_path": "images/489444765.jpg", "width": 720, "height": 1280, "boxes": []}
+{"photo_id": "491746137", "image_path": "images/491746137.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.31365, "top": 0.50281, "width": 0.19525, "height": 0.11581}]}
+{"photo_id": "498237565", "image_path": "images/498237565.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "498410481", "image_path": "images/498410481.jpg", "width": 1153, "height": 2048, "boxes": [{"left": 0, "top": 0.16685951680584404, "width": 1, "height": 0.3902181087649322}]}
+{"photo_id": "498936553", "image_path": "images/498936553.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "503238238", "image_path": "images/503238238.jpg", "width": 1024, "height": 768, "boxes": []}
+{"photo_id": "509056853", "image_path": "images/509056853.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "511637315", "image_path": "images/511637315.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.42884, "top": 0.37936, "width": 0.27244, "height": 0.24825}, {"left": 0.29041, "top": 0.5241, "width": 0.29449, "height": 0.23473}]}
+{"photo_id": "514184980", "image_path": "images/514184980.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.47327, "top": 0.57065, "width": 0.19569, "height": 0.15588}]}
+{"photo_id": "514219583", "image_path": "images/514219583.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.51126, "top": 0.24407, "width": 0.18784, "height": 0.35902}]}
+{"photo_id": "521419365", "image_path": "images/521419365.jpg", "width": 1916, "height": 1437, "boxes": [{"shape": "rectangle", "left": 0.43812340097520386, "top": 0.347994522161759, "width": 0.17086646741372724, "height": 0.3370615066962695}, {"shape": "rectangle", "left": 0.5782662449107531, "top": 0.3860846284621903, "width": 0.06468131258563803, "height": 0.25441316283684307}]}
+{"photo_id": "521721709", "image_path": "images/521721709.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "529335364", "image_path": "images/529335364.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "529670009", "image_path": "images/529670009.jpg", "width": 1920, "height": 1080, "boxes": []}
+{"photo_id": "529813567", "image_path": "images/529813567.jpg", "width": 1365, "height": 2048, "boxes": []}
+{"photo_id": "534856738", "image_path": "images/534856738.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "536770983", "image_path": "images/536770983.jpg", "width": 885, "height": 847, "boxes": [{"left": 0.14295, "top": 0.29079, "width": 0.73389, "height": 0.44375}]}
+{"photo_id": "536771845", "image_path": "images/536771845.jpg", "width": 1432, "height": 1251, "boxes": [{"left": 0.06212290502793297, "top": 0.2556917317708333, "width": 0.912641869798941, "height": 0.6138916015625}]}
+{"photo_id": "541952197", "image_path": "images/541952197.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.379737609329446, "top": 0.2266763848396501, "width": 0.49319727891156473, "height": 0.2842565597667638}]}
+{"photo_id": "544238351", "image_path": "images/544238351.jpg", "width": 1109, "height": 1250, "boxes": [{"left": 0.41856, "top": 0.15657, "width": 0.52303, "height": 0.51456}, {"left": 0.24307, "top": 0.52957, "width": 0.56779, "height": 0.4385}]}
+{"photo_id": "544908995", "image_path": "images/544908995.jpg", "width": 1024, "height": 768, "boxes": []}
+{"photo_id": "547817048", "image_path": "images/547817048.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.23338, "top": 0.26755, "width": 0.33535, "height": 0.23902}]}
+{"photo_id": "548367259", "image_path": "images/548367259.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "549700164", "image_path": "images/549700164.jpg", "width": 1433, "height": 1165, "boxes": []}
+{"photo_id": "550948540", "image_path": "images/550948540.jpg", "width": 1153, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3094831828966656, "top": 0.36111667207415005, "width": 0.19602372055141742, "height": 0.1262507617999889}]}
+{"photo_id": "550952862", "image_path": "images/550952862.jpg", "width": 1153, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3031561726403091, "top": 0.19467592191370453, "width": 0.09558204139572019, "height": 0.09406755227219166}, {"shape": "rectangle", "left": 0.18422584632349695, "top": 0.22918105025808927, "width": 0.24807552728660195, "height": 0.15198687485026602}, {"shape": "rectangle", "left": 0.5278834150058191, "top": 0.27929564142493374, "width": 0.050344739361104396, "height": 0.16841788834759214}, {"shape": "rectangle", "left": 0.6241950903053233, "top": 0.30887146572012064, "width": 0.15176385198709785, "height": 0.13555586135294}, {"shape": "rectangle", "left": 0.7059140875291452, "top": 0.402117467317446, "width": 0.2612089375547161, "height": 0.124464927242245}]}
+{"photo_id": "552117405", "image_path": "images/552117405.jpg", "width": 1365, "height": 2048, "boxes": [{"left": 0.16504029304029305, "top": 0.225, "width": 0.6339047619047617, "height": 0.495}]}
+{"photo_id": "552117435", "image_path": "images/552117435.jpg", "width": 1365, "height": 2048, "boxes": [{"left": 0.0908, "top": 0.2754, "width": 0.8044, "height": 0.5347}]}
+{"photo_id": "552934718", "image_path": "images/552934718.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "553471505", "image_path": "images/553471505.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "554735363", "image_path": "images/554735363.jpg", "width": 2048, "height": 1534, "boxes": [{"left": 0.29036, "top": 0.30935, "width": 0.21868, "height": 0.30058}]}
+{"photo_id": "555270094", "image_path": "images/555270094.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "557683818", "image_path": "images/557683818.jpg", "width": 1947, "height": 2048, "boxes": []}
+{"photo_id": "557781349", "image_path": "images/557781349.jpg", "width": 2048, "height": 1368, "boxes": []}
+{"photo_id": "558101108", "image_path": "images/558101108.jpg", "width": 1898, "height": 1485, "boxes": []}
+{"photo_id": "558682201", "image_path": "images/558682201.jpg", "width": 1553, "height": 1470, "boxes": [{"left": 0.23609, "top": 0.14596, "width": 0.549, "height": 0.735}]}
+{"photo_id": "560763637", "image_path": "images/560763637.jpg", "width": 2048, "height": 1837, "boxes": [{"left": 0.46853, "top": 0.49775, "width": 0.09851824202780046, "height": 0.0883940291704649}]}
+{"photo_id": "561927174", "image_path": "images/561927174.jpg", "width": 800, "height": 1440, "boxes": [{"left": 0.04521, "top": 0.31827, "width": 0.82049, "height": 0.36718}]}
+{"photo_id": "562348093", "image_path": "images/562348093.jpg", "width": 799, "height": 960, "boxes": [{"left": 0.1402, "top": 0.0594, "width": 0.776, "height": 0.8635}]}
+{"photo_id": "563927619", "image_path": "images/563927619.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "564396847", "image_path": "images/564396847.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "565111981", "image_path": "images/565111981.jpg", "width": 1179, "height": 1325, "boxes": []}
+{"photo_id": "567375323", "image_path": "images/567375323.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.20159, "top": 0.16138, "width": 0.36969, "height": 0.7489}]}
+{"photo_id": "568790341", "image_path": "images/568790341.jpg", "width": 1768, "height": 1175, "boxes": [{"left": 0.20706, "top": 0.27545, "width": 0.35396, "height": 0.57178}]}
+{"photo_id": "569363181", "image_path": "images/569363181.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "573258251", "image_path": "images/573258251.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "576852768", "image_path": "images/576852768.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "578486437", "image_path": "images/578486437.jpg", "width": 1118, "height": 702, "boxes": [{"left": 0.2513, "top": 0.245, "width": 0.4741, "height": 0.4815}]}
+{"photo_id": "578491096", "image_path": "images/578491096.jpg", "width": 1122, "height": 700, "boxes": [{"left": 0.26167, "top": 0.04471, "width": 0.43438, "height": 0.5075}, {"left": 0.55668, "top": 0.46428, "width": 0.19836, "height": 0.31738}]}
+{"photo_id": "582728429", "image_path": "images/582728429.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "586175359", "image_path": "images/586175359.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "586635671", "image_path": "images/586635671.jpg", "width": 960, "height": 924, "boxes": [{"left": 0.05136, "top": 0.09541, "width": 0.86023, "height": 0.86875}]}
+{"photo_id": "587924148", "image_path": "images/587924148.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "591241767", "image_path": "images/591241767.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "592928293", "image_path": "images/592928293.jpg", "width": 1594, "height": 1062, "boxes": []}
+{"photo_id": "594415460", "image_path": "images/594415460.jpg", "width": 2048, "height": 1366, "boxes": []}
+{"photo_id": "594752976", "image_path": "images/594752976.jpg", "width": 1640, "height": 1312, "boxes": []}
+{"photo_id": "595422202", "image_path": "images/595422202.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.22832, "top": 0.4158, "width": 0.33837, "height": 0.25941}]}
+{"photo_id": "595595950", "image_path": "images/595595950.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.1930098570040261, "top": 0.39965118700541435, "width": 0.2701461836393514, "height": 0.35155172439601157}]}
+{"photo_id": "596962489", "image_path": "images/596962489.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.22202, "top": 0.43091, "width": 0.49836, "height": 0.28286}]}
+{"photo_id": "597052494", "image_path": "images/597052494.jpg", "width": 1024, "height": 768, "boxes": []}
+{"photo_id": "597419379", "image_path": "images/597419379.jpg", "width": 1473, "height": 1571, "boxes": [{"shape": "rectangle", "left": 0.21834710623659387, "top": 0.652475285468694, "width": 0.030298514886778344, "height": 0.08901321808302798}, {"shape": "rectangle", "left": 0.26732970530355216, "top": 0.6003930833988373, "width": 0.09847017338202968, "height": 0.11031957347524202}, {"shape": "rectangle", "left": 0.20279280200039745, "top": 0.6093654061023117, "width": 0.061376309063008616, "height": 0.07687017193342627}, {"shape": "rectangle", "left": 0.16023258768663234, "top": 0.619026684542032, "width": 0.04972825040871501, "height": 0.08191083894545415}, {"shape": "rectangle", "left": 0.33750467787862876, "top": 0.5927208858888029, "width": 0.05063682905797545, "height": 0.08102924080549045}, {"shape": "rectangle", "left": 0.43685132333320675, "top": 0.6031396847553943, "width": 0.027076637760167332, "height": 0.08110837092346468}, {"shape": "rectangle", "left": 0.455530896433304, "top": 0.5804804357883421, "width": 0.057023293390518315, "height": 0.07638020475059881}, {"shape": "rectangle", "left": 0.6965736726813473, "top": 0.5982741747003336, "width": 0.07697758064075533, "height": 0.07704144463173179}, {"shape": "rectangle", "left": 0.17039433748497962, "top": 0.36449510321919504, "width": 0.037441837971221054, "height": 0.04228700376967859}, {"shape": "rectangle", "left": 0.19875936625105617, "top": 0.349867523298866, "width": 0.038860089409524956, "height": 0.04707421174360443}, {"shape": "rectangle", "left": 0.24159055968783183, "top": 0.34667605131624873, "width": 0.017019017259645997, "height": 0.03696788379864985}, {"shape": "rectangle", "left": 0.307964727000451, "top": 0.356516423262652, "width": 0.030634231067362683, "height": 0.040159355781267}, {"shape": "rectangle", "left": 0.3650985973634589, "top": 0.32019359835310307, "width": 0.04241329538429789, "height": 0.05448464257976171}, {"shape": "rectangle", "left": 0.39782696703008247, "top": 0.3167491669256469, "width": 0.02404533281629484, "height": 0.044777608556930526}, {"shape": "rectangle", "left": 0.1842150776971976, "top": 0.5948198483034705, "width": 0.05477808552164434, "height": 0.074284826006631}, {"shape": "rectangle", "left": 0.2360568031875183, "top": 0.5507601604244201, "width": 0.0489067237346931, "height": 0.070526895999108}, {"shape": "rectangle", "left": 0.5645237946099286, "top": 0.5746303159602176, "width": 0.07982037685809351, "height": 0.08534514815994021}, {"shape": "rectangle", "left": 0.6788863228569049, "top": 0.5711289765485278, "width": 0.05741465703827775, "height": 0.07834246933656042}, {"shape": "rectangle", "left": 0.6490120297638171, "top": 0.5733173136808339, "width": 0.02940750726350816, "height": 0.0866581504393239}, {"shape": "rectangle", "left": 0.7436043232307078, "top": 0.5617619733724604, "width": 0.05803589008895804, "height": 0.059362443910214835}, {"shape": "rectangle", "left": 0.7594322932549692, "top": 0.526804089736445, "width": 0.06788440477072044, "height": 0.07486263759788192}, {"shape": "rectangle", "left": 0.7390317985570323, "top": 0.5146018095993452, "width": 0.022510890701171626, "height": 0.08409679553947103}, {"shape": "rectangle", "left": 0.6791400928919111, "top": 0.523064764548335, "width": 0.059964792476937645, "height": 0.07113442155625671}, {"shape": "rectangle", "left": 0.6242696418683892, "top": 0.539256657440255, "width": 0.0539220696623014, "height": 0.05968697160397163}, {"shape": "rectangle", "left": 0.4862010589410314, "top": 0.568827116390073, "width": 0.0694824849527289, "height": 0.05853409984703861}, {"shape": "rectangle", "left": 0.5190024350862282, "top": 0.539394715902014, "width": 0.06595545525969704, "height": 0.06779373146125944}, {"shape": "rectangle", "left": 0.5556835438937603, "top": 0.5546069678396626, "width": 0.03244867317589373, "height": 0.07209284613929035}, {"shape": "rectangle", "left": 0.4003791488362137, "top": 0.5369414337533558, "width": 0.048502824117652055, "height": 0.07226511820701398}, {"shape": "rectangle", "left": 0.3252994347910809, "top": 0.5235474678787799, "width": 0.06444895807414053, "height": 0.08410164618919724}, {"shape": "rectangle", "left": 0.31297993893928, "top": 0.49502039714978985, "width": 0.053984307665194964, "height": 0.07268043497831866}, {"shape": "rectangle", "left": 0.3704247791471157, "top": 0.499238458108353, "width": 0.0446408698000651, "height": 0.06197304946811999}, {"shape": "rectangle", "left": 0.1732645872508125, "top": 0.5297955836376019, "width": 0.05180800021143242, "height": 0.06686721558750475}, {"shape": "rectangle", "left": 0.20428542688358378, "top": 0.5498857336123231, "width": 0.039335703864235766, "height": 0.06836648051099137}, {"shape": "rectangle", "left": 0.21835673558298518, "top": 0.5091057276934862, "width": 0.02718320998748, "height": 0.07256442229675397}, {"shape": "rectangle", "left": 0.2221943652282765, "top": 0.5309949955763913, "width": 0.049249580447904895, "height": 0.05847133201597943}, {"shape": "rectangle", "left": 0.23050922945974092, "top": 0.5115045515710648, "width": 0.05340701256363714, "height": 0.056972067092492806}, {"shape": "rectangle", "left": 0.35050292185348136, "top": 0.4146965502741611, "width": 0.06233283582494614, "height": 0.05540400913929089}, {"shape": "rectangle", "left": 0.29501588880699753, "top": 0.4535469225364688, "width": 0.046839703221057793, "height": 0.04932308130692964}, {"shape": "rectangle", "left": 0.2748387858810034, "top": 0.4390202616036059, "width": 0.058729781731018615, "height": 0.05067439860300993}, {"shape": "rectangle", "left": 0.2773609237467527, "top": 0.4596278503688299, "width": 0.05945039254980411, "height": 0.04729610536280937}, {"shape": "rectangle", "left": 0.419463727339087, "top": 0.4566882603996853, "width": 0.05435252552085024, "height": 0.07167823159580794}, {"shape": "rectangle", "left": 0.4172542750821418, "top": 0.5047187629119251, "width": 0.04551471649306971, "height": 0.06297740579516065}, {"shape": "rectangle", "left": 0.5914830704260149, "top": 0.38780135432783586, "width": 0.01957038203022632, "height": 0.05187281975452834}, {"shape": "rectangle", "left": 0.6742808405538954, "top": 0.4156785839918341, "width": 0.033871815052314735, "height": 0.06245910950035044}, {"shape": "rectangle", "left": 0.6358927834946052, "top": 0.44179143203152865, "width": 0.03575358255522121, "height": 0.058224593602021535}, {"shape": "rectangle", "left": 0.664119296038201, "top": 0.47707906451760235, "width": 0.04779689457382186, "height": 0.05610733565285714}, {"shape": "rectangle", "left": 0.5888485959219459, "top": 0.4703744143452483, "width": 0.05043136907789081, "height": 0.0557544593279965}, {"shape": "rectangle", "left": 0.5911067169254336, "top": 0.4364982871586176, "width": 0.044033359568009134, "height": 0.04763830385619944}, {"shape": "rectangle", "left": 0.5461286255371184, "top": 0.43648135094468155, "width": 0.03567408793457305, "height": 0.062437601645386365}, {"shape": "rectangle", "left": 0.5211567639829173, "top": 0.44911753223005735, "width": 0.041223390502173274, "height": 0.06095099208240096}, {"shape": "rectangle", "left": 0.49499576616423047, "top": 0.4472592702763256, "width": 0.049943723108402116, "height": 0.058349425347176576}, {"shape": "rectangle", "left": 0.11046442860099409, "top": 0.44953460098738274, "width": 0.06415871963544664, "height": 0.07393274492206103}, {"left": 0.22283204539565046, "top": 0.47208931419457734, "width": 0.045927215463225673, "height": 0.04226475279106856}, {"left": 0.46012265862231644, "top": 0.4688995215311005, "width": 0.034020159602389355, "height": 0.06419457735247214}, {"left": 0.44821560276148015, "top": 0.5291068580542264, "width": 0.02976763965209067, "height": 0.07137161084529509}, {"left": 0.5662816972131559, "top": 0.5133171912832929, "width": 0.04648326817546, "height": 0.07210115684691965}, {"left": 0.45884690263722683, "top": 0.3536682615629984, "width": 0.038697931547717945, "height": 0.04864433811802232}, {"left": 0.01701007980119469, "top": 0.45215311004784686, "width": 0.05485750735885288, "height": 0.04784688995215314}, {"left": 0.061236287284300896, "top": 0.4130781499202552, "width": 0.05740901932903208, "height": 0.07017543859649122}]}
+{"photo_id": "597721622", "image_path": "images/597721622.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.33313, "top": 0.03948, "width": 0.4092905565839537, "height": 0.5685418778486783}, {"left": 0.43927, "top": 0.41936, "width": 0.30669, "height": 0.56157}]}
+{"photo_id": "598659043", "image_path": "images/598659043.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "600281282", "image_path": "images/600281282.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "600559721", "image_path": "images/600559721.jpg", "width": 1440, "height": 1080, "boxes": []}
+{"photo_id": "600581571", "image_path": "images/600581571.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.17662, "top": 0.13148, "width": 0.55781, "height": 0.705}]}
+{"photo_id": "601568597", "image_path": "images/601568597.jpg", "width": 944, "height": 754, "boxes": [{"left": 0.3957479310664304, "top": 0.300583332379659, "width": 0.21770906897363468, "height": 0.3072916666666666}]}
+{"photo_id": "601568657", "image_path": "images/601568657.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.40002, "top": 0.34798, "width": 0.10382, "height": 0.08363}]}
+{"photo_id": "601686266", "image_path": "images/601686266.jpg", "width": 1110, "height": 785, "boxes": []}
+{"photo_id": "602794733", "image_path": "images/602794733.jpg", "width": 891, "height": 869, "boxes": [{"left": 0.2679573420125343, "top": 0.3169364364727337, "width": 0.5364678906340078, "height": 0.5115685370602774}]}
+{"photo_id": "602794875", "image_path": "images/602794875.jpg", "width": 998, "height": 960, "boxes": [{"left": 0.10028, "top": 0.12273, "width": 0.78156, "height": 0.7975}]}
+{"photo_id": "602794973", "image_path": "images/602794973.jpg", "width": 979, "height": 764, "boxes": [{"left": 0.17044, "top": 0.29484, "width": 0.40161, "height": 0.45102}]}
+{"photo_id": "603743933", "image_path": "images/603743933.jpg", "width": 2048, "height": 1152, "boxes": []}
+{"photo_id": "604322027", "image_path": "images/604322027.jpg", "width": 2048, "height": 2048, "boxes": [{"left": 0.00805, "top": 0.1934, "width": 0.9825, "height": 0.52125}]}
+{"photo_id": "607764422", "image_path": "images/607764422.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.54213, "top": 0.35668, "width": 0.16682, "height": 0.18616}]}
+{"photo_id": "608273701", "image_path": "images/608273701.jpg", "width": 2048, "height": 1628, "boxes": [{"left": 0.50924, "top": 0.24431, "width": 0.18353, "height": 0.39157}]}
+{"photo_id": "608273983", "image_path": "images/608273983.jpg", "width": 1395, "height": 1861, "boxes": [{"left": 0.23003, "top": 0.57248, "width": 0.3478, "height": 0.12215}]}
+{"photo_id": "609667374", "image_path": "images/609667374.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "613586421", "image_path": "images/613586421.jpg", "width": 1218, "height": 1238, "boxes": []}
+{"photo_id": "613608103", "image_path": "images/613608103.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.20677, "top": 0.07719, "width": 0.6647, "height": 0.85127}]}
+{"photo_id": "613647144", "image_path": "images/613647144.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.23212, "top": 0.08223, "width": 0.58031, "height": 0.89375}]}
+{"photo_id": "613649937", "image_path": "images/613649937.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.17803, "top": 0.05771, "width": 0.62377, "height": 0.82845}]}
+{"photo_id": "615248081", "image_path": "images/615248081.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.36805, "top": 0.19632, "width": 0.29362, "height": 0.54544}]}
+{"photo_id": "615248417", "image_path": "images/615248417.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.4547083151148599, "top": 0.3440702144599255, "width": 0.13811168847260658, "height": 0.1632181105681298}]}
+{"photo_id": "617695310", "image_path": "images/617695310.jpg", "width": 1366, "height": 1024, "boxes": []}
+{"photo_id": "617717597", "image_path": "images/617717597.jpg", "width": 1111, "height": 2048, "boxes": [{"left": 0.28983, "top": 0.35662, "width": 0.31189, "height": 0.16724}]}
+{"photo_id": "617717688", "image_path": "images/617717688.jpg", "width": 1171, "height": 2048, "boxes": []}
+{"photo_id": "617719128", "image_path": "images/617719128.jpg", "width": 1128, "height": 2048, "boxes": []}
+{"photo_id": "617766230", "image_path": "images/617766230.jpg", "width": 768, "height": 1024, "boxes": []}
+{"photo_id": "618590344", "image_path": "images/618590344.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.41883919059993546, "top": 0.1591117674697344, "width": 0.17296129075451105, "height": 0.11382616973630558}]}
+{"photo_id": "618971817", "image_path": "images/618971817.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.193, "top": 0.19925, "width": 0.77, "height": 0.76}]}
+{"photo_id": "618971986", "image_path": "images/618971986.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.25958, "top": 0.16141, "width": 0.69638, "height": 0.6602}]}
+{"photo_id": "618972114", "image_path": "images/618972114.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.15844, "top": 0.23125, "width": 0.76125, "height": 0.685}]}
+{"photo_id": "619290543", "image_path": "images/619290543.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "621601327", "image_path": "images/621601327.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.3648, "top": 0.40868, "width": 0.1706, "height": 0.24025}]}
+{"photo_id": "622270088", "image_path": "images/622270088.jpg", "width": 903, "height": 1101, "boxes": []}
+{"photo_id": "626463668", "image_path": "images/626463668.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.38344, "top": 0.44722, "width": 0.08033, "height": 0.08758}]}
+{"photo_id": "626869054", "image_path": "images/626869054.jpg", "width": 818, "height": 1021, "boxes": [{"left": 0.27002, "top": 0.25682, "width": 0.50863, "height": 0.51378}]}
+{"photo_id": "629464978", "image_path": "images/629464978.jpg", "width": 2040, "height": 2040, "boxes": []}
+{"photo_id": "632243252", "image_path": "images/632243252.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "632390372", "image_path": "images/632390372.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "632410693", "image_path": "images/632410693.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "633435174", "image_path": "images/633435174.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.12051, "top": 0.29214, "width": 0.24501, "height": 0.51868}]}
+{"photo_id": "634313185", "image_path": "images/634313185.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "634924005", "image_path": "images/634924005.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.36139, "top": 0.39625, "width": 0.25463, "height": 0.25521}]}
+{"photo_id": "635645545", "image_path": "images/635645545.jpg", "width": 2048, "height": 1530, "boxes": [{"left": 0.14084, "top": 0.2344, "width": 0.61793, "height": 0.62107}]}
+{"photo_id": "636135822", "image_path": "images/636135822.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "636356818", "image_path": "images/636356818.jpg", "width": 986, "height": 1538, "boxes": []}
+{"photo_id": "638261900", "image_path": "images/638261900.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "638433254", "image_path": "images/638433254.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.1733, "top": 0.3503, "width": 0.293, "height": 0.5697}]}
+{"photo_id": "641669577", "image_path": "images/641669577.jpg", "width": 2048, "height": 1548, "boxes": [{"left": 0.4165624967962504, "top": 0.2755555558204651, "width": 0.32312988281250005, "height": 0.4025000000000001}]}
+{"photo_id": "643390091", "image_path": "images/643390091.jpg", "width": 2048, "height": 1531, "boxes": [{"left": 0.22842, "top": 0.31153, "width": 0.45414, "height": 0.52125}]}
+{"photo_id": "643800545", "image_path": "images/643800545.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "644435433", "image_path": "images/644435433.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "655480727", "image_path": "images/655480727.jpg", "width": 2048, "height": 2048, "boxes": []}
+{"photo_id": "655493080", "image_path": "images/655493080.jpg", "width": 2048, "height": 2048, "boxes": []}
+{"photo_id": "655682430", "image_path": "images/655682430.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "659803515", "image_path": "images/659803515.jpg", "width": 1600, "height": 1200, "boxes": []}
+{"photo_id": "660156979", "image_path": "images/660156979.jpg", "width": 1365, "height": 2048, "boxes": []}
+{"photo_id": "664658118", "image_path": "images/664658118.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.2797651056105235, "top": 0.06841322228034785, "width": 0.55781, "height": 0.79875}]}
+{"photo_id": "667238360", "image_path": "images/667238360.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.3578463004823068, "top": 0.36128216910079397, "width": 0.45157144793833925, "height": 0.19360994163310635}]}
+{"photo_id": "670067996", "image_path": "images/670067996.jpg", "width": 967, "height": 2048, "boxes": []}
+{"photo_id": "670734334", "image_path": "images/670734334.jpg", "width": 1600, "height": 1066, "boxes": [{"shape": "rectangle", "left": 0.22826451665071343, "top": 0.19067526142978103, "width": 0.29737812599161484, "height": 0.5986538481500727}]}
+{"photo_id": "670734348", "image_path": "images/670734348.jpg", "width": 1600, "height": 1066, "boxes": [{"shape": "rectangle", "left": 0.2868307309526468, "top": 0.10724577148984275, "width": 0.4981259669213224, "height": 0.6741162779361545}]}
+{"photo_id": "671332675", "image_path": "images/671332675.jpg", "width": 1586, "height": 1190, "boxes": []}
+{"photo_id": "671342077", "image_path": "images/671342077.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "671374809", "image_path": "images/671374809.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "672471957", "image_path": "images/672471957.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.39021, "top": 0.45318, "width": 0.24204, "height": 0.22394}]}
+{"photo_id": "674676325", "image_path": "images/674676325.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "674712449", "image_path": "images/674712449.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.42206, "top": 0.44224, "width": 0.15324, "height": 0.17965}]}
+{"photo_id": "674887224", "image_path": "images/674887224.jpg", "width": 1101, "height": 1080, "boxes": [{"left": 0.02501, "top": 0.16648, "width": 0.96008, "height": 0.68}]}
+{"photo_id": "675442662", "image_path": "images/675442662.jpg", "width": 1576, "height": 1528, "boxes": [{"shape": "rectangle", "left": 0.2522484137760314, "top": 0.4059991134425571, "width": 0.43446404830619484, "height": 0.22974802230418645}]}
+{"photo_id": "677497576", "image_path": "images/677497576.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "677833765", "image_path": "images/677833765.jpg", "width": 2048, "height": 1344, "boxes": []}
+{"photo_id": "681026233", "image_path": "images/681026233.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0, "top": 0.16835699797160245, "width": 0.9060175794455714, "height": 0.5111561866125761}]}
+{"photo_id": "682058008", "image_path": "images/682058008.jpg", "width": 1044, "height": 789, "boxes": [{"shape": "rectangle", "left": 0.2651914723871997, "top": 0.16452442159383032, "width": 0.46724211801554233, "height": 0.5539845758354756}]}
+{"photo_id": "682059194", "image_path": "images/682059194.jpg", "width": 2048, "height": 1648, "boxes": [{"shape": "rectangle", "left": 0.13032214010282775, "top": 0.3611825192802056, "width": 0.5109455334190232, "height": 0.4897172236503856}]}
+{"photo_id": "682871817", "image_path": "images/682871817.jpg", "width": 2048, "height": 1535, "boxes": []}
+{"photo_id": "683283105", "image_path": "images/683283105.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.24839, "top": 0.28581, "width": 0.71646, "height": 0.36448}]}
+{"photo_id": "685522812", "image_path": "images/685522812.jpg", "width": 946, "height": 2048, "boxes": [{"left": 0.0983, "top": 0.3164, "width": 0.4524, "height": 0.2749}]}
+{"photo_id": "686990867", "image_path": "images/686990867.jpg", "width": 2048, "height": 1816, "boxes": [{"left": 0.2858, "top": 0.1103, "width": 0.48418, "height": 0.61987}]}
+{"photo_id": "687682628", "image_path": "images/687682628.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.07242339832869081, "top": 0.12952646239554316, "width": 0.8560817084493965, "height": 0.7604456824512535}]}
+{"photo_id": "687933579", "image_path": "images/687933579.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.043333333333333335, "top": 0.3375, "width": 0.8433333333333334, "height": 0.6224999999999999}]}
+{"photo_id": "687965100", "image_path": "images/687965100.jpg", "width": 1900, "height": 1425, "boxes": [{"left": 0.33313, "top": 0.33672, "width": 0.31937, "height": 0.36151}]}
+{"photo_id": "688118168", "image_path": "images/688118168.jpg", "width": 1059, "height": 1522, "boxes": []}
+{"photo_id": "688149710", "image_path": "images/688149710.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "688173009", "image_path": "images/688173009.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "688498072", "image_path": "images/688498072.jpg", "width": 1368, "height": 1024, "boxes": [{"left": 0.4363, "top": 0.47875, "width": 0.05415276036540545, "height": 0.14112237921604376}]}
+{"photo_id": "688582859", "image_path": "images/688582859.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.41175, "top": 0.47822, "width": 0.22364, "height": 0.10848}]}
+{"photo_id": "689972199", "image_path": "images/689972199.jpg", "width": 2048, "height": 1491, "boxes": [{"left": 0.35402, "top": 0.22537, "width": 0.35865, "height": 0.38685}]}
+{"photo_id": "690028682", "image_path": "images/690028682.jpg", "width": 1079, "height": 1440, "boxes": []}
+{"photo_id": "690102178", "image_path": "images/690102178.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.23154, "top": 0.33288, "width": 0.46697, "height": 0.40352}]}
+{"photo_id": "690102957", "image_path": "images/690102957.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.30473, "top": 0.33546, "width": 0.25672, "height": 0.31862}]}
+{"photo_id": "691321831", "image_path": "images/691321831.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3587794820374171, "top": 0.3111418971295622, "width": 0.21831557701352639, "height": 0.3136753304562323}]}
+{"photo_id": "692094280", "image_path": "images/692094280.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.2491, "top": 0.1201, "width": 0.6259, "height": 0.416}]}
+{"photo_id": "692094676", "image_path": "images/692094676.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.38109, "top": 0.31965, "width": 0.3032, "height": 0.20997}]}
+{"photo_id": "692101960", "image_path": "images/692101960.jpg", "width": 1262, "height": 1262, "boxes": [{"left": 0.3375, "top": 0.18, "width": 0.53262, "height": 0.50117}]}
+{"photo_id": "693128087", "image_path": "images/693128087.jpg", "width": 2048, "height": 1360, "boxes": [{"left": 0.24188, "top": 0.03523, "width": 0.61011, "height": 0.8625}]}
+{"photo_id": "693217724", "image_path": "images/693217724.jpg", "width": 2048, "height": 1360, "boxes": [{"left": 0.20052, "top": 0.12595, "width": 0.53623, "height": 0.7675}]}
+{"photo_id": "693861897", "image_path": "images/693861897.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "694579445", "image_path": "images/694579445.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.16005, "top": 0.15704, "width": 0.56051, "height": 0.40793}]}
+{"photo_id": "694685204", "image_path": "images/694685204.jpg", "width": 1280, "height": 1707, "boxes": [{"shape": "rectangle", "left": 0.30396420355481946, "top": 0.4187254758881384, "width": 0.33961852717128715, "height": 0.21307144308122844}]}
+{"photo_id": "694685933", "image_path": "images/694685933.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3399734395750332, "top": 0.4860557768924303, "width": 0.2921646746347942, "height": 0.14342629482071712}]}
+{"photo_id": "694686326", "image_path": "images/694686326.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.47703926611796976, "top": 0.21994636393080322, "width": 0.3544336919867399, "height": 0.45633347146014336}]}
+{"photo_id": "695283021", "image_path": "images/695283021.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.05454545454545455, "top": 0.2613636363636364, "width": 0.8054234556935149, "height": 0.4667315008440493}]}
+{"photo_id": "695514043", "image_path": "images/695514043.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.3947077774527976, "top": 0.3279039803303742, "width": 0.24025663777216566, "height": 0.38149841876549945}]}
+{"photo_id": "695745216", "image_path": "images/695745216.jpg", "width": 1600, "height": 1200, "boxes": []}
+{"photo_id": "695949998", "image_path": "images/695949998.jpg", "width": 1024, "height": 819, "boxes": []}
+{"photo_id": "699086112", "image_path": "images/699086112.jpg", "width": 2048, "height": 2030, "boxes": [{"shape": "rectangle", "left": 0.19502527573529413, "top": 0.21703853955375252, "width": 0.7016888786764706, "height": 0.42393509127789053}]}
+{"photo_id": "699835331", "image_path": "images/699835331.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "699836133", "image_path": "images/699836133.jpg", "width": 2048, "height": 1365, "boxes": [{"shape": "rectangle", "left": 0.4535666273870349, "top": 0.4273716920825433, "width": 0.08011299837281216, "height": 0.11296013751701434}]}
+{"photo_id": "700031971", "image_path": "images/700031971.jpg", "width": 1958, "height": 2048, "boxes": [{"left": 0.18187, "top": 0.13816, "width": 0.61059, "height": 0.81127}]}
+{"photo_id": "701215793", "image_path": "images/701215793.jpg", "width": 1249, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.09905713774104116, "top": 0.16323907455012854, "width": 0.7713811151749163, "height": 0.7532133676092545}]}
+{"photo_id": "701743503", "image_path": "images/701743503.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.3690239043824701, "top": 0.23705179282868524, "width": 0.17181274900398402, "height": 0.16334661354581667}]}
+{"photo_id": "702001457", "image_path": "images/702001457.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.36495111996962787, "top": 0.29608043586011984, "width": 0.3117068639444304, "height": 0.34294620823842054}]}
+{"photo_id": "702337445", "image_path": "images/702337445.jpg", "width": 2048, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.625, "top": 0.3662109375, "width": 0.048828125, "height": 0.0830078125}]}
+{"photo_id": "703287942", "image_path": "images/703287942.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.06335, "top": 0.17503, "width": 0.82881, "height": 0.75821}]}
+{"photo_id": "703610390", "image_path": "images/703610390.jpg", "width": 2048, "height": 1368, "boxes": [{"left": 0.35993, "top": 0.49195, "width": 0.21618, "height": 0.15608}]}
+{"photo_id": "704042321", "image_path": "images/704042321.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.6169665809768637, "top": 0.2455012853470437, "width": 0.3541845187089403, "height": 0.3020565552699228}]}
+{"photo_id": "704116511", "image_path": "images/704116511.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.25094, "top": 0.34895, "width": 0.19337, "height": 0.09537}]}
+{"photo_id": "704134950", "image_path": "images/704134950.jpg", "width": 2048, "height": 1814, "boxes": [{"left": 0.14925, "top": 0.21425, "width": 0.63884, "height": 0.65375}]}
+{"photo_id": "705254021", "image_path": "images/705254021.jpg", "width": 2000, "height": 1543, "boxes": []}
+{"photo_id": "705280594", "image_path": "images/705280594.jpg", "width": 1500, "height": 1200, "boxes": [{"left": 0.2596, "top": 0.206, "width": 0.598, "height": 0.615}]}
+{"photo_id": "705280912", "image_path": "images/705280912.jpg", "width": 1500, "height": 1200, "boxes": [{"left": 0.47185, "top": 0.36404, "width": 0.33131, "height": 0.39368}]}
+{"photo_id": "705770730", "image_path": "images/705770730.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.29627, "top": 0.06637, "width": 0.48148, "height": 0.71292}]}
+{"photo_id": "706667985", "image_path": "images/706667985.jpg", "width": 2048, "height": 1542, "boxes": [{"shape": "rectangle", "left": 0.3251727185089974, "top": 0.2609254498714653, "width": 0.27194504137210795, "height": 0.31619537275064274}]}
+{"photo_id": "706912650", "image_path": "images/706912650.jpg", "width": 2048, "height": 1366, "boxes": [{"shape": "rectangle", "left": 0.2601533589140537, "top": 0.3226836022135071, "width": 0.35124693616857566, "height": 0.36703349042292444}]}
+{"photo_id": "706991786", "image_path": "images/706991786.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.21074, "top": 0.28624, "width": 0.67578, "height": 0.43209}]}
+{"photo_id": "707208974", "image_path": "images/707208974.jpg", "width": 2048, "height": 1366, "boxes": [{"shape": "rectangle", "left": 0.42143798641453156, "top": 0.3833621487707474, "width": 0.13569291808095663, "height": 0.20407778423958417}]}
+{"photo_id": "708131858", "image_path": "images/708131858.jpg", "width": 2048, "height": 1344, "boxes": [{"shape": "rectangle", "left": 0.44031169665809766, "top": 0.28791773778920304, "width": 0.184728470437018, "height": 0.3380462724935732}]}
+{"photo_id": "709108768", "image_path": "images/709108768.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.5001348455331913, "top": 0.4380675078728159, "width": 0.18694258372304629, "height": 0.06977588259288936}]}
+{"photo_id": "709683235", "image_path": "images/709683235.jpg", "width": 2048, "height": 1434, "boxes": [{"left": 0.03507, "top": 0.16879, "width": 0.92426, "height": 0.6825}]}
+{"photo_id": "711324682", "image_path": "images/711324682.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.0009356766400217107, "top": 0.022456325191915382, "width": 0.9990643233599783, "height": 0.6757950312091382}]}
+{"photo_id": "712663308", "image_path": "images/712663308.jpg", "width": 1542, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.38033553599893455, "top": 0.3590309683794126, "width": 0.16618444694028967, "height": 0.09531113077496756}]}
+{"photo_id": "713450104", "image_path": "images/713450104.jpg", "width": 1928, "height": 1446, "boxes": []}
+{"photo_id": "713554547", "image_path": "images/713554547.jpg", "width": 2048, "height": 1419, "boxes": [{"left": 0.15495, "top": 0.23741, "width": 0.33778, "height": 0.64376}]}
+{"photo_id": "714418049", "image_path": "images/714418049.jpg", "width": 921, "height": 2048, "boxes": []}
+{"photo_id": "714495542", "image_path": "images/714495542.jpg", "width": 1542, "height": 2048, "boxes": [{"left": 0.27118, "top": 0.19234, "width": 0.56903, "height": 0.50046}]}
+{"photo_id": "719020547", "image_path": "images/719020547.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "719084151", "image_path": "images/719084151.jpg", "width": 893, "height": 502, "boxes": [{"left": 0.29199, "top": 0.04721, "width": 0.54318, "height": 0.87375}]}
+{"photo_id": "719545472", "image_path": "images/719545472.jpg", "width": 816, "height": 935, "boxes": [{"shape": "rectangle", "left": 0.21227589641434264, "top": 0.3745019920318725, "width": 0.5500913014608234, "height": 0.3426294820717133}]}
+{"photo_id": "719986222", "image_path": "images/719986222.jpg", "width": 2048, "height": 2025, "boxes": []}
+{"photo_id": "721584229", "image_path": "images/721584229.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.3977, "top": 0.41046, "width": 0.24913, "height": 0.28641}]}
+{"photo_id": "723198037", "image_path": "images/723198037.jpg", "width": 1782, "height": 1426, "boxes": [{"left": 0.26016, "top": 0.13388, "width": 0.62587, "height": 0.48036}]}
+{"photo_id": "723611819", "image_path": "images/723611819.jpg", "width": 2027, "height": 1622, "boxes": [{"left": 0.2536, "top": 0.42471, "width": 0.32308, "height": 0.325}]}
+{"photo_id": "724380962", "image_path": "images/724380962.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3422200442472804, "top": 0.26892921724726887, "width": 0.3154322261323878, "height": 0.11250333144193408}]}
+{"photo_id": "724388446", "image_path": "images/724388446.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.37450199203187245, "top": 0.5179282868525896, "width": 0.3877822045152724, "height": 0.25298804780876494}]}
+{"photo_id": "724523952", "image_path": "images/724523952.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.26791277258566976, "top": 0.33091930253493546, "width": 0.2535591925593635, "height": 0.17972052659427412}]}
+{"photo_id": "724597066", "image_path": "images/724597066.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "724754717", "image_path": "images/724754717.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "725728453", "image_path": "images/725728453.jpg", "width": 2048, "height": 1368, "boxes": []}
+{"photo_id": "725933377", "image_path": "images/725933377.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.25812441968430827, "top": 0.12395543175487465, "width": 0.4456824512534819, "height": 0.5766016713091922}]}
+{"photo_id": "726156955", "image_path": "images/726156955.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "726228975", "image_path": "images/726228975.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "727216039", "image_path": "images/727216039.jpg", "width": 2048, "height": 1365, "boxes": [{"shape": "rectangle", "left": 0.4474904522692698, "top": 0.22920892494929007, "width": 0.18521508145283977, "height": 0.4178498985801217}, {"shape": "rectangle", "left": 0.30087449176869024, "top": 0.4718715072235791, "width": 0.265558641290568, "height": 0.31357370534420675}]}
+{"photo_id": "728628205", "image_path": "images/728628205.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "729471653", "image_path": "images/729471653.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "729877926", "image_path": "images/729877926.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.4192015209125475, "top": 0.3650190114068441, "width": 0.15969581749049433, "height": 0.2718631178707225}]}
+{"photo_id": "730072978", "image_path": "images/730072978.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.320265789651719, "top": 0.17719443981456853, "width": 0.5210569165864851, "height": 0.5084252337601461}]}
+{"photo_id": "730086809", "image_path": "images/730086809.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.485, "top": 0.3466666666666667, "width": 0.126, "height": 0.30533333333333335}]}
+{"photo_id": "730087139", "image_path": "images/730087139.jpg", "width": 2048, "height": 1645, "boxes": [{"shape": "rectangle", "left": 0.37895138524159666, "top": 0.3215098847420742, "width": 0.3014660814756094, "height": 0.33791293124996413}]}
+{"photo_id": "730560002", "image_path": "images/730560002.jpg", "width": 2048, "height": 1681, "boxes": [{"shape": "rectangle", "left": 0.2823255534595672, "top": 0.2118451025056948, "width": 0.44685965083997725, "height": 0.560364464692483}]}
+{"photo_id": "730613716", "image_path": "images/730613716.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.4279535395292585, "top": 0.3673564607456093, "width": 0.2757399768738301, "height": 0.3485709511576907}]}
+{"photo_id": "730886452", "image_path": "images/730886452.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "731248772", "image_path": "images/731248772.jpg", "width": 1697, "height": 1609, "boxes": []}
+{"photo_id": "731504609", "image_path": "images/731504609.jpg", "width": 1200, "height": 800, "boxes": [{"left": 0.18702, "top": 0.05274, "width": 0.72167, "height": 0.68375}]}
+{"photo_id": "731641051", "image_path": "images/731641051.jpg", "width": 2048, "height": 1367, "boxes": [{"shape": "rectangle", "left": 0.1422923479893411, "top": 0.06330749354005168, "width": 0.7882133700742894, "height": 0.8682170542635659}]}
+{"photo_id": "731707253", "image_path": "images/731707253.jpg", "width": 2044, "height": 2044, "boxes": []}
+{"photo_id": "731712562", "image_path": "images/731712562.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "731862534", "image_path": "images/731862534.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.10253001830385124, "top": 0.2448884602216916, "width": 0.5699990211323405, "height": 0.5505502356343864}]}
+{"photo_id": "731862612", "image_path": "images/731862612.jpg", "width": 1069, "height": 802, "boxes": [{"shape": "rectangle", "left": 0.1540480199563455, "top": 0.3253333333333333, "width": 0.6772111007171812, "height": 0.4333333333333333}]}
+{"photo_id": "732041998", "image_path": "images/732041998.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.3548971312662996, "top": 0.24108953926398144, "width": 0.38793103448275856, "height": 0.4650825847580411}]}
+{"photo_id": "732052448", "image_path": "images/732052448.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.39977220956719817, "top": 0.1594533029612756, "width": 0.3519362186788154, "height": 0.5785876993166288}]}
+{"photo_id": "732442238", "image_path": "images/732442238.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "732442978", "image_path": "images/732442978.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "732595699", "image_path": "images/732595699.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "732835830", "image_path": "images/732835830.jpg", "width": 920, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.13746752121946995, "top": 0.22310756972111553, "width": 0.8425428719902996, "height": 0.3306772908366533}]}
+{"photo_id": "732863884", "image_path": "images/732863884.jpg", "width": 2048, "height": 1152, "boxes": []}
+{"photo_id": "732906645", "image_path": "images/732906645.jpg", "width": 1542, "height": 2048, "boxes": [{"left": 0.34371, "top": 0.45922, "width": 0.26865, "height": 0.16958}]}
+{"photo_id": "733322497", "image_path": "images/733322497.jpg", "width": 1931, "height": 1086, "boxes": [{"shape": "rectangle", "left": 0.41983803226507127, "top": 0.24218774555263126, "width": 0.2568603068270175, "height": 0.48310028846796604}]}
+{"photo_id": "733403164", "image_path": "images/733403164.jpg", "width": 878, "height": 804, "boxes": [{"left": 0.31785, "top": 0.32707, "width": 0.22464, "height": 0.2361}]}
+{"photo_id": "733878217", "image_path": "images/733878217.jpg", "width": 1863, "height": 1390, "boxes": []}
+{"photo_id": "734172352", "image_path": "images/734172352.jpg", "width": 2027, "height": 1301, "boxes": [{"shape": "rectangle", "left": 0.3201757474561846, "top": 0.2763433606302358, "width": 0.43730488576349213, "height": 0.5759616823828768}]}
+{"photo_id": "734172482", "image_path": "images/734172482.jpg", "width": 1820, "height": 1130, "boxes": [{"shape": "rectangle", "left": 0.2732925485940601, "top": 0.13145487088319197, "width": 0.5092677117823055, "height": 0.7076784912438259}]}
+{"photo_id": "734287272", "image_path": "images/734287272.jpg", "width": 1707, "height": 960, "boxes": [{"shape": "rectangle", "left": 0.2665750013223121, "top": 0.23697969087219342, "width": 0.37016611742551614, "height": 0.5497769408388818}]}
+{"photo_id": "734727345", "image_path": "images/734727345.jpg", "width": 2048, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.02924791086350975, "top": 0.1796657381615599, "width": 0.6406685236768802, "height": 0.5905292479108635}]}
+{"photo_id": "734744147", "image_path": "images/734744147.jpg", "width": 694, "height": 925, "boxes": [{"left": 0.40974, "top": 0.40597, "width": 0.18925, "height": 0.18119}]}
+{"photo_id": "734798894", "image_path": "images/734798894.jpg", "width": 995, "height": 1769, "boxes": [{"shape": "rectangle", "left": 0.18180515066949254, "top": 0.34883400189270625, "width": 0.12156912147702192, "height": 0.043090489662920284}, {"shape": "rectangle", "left": 0.29005641884861266, "top": 0.29253763707226604, "width": 0.1155196389774873, "height": 0.04144396990923799}]}
+{"photo_id": "734953212", "image_path": "images/734953212.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.3876, "top": 0.33546, "width": 0.2327, "height": 0.24886}]}
+{"photo_id": "734953280", "image_path": "images/734953280.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.41061, "top": 0.34991, "width": 0.20328, "height": 0.25276}]}
+{"photo_id": "734961328", "image_path": "images/734961328.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.34547, "top": 0.21629, "width": 0.28309, "height": 0.5476}]}
+{"photo_id": "735761817", "image_path": "images/735761817.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "735963810", "image_path": "images/735963810.jpg", "width": 1253, "height": 1671, "boxes": []}
+{"photo_id": "735975566", "image_path": "images/735975566.jpg", "width": 1759, "height": 1319, "boxes": [{"left": 0.13505, "top": 0.05086, "width": 0.71182, "height": 0.79754}]}
+{"photo_id": "735982811", "image_path": "images/735982811.jpg", "width": 876, "height": 657, "boxes": [{"left": 0.3721, "top": 0.4094, "width": 0.3699, "height": 0.207}]}
+{"photo_id": "736001415", "image_path": "images/736001415.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "736215374", "image_path": "images/736215374.jpg", "width": 2048, "height": 1661, "boxes": [{"left": 0.0953, "top": 0.03372835004557885, "width": 0.75070030197196, "height": 0.8937716499544212}]}
+{"photo_id": "736571587", "image_path": "images/736571587.jpg", "width": 1659, "height": 933, "boxes": [{"shape": "rectangle", "left": 0.30914172740244067, "top": 0.23123732251521298, "width": 0.4118087217427346, "height": 0.5294117647058824}]}
+{"photo_id": "736794360", "image_path": "images/736794360.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "736944024", "image_path": "images/736944024.jpg", "width": 1235, "height": 926, "boxes": [{"left": 0.4001, "top": 0.34941, "width": 0.20267, "height": 0.23503}]}
+{"photo_id": "737432343", "image_path": "images/737432343.jpg", "width": 2048, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.04924579874688054, "top": 0.32061006105676526, "width": 0.6451468563904925, "height": 0.44971496120704957}]}
+{"photo_id": "737510070", "image_path": "images/737510070.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.42250094225954504, "top": 0.2968912665006043, "width": 0.2317976321097216, "height": 0.2548770500254081}]}
+{"photo_id": "737578968", "image_path": "images/737578968.jpg", "width": 1210, "height": 1179, "boxes": [{"shape": "rectangle", "left": 0.3220715214544541, "top": 0.25392969918023145, "width": 0.39590680737405054, "height": 0.3884171623536875}]}
+{"photo_id": "737583740", "image_path": "images/737583740.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3867850433341414, "top": 0.440835214724704, "width": 0.24631803237071553, "height": 0.18308993284866937}]}
+{"photo_id": "737676284", "image_path": "images/737676284.jpg", "width": 2048, "height": 1152, "boxes": [{"shape": "rectangle", "left": 0.27401992287917737, "top": 0.19023136246786632, "width": 0.4142834190231363, "height": 0.5077120822622108}]}
+{"photo_id": "738240552", "image_path": "images/738240552.jpg", "width": 2048, "height": 1152, "boxes": [{"shape": "rectangle", "left": 0.335276918152506, "top": 0.2019760824591138, "width": 0.29768468091569195, "height": 0.5203121132244358}]}
+{"photo_id": "738488730", "image_path": "images/738488730.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.43455, "top": 0.4349, "width": 0.16818, "height": 0.14596}]}
+{"photo_id": "738793688", "image_path": "images/738793688.jpg", "width": 946, "height": 2048, "boxes": []}
+{"photo_id": "739211165", "image_path": "images/739211165.jpg", "width": 2048, "height": 1153, "boxes": [{"shape": "rectangle", "left": 0.16181922557711734, "top": 0.2535645769721323, "width": 0.34193178539004476, "height": 0.6484171957536213}]}
+{"photo_id": "739590814", "image_path": "images/739590814.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "739824005", "image_path": "images/739824005.jpg", "width": 1424, "height": 1570, "boxes": [{"shape": "rectangle", "left": 0.3947336786538569, "top": 0.33468354432851816, "width": 0.24054907970269845, "height": 0.19376784983329748}]}
+{"photo_id": "739844914", "image_path": "images/739844914.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.46507591532177217, "top": 0.47481903175433543, "width": 0.09004, "height": 0.03706}]}
+{"photo_id": "740041336", "image_path": "images/740041336.jpg", "width": 2048, "height": 1316, "boxes": [{"left": 0.38066, "top": 0.23366, "width": 0.3478, "height": 0.43251}]}
+{"photo_id": "740875698", "image_path": "images/740875698.jpg", "width": 1330, "height": 1330, "boxes": [{"shape": "rectangle", "left": 0.24386165188704267, "top": 0.15193107416189047, "width": 0.641057903436706, "height": 0.720005921101325}]}
+{"photo_id": "741335111", "image_path": "images/741335111.jpg", "width": 1039, "height": 1085, "boxes": [{"left": 0.16172, "top": 0.08118, "width": 0.82889, "height": 0.87375}]}
+{"photo_id": "741474310", "image_path": "images/741474310.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.30239179954441914, "top": 0.32346241457858765, "width": 0.3895216400911162, "height": 0.5261958997722096}]}
+{"photo_id": "741537383", "image_path": "images/741537383.jpg", "width": 1845, "height": 1230, "boxes": [{"shape": "rectangle", "left": 0.16538131962296487, "top": 0.07069408740359896, "width": 0.6135389888603255, "height": 0.6580976863753213}]}
+{"photo_id": "741695822", "image_path": "images/741695822.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "741736698", "image_path": "images/741736698.jpg", "width": 2048, "height": 1362, "boxes": []}
+{"photo_id": "741997553", "image_path": "images/741997553.jpg", "width": 1050, "height": 700, "boxes": [{"shape": "rectangle", "left": 0.34704370179948585, "top": 0.3033419023136247, "width": 0.34361610968294776, "height": 0.3020565552699229}]}
+{"photo_id": "742466405", "image_path": "images/742466405.jpg", "width": 1876, "height": 1369, "boxes": [{"shape": "rectangle", "left": 0.43708523038654473, "top": 0.25992465951898003, "width": 0.21674521584238443, "height": 0.35786728484497254}]}
+{"photo_id": "742494378", "image_path": "images/742494378.jpg", "width": 2048, "height": 1325, "boxes": [{"shape": "rectangle", "left": 0.22101916669688704, "top": 0.36679971055176697, "width": 0.105711036342021, "height": 0.15710900031092812}]}
+{"photo_id": "742496299", "image_path": "images/742496299.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.5506396423386478, "top": 0.4494650155871754, "width": 0.17407143694144045, "height": 0.15867736428675522}]}
+{"photo_id": "742707602", "image_path": "images/742707602.jpg", "width": 1934, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.28508207807980496, "top": 0.2592059510711558, "width": 0.357223281645036, "height": 0.38972058110466484}]}
+{"photo_id": "742764772", "image_path": "images/742764772.jpg", "width": 1874, "height": 1875, "boxes": [{"left": 0.21692, "top": 0.17153, "width": 0.59532, "height": 0.57375}]}
+{"photo_id": "742913351", "image_path": "images/742913351.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.42332290808359774, "top": 0.11273611015743679, "width": 0.44270833333333337, "height": 0.4565972222222222}]}
+{"photo_id": "742960405", "image_path": "images/742960405.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "743129753", "image_path": "images/743129753.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.426, "top": 0.4093333333333333, "width": 0.188, "height": 0.256}]}
+{"photo_id": "743226029", "image_path": "images/743226029.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.13999379554407634, "top": 0.1167415798037661, "width": 0.4647612682102542, "height": 0.40072937815573917}]}
+{"photo_id": "743377168", "image_path": "images/743377168.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "743417138", "image_path": "images/743417138.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.36510750712207535, "top": 0.4353948886649215, "width": 0.3240720085309234, "height": 0.13475273455341275}]}
+{"photo_id": "743691037", "image_path": "images/743691037.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.08792, "top": 0.34611, "width": 0.61015, "height": 0.27311}]}
+{"photo_id": "743848189", "image_path": "images/743848189.jpg", "width": 1063, "height": 1209, "boxes": [{"shape": "rectangle", "left": 0.31202536246558843, "top": 0.26903590700955116, "width": 0.2520286014331685, "height": 0.18506042212002}]}
+{"photo_id": "743877673", "image_path": "images/743877673.jpg", "width": 2048, "height": 1154, "boxes": [{"left": 0.43066, "top": 0.2652, "width": 0.19917, "height": 0.33414}]}
+{"photo_id": "744059661", "image_path": "images/744059661.jpg", "width": 1586, "height": 1586, "boxes": [{"left": 0.06649, "top": 0.1646, "width": 0.84698, "height": 0.66198}]}
+{"photo_id": "744146940", "image_path": "images/744146940.jpg", "width": 1732, "height": 1154, "boxes": [{"shape": "rectangle", "left": 0.061244995932949485, "top": 0.21448132024583463, "width": 0.6624667060080702, "height": 0.5484593760572057}]}
+{"photo_id": "744338671", "image_path": "images/744338671.jpg", "width": 2048, "height": 2014, "boxes": []}
+{"photo_id": "744377354", "image_path": "images/744377354.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.17553, "top": 0.28188, "width": 0.51307, "height": 0.59786}]}
+{"photo_id": "744384277", "image_path": "images/744384277.jpg", "width": 2048, "height": 1152, "boxes": [{"left": 0.38704, "top": 0.34078, "width": 0.30587, "height": 0.33131}]}
+{"photo_id": "744674489", "image_path": "images/744674489.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.45371768292072034, "top": 0.4161783030279282, "width": 0.16838747165355672, "height": 0.1994124488499222}]}
+{"photo_id": "744862830", "image_path": "images/744862830.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.20166, "top": 0.27485, "width": 0.59781, "height": 0.61473}]}
+{"photo_id": "745210546", "image_path": "images/745210546.jpg", "width": 1542, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.15839656108502836, "top": 0.3223552889452723, "width": 0.6832868889960735, "height": 0.3520827567783227}]}
+{"photo_id": "745211036", "image_path": "images/745211036.jpg", "width": 1542, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.22511817615178653, "top": 0.3637977641642764, "width": 0.3626380038820727, "height": 0.2320847810977698}]}
+{"photo_id": "745291621", "image_path": "images/745291621.jpg", "width": 922, "height": 2048, "boxes": []}
+{"photo_id": "745312551", "image_path": "images/745312551.jpg", "width": 1998, "height": 2048, "boxes": [{"left": 0.28353, "top": 0.11502, "width": 0.50995, "height": 0.64656}]}
+{"photo_id": "745365475", "image_path": "images/745365475.jpg", "width": 2048, "height": 1152, "boxes": [{"left": 0.36608, "top": 0.13458, "width": 0.23982, "height": 0.4066}]}
+{"photo_id": "745423573", "image_path": "images/745423573.jpg", "width": 2048, "height": 1152, "boxes": [{"shape": "rectangle", "left": 0.22991645244215939, "top": 0.3264781491002571, "width": 0.5776831619537275, "height": 0.40616966580976865}]}
+{"photo_id": "745618651", "image_path": "images/745618651.jpg", "width": 1337, "height": 1098, "boxes": [{"left": 0.0509, "top": 0.1193, "width": 0.8968, "height": 0.6548}]}
+{"photo_id": "745637827", "image_path": "images/745637827.jpg", "width": 956, "height": 2048, "boxes": [{"left": 0.25241338099996913, "top": 0.19790704832256079, "width": 0.48397432595324685, "height": 0.1338873499538319}]}
+{"photo_id": "745687982", "image_path": "images/745687982.jpg", "width": 2048, "height": 1365, "boxes": [{"shape": "rectangle", "left": 0.2486171933751949, "top": 0.12337283024868388, "width": 0.46805326387020335, "height": 0.821346601037788}]}
+{"photo_id": "745778839", "image_path": "images/745778839.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.21591, "top": 0.32122, "width": 0.43824, "height": 0.36644}]}
+{"photo_id": "745838021", "image_path": "images/745838021.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.32674187451694925, "top": 0.37013689859602983, "width": 0.27221172022684315, "height": 0.23605860113421562}, {"left": 0.00865499661128131, "top": 0.26637909505759194, "width": 0.06512626813083146, "height": 0.07326705164718539}]}
+{"photo_id": "745894838", "image_path": "images/745894838.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "745965357", "image_path": "images/745965357.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "746074036", "image_path": "images/746074036.jpg", "width": 2048, "height": 1154, "boxes": [{"left": 0.35451, "top": 0.25197, "width": 0.24543, "height": 0.38517}]}
+{"photo_id": "746101432", "image_path": "images/746101432.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3391585111642592, "top": 0.37390860637006385, "width": 0.25438277586427493, "height": 0.19641917287675104}]}
+{"photo_id": "746329041", "image_path": "images/746329041.jpg", "width": 2048, "height": 1365, "boxes": [{"shape": "rectangle", "left": 0.4089955143306566, "top": 0.3104307703105803, "width": 0.25427018633540366, "height": 0.2839396628216504}]}
+{"photo_id": "746330827", "image_path": "images/746330827.jpg", "width": 2048, "height": 1365, "boxes": [{"shape": "rectangle", "left": 0.3470298116521318, "top": 0.29457364341085274, "width": 0.2342235949612403, "height": 0.417312661498708}]}
+{"photo_id": "746365925", "image_path": "images/746365925.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "746514780", "image_path": "images/746514780.jpg", "width": 1022, "height": 997, "boxes": []}
+{"photo_id": "746613732", "image_path": "images/746613732.jpg", "width": 2048, "height": 1152, "boxes": [{"left": 0.36295, "top": 0.3254, "width": 0.23557, "height": 0.43317}]}
+{"photo_id": "746618912", "image_path": "images/746618912.jpg", "width": 1978, "height": 1477, "boxes": []}
+{"photo_id": "746623083", "image_path": "images/746623083.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3607785675686911, "top": 0.3544739725295281, "width": 0.3201102738139776, "height": 0.21224702937665912}, {"shape": "rectangle", "left": 0.3777892584476947, "top": 0.1684123676755754, "width": 0.3350456389275979, "height": 0.26166736019543335}]}
+{"photo_id": "746857129", "image_path": "images/746857129.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.42412765518809536, "top": 0.33046391482016035, "width": 0.32341051753803574, "height": 0.15011449721389591}]}
+{"photo_id": "746905942", "image_path": "images/746905942.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.3929282868525896, "top": 0.3924302788844621, "width": 0.18077689243027883, "height": 0.24103585657370524}]}
+{"photo_id": "746932602", "image_path": "images/746932602.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.3722820436862229, "top": 0.5420477712708255, "width": 0.19098885932214998, "height": 0.16900142856497236}]}
+{"photo_id": "746949716", "image_path": "images/746949716.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.03119, "top": 0.21638, "width": 0.69846, "height": 0.36271}]}
+{"photo_id": "747770173", "image_path": "images/747770173.jpg", "width": 1576, "height": 1576, "boxes": [{"shape": "rectangle", "left": 0.12571427481515066, "top": 0.1604761895679292, "width": 0.7166666666666667, "height": 0.6261904761904762}]}
+{"photo_id": "747814033", "image_path": "images/747814033.jpg", "width": 2048, "height": 1365, "boxes": [{"shape": "rectangle", "left": 0.3026591841144873, "top": 0.24063366369059613, "width": 0.3794378533169062, "height": 0.4582689318147405}]}
+{"photo_id": "748085502", "image_path": "images/748085502.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "748173221", "image_path": "images/748173221.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "748241008", "image_path": "images/748241008.jpg", "width": 2048, "height": 1869, "boxes": [{"shape": "rectangle", "left": 0.25674848608122647, "top": 0.3325973082882259, "width": 0.2776165776026439, "height": 0.22671088622643448}]}
+{"photo_id": "748369770", "image_path": "images/748369770.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.4126044568245125, "top": 0.19080779944289694, "width": 0.31859331476323116, "height": 0.4206128133704735}]}
+{"photo_id": "748729010", "image_path": "images/748729010.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "748756738", "image_path": "images/748756738.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.36587, "top": 0.36188, "width": 0.19919, "height": 0.17395}]}
+{"photo_id": "748769607", "image_path": "images/748769607.jpg", "width": 1408, "height": 1122, "boxes": []}
+{"photo_id": "748774893", "image_path": "images/748774893.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.2663, "top": 0.3945, "width": 0.4915, "height": 0.2051}]}
+{"photo_id": "748831582", "image_path": "images/748831582.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "748831945", "image_path": "images/748831945.jpg", "width": 2048, "height": 2048, "boxes": [{"left": 0.0845, "top": 0.211, "width": 0.86, "height": 0.6175}]}
+{"photo_id": "748832630", "image_path": "images/748832630.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.2945682451253482, "top": 0.2743732590529248, "width": 0.4397632311977716, "height": 0.45264623955431754}]}
+{"photo_id": "748833289", "image_path": "images/748833289.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.39591633466135456, "top": 0.3585657370517928, "width": 0.21962151394422313, "height": 0.2430278884462152}]}
+{"photo_id": "748940536", "image_path": "images/748940536.jpg", "width": 1482, "height": 988, "boxes": [{"left": 0.37928, "top": 0.13571, "width": 0.34833, "height": 0.54125}]}
+{"photo_id": "749062106", "image_path": "images/749062106.jpg", "width": 1046, "height": 1392, "boxes": [{"left": 0.1489, "top": 0.13857, "width": 0.75233, "height": 0.74489}]}
+{"photo_id": "749062228", "image_path": "images/749062228.jpg", "width": 1527, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.01346656250078799, "top": 0.09317688390363248, "width": 0.9742908874108513, "height": 0.8467307797587548}]}
+{"photo_id": "749062414", "image_path": "images/749062414.jpg", "width": 1200, "height": 1594, "boxes": [{"shape": "rectangle", "left": 0.07825417436124828, "top": 0.10725090131309495, "width": 0.9008943408949643, "height": 0.7899199033015112}]}
+{"photo_id": "749064201", "image_path": "images/749064201.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.35757, "top": 0.42034, "width": 0.08438, "height": 0.1338}]}
+{"photo_id": "749064857", "image_path": "images/749064857.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.2157079646017699, "top": 0.2256637168141593, "width": 0.5616208349249842, "height": 0.6783596523681757}]}
+{"photo_id": "749070391", "image_path": "images/749070391.jpg", "width": 1280, "height": 960, "boxes": [{"left": 0.26099640506836536, "top": 0.23241, "width": 0.4664235949316346, "height": 0.6020727635152491}]}
+{"photo_id": "749212836", "image_path": "images/749212836.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "749480188", "image_path": "images/749480188.jpg", "width": 1406, "height": 1431, "boxes": []}
+{"photo_id": "749885055", "image_path": "images/749885055.jpg", "width": 2048, "height": 1366, "boxes": [{"left": 0.4809, "top": 0.45246, "width": 0.26135, "height": 0.34573}]}
+{"photo_id": "749953122", "image_path": "images/749953122.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.1314100202135025, "top": 0, "width": 0.4896789218484831, "height": 0.49049855419125166}]}
+{"photo_id": "750394590", "image_path": "images/750394590.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "750944432", "image_path": "images/750944432.jpg", "width": 1467, "height": 1100, "boxes": [{"shape": "rectangle", "left": 0.30114859567689994, "top": 0.25760649087221094, "width": 0.39392669838543976, "height": 0.4563894523326572}]}
+{"photo_id": "750945144", "image_path": "images/750945144.jpg", "width": 2046, "height": 1535, "boxes": [{"shape": "rectangle", "left": 0.3416851142388028, "top": 0.2966573816155989, "width": 0.32810130235774954, "height": 0.3913649025069637}]}
+{"photo_id": "751147168", "image_path": "images/751147168.jpg", "width": 2048, "height": 1392, "boxes": []}
+{"photo_id": "751183098", "image_path": "images/751183098.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.15211177713208193, "top": 0.3949149031745943, "width": 0.48454196791534, "height": 0.26483063023712905}]}
+{"photo_id": "751191419", "image_path": "images/751191419.jpg", "width": 1414, "height": 838, "boxes": [{"shape": "rectangle", "left": 0.3606846192015374, "top": 0.2229842900600475, "width": 0.4126714499589993, "height": 0.6663212690893839}]}
+{"photo_id": "751201646", "image_path": "images/751201646.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "751250375", "image_path": "images/751250375.jpg", "width": 2047, "height": 2048, "boxes": [{"left": 0.36815, "top": 0.30683, "width": 0.36618, "height": 0.50819}]}
+{"photo_id": "751280962", "image_path": "images/751280962.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "751348395", "image_path": "images/751348395.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.28304, "top": 0.22596, "width": 0.55879, "height": 0.6341}]}
+{"photo_id": "751389959", "image_path": "images/751389959.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "751468176", "image_path": "images/751468176.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "751555263", "image_path": "images/751555263.jpg", "width": 1262, "height": 1683, "boxes": [{"shape": "rectangle", "left": 0.25861819986077583, "top": 0.3387850467289719, "width": 0.4175281780884814, "height": 0.3387850467289719}]}
+{"photo_id": "751709613", "image_path": "images/751709613.jpg", "width": 2001, "height": 1526, "boxes": [{"shape": "rectangle", "left": 0.30377290463403395, "top": 0.33844011142061275, "width": 0.3122700488196013, "height": 0.34679665738161575}]}
+{"photo_id": "751709680", "image_path": "images/751709680.jpg", "width": 2048, "height": 1490, "boxes": [{"shape": "rectangle", "left": 0.4074257642067439, "top": 0.38344717048364285, "width": 0.1814364014684413, "height": 0.30366279189510503}]}
+{"photo_id": "751709816", "image_path": "images/751709816.jpg", "width": 1867, "height": 1247, "boxes": [{"shape": "rectangle", "left": 0.37225209783967145, "top": 0.2693333333333333, "width": 0.23866880914122485, "height": 0.4053333333333333}]}
+{"photo_id": "751709823", "image_path": "images/751709823.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.3989043824701195, "top": 0.38844621513944216, "width": 0.19422310756972105, "height": 0.2330677290836654}]}
+{"photo_id": "751752003", "image_path": "images/751752003.jpg", "width": 2048, "height": 1366, "boxes": [{"left": 0.18846, "top": 0.15349, "width": 0.60047, "height": 0.62822}]}
+{"photo_id": "752175084", "image_path": "images/752175084.jpg", "width": 1152, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.04113110539845758, "top": 0.2699228791773779, "width": 0.6489574407312197, "height": 0.34318766066838047}]}
+{"photo_id": "752395403", "image_path": "images/752395403.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "752466576", "image_path": "images/752466576.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.26673709711261145, "top": 0.2779256780028385, "width": 0.3817740282503658, "height": 0.20079380852914808}]}
+{"photo_id": "752722922", "image_path": "images/752722922.jpg", "width": 2048, "height": 1969, "boxes": [{"shape": "rectangle", "left": 0.27288415934485205, "top": 0.2802505642743131, "width": 0.42354425915099664, "height": 0.41645681857525557}]}
+{"photo_id": "752869333", "image_path": "images/752869333.jpg", "width": 1365, "height": 2048, "boxes": []}
+{"photo_id": "752954143", "image_path": "images/752954143.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.33696, "top": 0.27407, "width": 0.53481, "height": 0.35788}]}
+{"photo_id": "753007352", "image_path": "images/753007352.jpg", "width": 2048, "height": 1356, "boxes": []}
+{"photo_id": "753333916", "image_path": "images/753333916.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.16674, "top": 0.30309, "width": 0.61565, "height": 0.39665}]}
+{"photo_id": "753406492", "image_path": "images/753406492.jpg", "width": 2048, "height": 1152, "boxes": [{"shape": "rectangle", "left": 0.2955121703853955, "top": 0.1460446247464503, "width": 0.4073275862068965, "height": 0.665314401622718}]}
+{"photo_id": "753502603", "image_path": "images/753502603.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.38068709377901583, "top": 0.5167130919220055, "width": 0.41968430826369546, "height": 0.21866295264623958}]}
+{"photo_id": "753697999", "image_path": "images/753697999.jpg", "width": 1331, "height": 1331, "boxes": []}
+{"photo_id": "754086375", "image_path": "images/754086375.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.5127965043695382, "top": 0.25491573033707865, "width": 0.14169787765293385, "height": 0.08122659176029962}]}
+{"photo_id": "754257489", "image_path": "images/754257489.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.4675666438042981, "top": 0.27289317558299037, "width": 0.37449035970126504, "height": 0.50279349565615}]}
+{"photo_id": "754462605", "image_path": "images/754462605.jpg", "width": 2048, "height": 1264, "boxes": []}
+{"photo_id": "754654618", "image_path": "images/754654618.jpg", "width": 2048, "height": 1152, "boxes": [{"left": 0.15291, "top": 0.02699, "width": 0.34723, "height": 0.57455}]}
+{"photo_id": "754886676", "image_path": "images/754886676.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "754887056", "image_path": "images/754887056.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "755317913", "image_path": "images/755317913.jpg", "width": 2048, "height": 1366, "boxes": [{"shape": "rectangle", "left": 0.2670735527665223, "top": 0.21077578576207417, "width": 0.26363362396380335, "height": 0.4206215528914428}]}
+{"photo_id": "755548976", "image_path": "images/755548976.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "755697346", "image_path": "images/755697346.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "755736310", "image_path": "images/755736310.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.05913173367163379, "top": 0.1786427140949729, "width": 0.718562874251497, "height": 0.7005988023952097}]}
+{"photo_id": "755752580", "image_path": "images/755752580.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.2098273572377158, "top": 0.3147410358565737, "width": 0.2549800796812749, "height": 0.14541832669322707}]}
+{"photo_id": "756575793", "image_path": "images/756575793.jpg", "width": 1152, "height": 2048, "boxes": [{"left": 0.38994, "top": 0.37203, "width": 0.34019, "height": 0.10675}]}
+{"photo_id": "756603624", "image_path": "images/756603624.jpg", "width": 961, "height": 1281, "boxes": [{"shape": "rectangle", "left": 0.16149264330902688, "top": 0.2962697498515083, "width": 0.49742940116363177, "height": 0.53365118995861}]}
+{"photo_id": "756699351", "image_path": "images/756699351.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3475037388763235, "top": 0.23953735717416172, "width": 0.4001617205298141, "height": 0.44604233159056017}]}
+{"photo_id": "756712996", "image_path": "images/756712996.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.31494136505526027, "top": 0.3269425461908378, "width": 0.5589302286341011, "height": 0.26259174892432297}]}
+{"photo_id": "756735670", "image_path": "images/756735670.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "756769889", "image_path": "images/756769889.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "756856199", "image_path": "images/756856199.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.4107505070993914, "top": 0.38742393509127787, "width": 0.2607939727615185, "height": 0.2796290930165169}]}
+{"photo_id": "757205789", "image_path": "images/757205789.jpg", "width": 1833, "height": 2048, "boxes": []}
+{"photo_id": "757255347", "image_path": "images/757255347.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "757277256", "image_path": "images/757277256.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "757416267", "image_path": "images/757416267.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "757712868", "image_path": "images/757712868.jpg", "width": 1542, "height": 2048, "boxes": [{"left": 0.25042545955187273, "top": 0.35076216159316886, "width": 0.3599575659258006, "height": 0.2496823645843742}, {"left": 0.865471064322729, "top": 0.42972154184634703, "width": 0.0921151251384923, "height": 0.08216043620938807}]}
+{"photo_id": "757765401", "image_path": "images/757765401.jpg", "width": 946, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.34529443267022836, "top": 0.48189184567269905, "width": 0.24060668348441022, "height": 0.09333271169174695}]}
+{"photo_id": "757765859", "image_path": "images/757765859.jpg", "width": 946, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.4463393213763461, "top": 0.44621519165777584, "width": 0.14562994840431293, "height": 0.08368839631557529}]}
+{"photo_id": "757766479", "image_path": "images/757766479.jpg", "width": 946, "height": 2048, "boxes": [{"left": 0.09157537184122744, "top": 0.32563865804863035, "width": 0.7339285428680846, "height": 0.28773734188737654}]}
+{"photo_id": "757796125", "image_path": "images/757796125.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "757933363", "image_path": "images/757933363.jpg", "width": 2048, "height": 1638, "boxes": []}
+{"photo_id": "757958799", "image_path": "images/757958799.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "757990153", "image_path": "images/757990153.jpg", "width": 1920, "height": 1080, "boxes": []}
+{"photo_id": "758086902", "image_path": "images/758086902.jpg", "width": 946, "height": 2048, "boxes": []}
+{"photo_id": "758088812", "image_path": "images/758088812.jpg", "width": 2048, "height": 946, "boxes": []}
+{"photo_id": "758112264", "image_path": "images/758112264.jpg", "width": 1743, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.2860005655772903, "top": 0.18458417849898578, "width": 0.5183760251088387, "height": 0.6227180527383367}]}
+{"photo_id": "758126480", "image_path": "images/758126480.jpg", "width": 1511, "height": 1133, "boxes": [{"shape": "rectangle", "left": 0.1619850404449263, "top": 0.09728400512981832, "width": 0.6651041647788798, "height": 0.6759807756789986}]}
+{"photo_id": "758174914", "image_path": "images/758174914.jpg", "width": 2048, "height": 946, "boxes": []}
+{"photo_id": "758293137", "image_path": "images/758293137.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3120969977462005, "top": 0.32908486097552153, "width": 0.5965939906714396, "height": 0.30168673391908024}]}
+{"photo_id": "758303142", "image_path": "images/758303142.jpg", "width": 2048, "height": 1365, "boxes": [{"shape": "rectangle", "left": 0.2749971129900386, "top": 0.17352185089974292, "width": 0.34781566315874035, "height": 0.5604113110539846}]}
+{"photo_id": "758333372", "image_path": "images/758333372.jpg", "width": 1325, "height": 866, "boxes": [{"left": 0.27513, "top": 0.30391, "width": 0.40279, "height": 0.45842}]}
+{"photo_id": "758340327", "image_path": "images/758340327.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.034019975031210986, "top": 0.0149812734082397, "width": 0.3932584269662921, "height": 0.4428838951310862}, {"shape": "rectangle", "left": 0.6284675315228369, "top": 0.2847911890608167, "width": 0.3610604739471257, "height": 0.27079535546034406}]}
+{"photo_id": "758340946", "image_path": "images/758340946.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "758364081", "image_path": "images/758364081.jpg", "width": 2048, "height": 1624, "boxes": [{"shape": "rectangle", "left": 0.02208826601671309, "top": 0.2298050139275766, "width": 0.9232895194986073, "height": 0.6852367688022284}]}
+{"photo_id": "758370761", "image_path": "images/758370761.jpg", "width": 1877, "height": 1777, "boxes": [{"shape": "rectangle", "left": 0.4798461549689464, "top": 0.21689497716894976, "width": 0.42148648747272305, "height": 0.547945205479452}]}
+{"photo_id": "758593107", "image_path": "images/758593107.jpg", "width": 2048, "height": 1153, "boxes": []}
+{"photo_id": "758617832", "image_path": "images/758617832.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "758638811", "image_path": "images/758638811.jpg", "width": 1499, "height": 1259, "boxes": [{"shape": "rectangle", "left": 0.03513497710292918, "top": 0.09362549800796813, "width": 0.962029134961156, "height": 0.8127490039840638}]}
+{"photo_id": "758652808", "image_path": "images/758652808.jpg", "width": 1073, "height": 1073, "boxes": []}
+{"photo_id": "758722128", "image_path": "images/758722128.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.12338, "top": 0.13088, "width": 0.70491, "height": 0.81391}]}
+{"photo_id": "758781298", "image_path": "images/758781298.jpg", "width": 945, "height": 2048, "boxes": []}
+{"photo_id": "758798048", "image_path": "images/758798048.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "758837050", "image_path": "images/758837050.jpg", "width": 766, "height": 1337, "boxes": []}
+{"photo_id": "758873493", "image_path": "images/758873493.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.40402, "top": 0.30745, "width": 0.54228, "height": 0.3431}]}
+{"photo_id": "758887816", "image_path": "images/758887816.jpg", "width": 916, "height": 917, "boxes": [{"left": 0.16256, "top": 0.10116, "width": 0.77086, "height": 0.73876}]}
+{"photo_id": "758937419", "image_path": "images/758937419.jpg", "width": 2048, "height": 2048, "boxes": []}
+{"photo_id": "758980574", "image_path": "images/758980574.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.3819829313924304, "top": 0.1399377785393593, "width": 0.31277621989663534, "height": 0.5179630974820425}]}
+{"photo_id": "758994575", "image_path": "images/758994575.jpg", "width": 946, "height": 2048, "boxes": []}
+{"photo_id": "759005955", "image_path": "images/759005955.jpg", "width": 1324, "height": 1324, "boxes": [{"shape": "rectangle", "left": 0.1964928412882713, "top": 0.20403676582053895, "width": 0.6521106259097526, "height": 0.5194779562331927}]}
+{"photo_id": "759008377", "image_path": "images/759008377.jpg", "width": 2048, "height": 1365, "boxes": [{"shape": "rectangle", "left": 0.5657533157703488, "top": 0.10981912144702842, "width": 0.3237796753875969, "height": 0.5981912144702842}, {"shape": "rectangle", "left": 0.08094491884689922, "top": 0.2739018087855297, "width": 0.5054751847141473, "height": 0.4534883720930233}]}
+{"photo_id": "759018213", "image_path": "images/759018213.jpg", "width": 1231, "height": 1231, "boxes": [{"shape": "rectangle", "left": 0.11161731207289292, "top": 0.1480637813211845, "width": 0.7038724373576309, "height": 0.8154897494305239}]}
+{"photo_id": "759057267", "image_path": "images/759057267.jpg", "width": 1174, "height": 1422, "boxes": []}
+{"photo_id": "759073486", "image_path": "images/759073486.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.42534233871188465, "top": 0.2866570113168498, "width": 0.2679795512118398, "height": 0.3858207219401732}]}
+{"photo_id": "759076220", "image_path": "images/759076220.jpg", "width": 2048, "height": 1362, "boxes": [{"left": 0.2339, "top": 0.2981, "width": 0.5171, "height": 0.3957}]}
+{"photo_id": "759104703", "image_path": "images/759104703.jpg", "width": 2000, "height": 1484, "boxes": [{"left": 0.5176656080181731, "top": 0.3791100489455943, "width": 0.08259, "height": 0.19527}]}
+{"photo_id": "759110208", "image_path": "images/759110208.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759115032", "image_path": "images/759115032.jpg", "width": 1437, "height": 1814, "boxes": []}
+{"photo_id": "759120704", "image_path": "images/759120704.jpg", "width": 922, "height": 2048, "boxes": []}
+{"photo_id": "759128081", "image_path": "images/759128081.jpg", "width": 1153, "height": 2048, "boxes": []}
+{"photo_id": "759133629", "image_path": "images/759133629.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "759152743", "image_path": "images/759152743.jpg", "width": 1375, "height": 1749, "boxes": [{"left": 0.16213, "top": 0.23183, "width": 0.63124, "height": 0.48876}]}
+{"photo_id": "759163164", "image_path": "images/759163164.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "759244314", "image_path": "images/759244314.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759304083", "image_path": "images/759304083.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759307176", "image_path": "images/759307176.jpg", "width": 2048, "height": 925, "boxes": []}
+{"photo_id": "759316826", "image_path": "images/759316826.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759320301", "image_path": "images/759320301.jpg", "width": 1612, "height": 2048, "boxes": []}
+{"photo_id": "759329401", "image_path": "images/759329401.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "759362805", "image_path": "images/759362805.jpg", "width": 2045, "height": 2048, "boxes": []}
+{"photo_id": "759413006", "image_path": "images/759413006.jpg", "width": 1129, "height": 1129, "boxes": [{"shape": "rectangle", "left": 0.18756223026423838, "top": 0.10719173818929463, "width": 0.6692092921403676, "height": 0.6715451011879778}]}
+{"photo_id": "759413026", "image_path": "images/759413026.jpg", "width": 1137, "height": 1137, "boxes": []}
+{"photo_id": "759415174", "image_path": "images/759415174.jpg", "width": 1716, "height": 1144, "boxes": [{"shape": "rectangle", "left": 0.26774847870182555, "top": 0.2028397565922921, "width": 0.605814739688979, "height": 0.4705882352941177}]}
+{"photo_id": "759425314", "image_path": "images/759425314.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.66545, "top": 0.46736, "width": 0.10562, "height": 0.25552}]}
+{"photo_id": "759433065", "image_path": "images/759433065.jpg", "width": 1223, "height": 1223, "boxes": [{"shape": "rectangle", "left": 0.21727019498607242, "top": 0.07103064066852367, "width": 0.4136490250696379, "height": 0.7827298050139275}]}
+{"photo_id": "759444377", "image_path": "images/759444377.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "759449780", "image_path": "images/759449780.jpg", "width": 914, "height": 1280, "boxes": []}
+{"photo_id": "759459773", "image_path": "images/759459773.jpg", "width": 1781, "height": 2048, "boxes": []}
+{"photo_id": "759506974", "image_path": "images/759506974.jpg", "width": 1853, "height": 1623, "boxes": []}
+{"photo_id": "759519456", "image_path": "images/759519456.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.14857, "top": 0.01901, "width": 0.6353, "height": 0.96909}]}
+{"photo_id": "759522084", "image_path": "images/759522084.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759561242", "image_path": "images/759561242.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.18738, "top": 0.09399, "width": 0.66333, "height": 0.49875}]}
+{"photo_id": "759563419", "image_path": "images/759563419.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.4289845758354756, "top": 0.4048843187660669, "width": 0.16098971722365035, "height": 0.2069408740359897}]}
+{"photo_id": "759563669", "image_path": "images/759563669.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "759571143", "image_path": "images/759571143.jpg", "width": 2048, "height": 1460, "boxes": []}
+{"photo_id": "759577710", "image_path": "images/759577710.jpg", "width": 1537, "height": 2048, "boxes": []}
+{"photo_id": "759612392", "image_path": "images/759612392.jpg", "width": 952, "height": 991, "boxes": []}
+{"photo_id": "759689017", "image_path": "images/759689017.jpg", "width": 1542, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.47353423421972735, "top": 0.27619004632354843, "width": 0.2442143250291901, "height": 0.3081788283484777}]}
+{"photo_id": "759703692", "image_path": "images/759703692.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "759743360", "image_path": "images/759743360.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "759749239", "image_path": "images/759749239.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759777767", "image_path": "images/759777767.jpg", "width": 1460, "height": 1460, "boxes": [{"left": 0.23583, "top": 0.17917, "width": 0.62375, "height": 0.515}]}
+{"photo_id": "759801546", "image_path": "images/759801546.jpg", "width": 969, "height": 1030, "boxes": [{"left": 0.24926, "top": 0.23348, "width": 0.60588, "height": 0.51}]}
+{"photo_id": "759811844", "image_path": "images/759811844.jpg", "width": 1141, "height": 1141, "boxes": [{"shape": "rectangle", "left": 0.17539863325740318, "top": 0.10250569476082005, "width": 0.7015945330296127, "height": 0.6947608200455581}]}
+{"photo_id": "759847001", "image_path": "images/759847001.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759863477", "image_path": "images/759863477.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.5480525572578149, "top": 0.25835869527837957, "width": 0.1042754758588672, "height": 0.3022477561126586}]}
+{"photo_id": "759866241", "image_path": "images/759866241.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759866610", "image_path": "images/759866610.jpg", "width": 1170, "height": 1272, "boxes": []}
+{"photo_id": "759885754", "image_path": "images/759885754.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759891708", "image_path": "images/759891708.jpg", "width": 2048, "height": 1152, "boxes": []}
+{"photo_id": "759893290", "image_path": "images/759893290.jpg", "width": 1933, "height": 2048, "boxes": []}
+{"photo_id": "759942248", "image_path": "images/759942248.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "759942365", "image_path": "images/759942365.jpg", "width": 1025, "height": 1366, "boxes": []}
+{"photo_id": "759944563", "image_path": "images/759944563.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.08226221079691516, "top": 0.2750642673521851, "width": 0.5809768637532133, "height": 0.519280205655527}]}
+{"photo_id": "759945606", "image_path": "images/759945606.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "759975921", "image_path": "images/759975921.jpg", "width": 2048, "height": 1902, "boxes": [{"shape": "rectangle", "left": 0.16405373938891207, "top": 0.2174681878092654, "width": 0.7974354169069311, "height": 0.66551339714758}]}
+{"photo_id": "760083024", "image_path": "images/760083024.jpg", "width": 1534, "height": 2048, "boxes": []}
+{"photo_id": "760117348", "image_path": "images/760117348.jpg", "width": 2048, "height": 1183, "boxes": []}
+{"photo_id": "760119158", "image_path": "images/760119158.jpg", "width": 1144, "height": 1144, "boxes": [{"shape": "rectangle", "left": 0.0778500811787555, "top": 0.11717642774826238, "width": 0.6500884090139574, "height": 0.671758022647756}]}
+{"photo_id": "760133932", "image_path": "images/760133932.jpg", "width": 1281, "height": 1119, "boxes": []}
+{"photo_id": "760157361", "image_path": "images/760157361.jpg", "width": 2048, "height": 1536, "boxes": [{"left": 0.34565, "top": 0.33166, "width": 0.28687, "height": 0.4475}]}
+{"photo_id": "760157726", "image_path": "images/760157726.jpg", "width": 1938, "height": 1902, "boxes": []}
+{"photo_id": "760169688", "image_path": "images/760169688.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.27365, "top": 0.39305, "width": 0.49971, "height": 0.40842}]}
+{"photo_id": "760179112", "image_path": "images/760179112.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "760217820", "image_path": "images/760217820.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "760229912", "image_path": "images/760229912.jpg", "width": 1101, "height": 901, "boxes": []}
+{"photo_id": "760290128", "image_path": "images/760290128.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.36204, "top": 0.17599, "width": 0.57838, "height": 0.77192}]}
+{"photo_id": "760312043", "image_path": "images/760312043.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "760312319", "image_path": "images/760312319.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "760332048", "image_path": "images/760332048.jpg", "width": 1542, "height": 2048, "boxes": [{"left": 0.32307, "top": 0.37856, "width": 0.50731, "height": 0.33678}]}
+{"photo_id": "760333921", "image_path": "images/760333921.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760370167", "image_path": "images/760370167.jpg", "width": 2048, "height": 1542, "boxes": []}
+{"photo_id": "760383473", "image_path": "images/760383473.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "760388714", "image_path": "images/760388714.jpg", "width": 1017, "height": 2048, "boxes": []}
+{"photo_id": "760457396", "image_path": "images/760457396.jpg", "width": 1532, "height": 2048, "boxes": []}
+{"photo_id": "760486414", "image_path": "images/760486414.jpg", "width": 1668, "height": 1078, "boxes": [{"shape": "rectangle", "left": 0.1486892490563358, "top": 0.3621867881548975, "width": 0.6683655353621432, "height": 0.3826879271070615}]}
+{"photo_id": "760493378", "image_path": "images/760493378.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760565320", "image_path": "images/760565320.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "760578624", "image_path": "images/760578624.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.321285140562249, "top": 0.3152610441767068, "width": 0.34805890227576974, "height": 0.3935742971887551}]}
+{"photo_id": "760587987", "image_path": "images/760587987.jpg", "width": 1153, "height": 2048, "boxes": [{"left": 0.02865, "top": 0.32242, "width": 0.74381, "height": 0.40501}]}
+{"photo_id": "760589291", "image_path": "images/760589291.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.24871465295629822, "top": 0.08483290488431877, "width": 0.41645244215938304, "height": 0.5282776349614398}]}
+{"photo_id": "760597433", "image_path": "images/760597433.jpg", "width": 1327, "height": 995, "boxes": []}
+{"photo_id": "760605789", "image_path": "images/760605789.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.17978760859625056, "top": 0.19776543209876546, "width": 0.5236911294010058, "height": 0.30864197530864196}]}
+{"photo_id": "760620476", "image_path": "images/760620476.jpg", "width": 1259, "height": 1484, "boxes": [{"left": 0.24724, "top": 0.1513, "width": 0.56383, "height": 0.83679}]}
+{"photo_id": "760651018", "image_path": "images/760651018.jpg", "width": 1058, "height": 1069, "boxes": [{"shape": "rectangle", "left": 0.006135579976332436, "top": 0.09048295497894288, "width": 0.8158955576559547, "height": 0.8225000000000001}]}
+{"photo_id": "760695550", "image_path": "images/760695550.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760721830", "image_path": "images/760721830.jpg", "width": 1167, "height": 1143, "boxes": []}
+{"photo_id": "760767689", "image_path": "images/760767689.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760771076", "image_path": "images/760771076.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760792261", "image_path": "images/760792261.jpg", "width": 1074, "height": 1036, "boxes": []}
+{"photo_id": "760798118", "image_path": "images/760798118.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760798203", "image_path": "images/760798203.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760805719", "image_path": "images/760805719.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "760810709", "image_path": "images/760810709.jpg", "width": 1017, "height": 2048, "boxes": []}
+{"photo_id": "760840040", "image_path": "images/760840040.jpg", "width": 1239, "height": 1109, "boxes": []}
+{"photo_id": "760863871", "image_path": "images/760863871.jpg", "width": 1971, "height": 1562, "boxes": []}
+{"photo_id": "760872533", "image_path": "images/760872533.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760903289", "image_path": "images/760903289.jpg", "width": 1451, "height": 1108, "boxes": []}
+{"photo_id": "760913412", "image_path": "images/760913412.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "760921514", "image_path": "images/760921514.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "760922831", "image_path": "images/760922831.jpg", "width": 1156, "height": 2048, "boxes": []}
+{"photo_id": "760946289", "image_path": "images/760946289.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760951471", "image_path": "images/760951471.jpg", "width": 2048, "height": 1931, "boxes": []}
+{"photo_id": "760958061", "image_path": "images/760958061.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "760980351", "image_path": "images/760980351.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.19721115537848605, "top": 0.28486055776892427, "width": 0.09711155378486053, "height": 0.1653386454183267}]}
+{"photo_id": "760981741", "image_path": "images/760981741.jpg", "width": 1285, "height": 2048, "boxes": []}
+{"photo_id": "760983506", "image_path": "images/760983506.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761005915", "image_path": "images/761005915.jpg", "width": 1792, "height": 1417, "boxes": [{"shape": "rectangle", "left": 0.2212692055763108, "top": 0.4342050048547448, "width": 0.48853407126824533, "height": 0.2838007992846585}]}
+{"photo_id": "761006111", "image_path": "images/761006111.jpg", "width": 768, "height": 1024, "boxes": []}
+{"photo_id": "761014252", "image_path": "images/761014252.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761037191", "image_path": "images/761037191.jpg", "width": 2048, "height": 1536, "boxes": [{"shape": "rectangle", "left": 0.42827298050139273, "top": 0.41643454038997213, "width": 0.14310584958217276, "height": 0.19498607242339833}]}
+{"photo_id": "761069355", "image_path": "images/761069355.jpg", "width": 1820, "height": 2048, "boxes": []}
+{"photo_id": "761165525", "image_path": "images/761165525.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761197134", "image_path": "images/761197134.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761197537", "image_path": "images/761197537.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761219682", "image_path": "images/761219682.jpg", "width": 1542, "height": 2048, "boxes": [{"left": 0.18428015564202332, "top": 0.185, "width": 0.43164721141374834, "height": 0.51875}]}
+{"photo_id": "761241260", "image_path": "images/761241260.jpg", "width": 2048, "height": 1292, "boxes": []}
+{"photo_id": "761260140", "image_path": "images/761260140.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "761267620", "image_path": "images/761267620.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761284782", "image_path": "images/761284782.jpg", "width": 2048, "height": 1150, "boxes": []}
+{"photo_id": "761295995", "image_path": "images/761295995.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761297515", "image_path": "images/761297515.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "761304859", "image_path": "images/761304859.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761309126", "image_path": "images/761309126.jpg", "width": 1686, "height": 1686, "boxes": []}
+{"photo_id": "761324109", "image_path": "images/761324109.jpg", "width": 905, "height": 1078, "boxes": [{"left": 0.22541465027248875, "top": 0.1800451379352145, "width": 0.5842061847759362, "height": 0.6163194444444446}]}
+{"photo_id": "761337769", "image_path": "images/761337769.jpg", "width": 2048, "height": 1734, "boxes": [{"shape": "rectangle", "left": 0.15628066555930803, "top": 0.13717210977148553, "width": 0.3718708399180462, "height": 0.5220945557535499}]}
+{"photo_id": "761350781", "image_path": "images/761350781.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "761354770", "image_path": "images/761354770.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761358489", "image_path": "images/761358489.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "761387075", "image_path": "images/761387075.jpg", "width": 945, "height": 2048, "boxes": []}
+{"photo_id": "761404830", "image_path": "images/761404830.jpg", "width": 946, "height": 2048, "boxes": []}
+{"photo_id": "761405156", "image_path": "images/761405156.jpg", "width": 946, "height": 2048, "boxes": []}
+{"photo_id": "761421024", "image_path": "images/761421024.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761443761", "image_path": "images/761443761.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761444107", "image_path": "images/761444107.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761444271", "image_path": "images/761444271.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761444714", "image_path": "images/761444714.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "761445474", "image_path": "images/761445474.jpg", "width": 1365, "height": 2048, "boxes": []}
+{"photo_id": "761477291", "image_path": "images/761477291.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761489345", "image_path": "images/761489345.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761542014", "image_path": "images/761542014.jpg", "width": 2048, "height": 1365, "boxes": [{"left": 0.4282, "top": 0.2095, "width": 0.3872, "height": 0.4535}]}
+{"photo_id": "761548607", "image_path": "images/761548607.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761551914", "image_path": "images/761551914.jpg", "width": 2048, "height": 1151, "boxes": []}
+{"photo_id": "761583466", "image_path": "images/761583466.jpg", "width": 1387, "height": 1387, "boxes": []}
+{"photo_id": "761625019", "image_path": "images/761625019.jpg", "width": 2048, "height": 1365, "boxes": []}
+{"photo_id": "761669085", "image_path": "images/761669085.jpg", "width": 2048, "height": 946, "boxes": []}
+{"photo_id": "761675297", "image_path": "images/761675297.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761692529", "image_path": "images/761692529.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761719203", "image_path": "images/761719203.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "761771653", "image_path": "images/761771653.jpg", "width": 2035, "height": 1636, "boxes": [{"shape": "rectangle", "left": 0.0018271163725709179, "top": 0.24545454545454545, "width": 0.8587446951083314, "height": 0.6068181818181817}]}
+{"photo_id": "761794506", "image_path": "images/761794506.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761800013", "image_path": "images/761800013.jpg", "width": 2048, "height": 1542, "boxes": []}
+{"photo_id": "761801607", "image_path": "images/761801607.jpg", "width": 2048, "height": 1542, "boxes": []}
+{"photo_id": "761814526", "image_path": "images/761814526.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761828886", "image_path": "images/761828886.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.1987878787878788, "top": 0.35363636363636364, "width": 0.5927272727272728, "height": 0.40545454545454546}]}
+{"photo_id": "761849947", "image_path": "images/761849947.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761856271", "image_path": "images/761856271.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "761869172", "image_path": "images/761869172.jpg", "width": 2048, "height": 1542, "boxes": []}
+{"photo_id": "761881419", "image_path": "images/761881419.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "761897558", "image_path": "images/761897558.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "761899402", "image_path": "images/761899402.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "761919006", "image_path": "images/761919006.jpg", "width": 1536, "height": 2048, "boxes": [{"left": 0.07393, "top": 0.0, "width": 0.8039, "height": 0.75857}]}
+{"photo_id": "761923398", "image_path": "images/761923398.jpg", "width": 2048, "height": 2048, "boxes": []}
+{"photo_id": "761981482", "image_path": "images/761981482.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762017044", "image_path": "images/762017044.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "762139560", "image_path": "images/762139560.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762176006", "image_path": "images/762176006.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762181634", "image_path": "images/762181634.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "762184582", "image_path": "images/762184582.jpg", "width": 1153, "height": 2048, "boxes": []}
+{"photo_id": "762195872", "image_path": "images/762195872.jpg", "width": 1153, "height": 2048, "boxes": []}
+{"photo_id": "762224488", "image_path": "images/762224488.jpg", "width": 1536, "height": 2048, "boxes": [{"shape": "rectangle", "left": 0.16093699244031612, "top": 0.1503521138085981, "width": 0.766322091464568, "height": 0.5605309254187945}]}
+{"photo_id": "762258001", "image_path": "images/762258001.jpg", "width": 1218, "height": 1218, "boxes": []}
+{"photo_id": "762283861", "image_path": "images/762283861.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762371571", "image_path": "images/762371571.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762387946", "image_path": "images/762387946.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "762388167", "image_path": "images/762388167.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "762425314", "image_path": "images/762425314.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762509018", "image_path": "images/762509018.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762547557", "image_path": "images/762547557.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "762622307", "image_path": "images/762622307.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "762657064", "image_path": "images/762657064.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762657262", "image_path": "images/762657262.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762657376", "image_path": "images/762657376.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762657661", "image_path": "images/762657661.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762670058", "image_path": "images/762670058.jpg", "width": 956, "height": 2048, "boxes": []}
+{"photo_id": "762681050", "image_path": "images/762681050.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762725258", "image_path": "images/762725258.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762750482", "image_path": "images/762750482.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "762752324", "image_path": "images/762752324.jpg", "width": 828, "height": 1792, "boxes": []}
+{"photo_id": "762755678", "image_path": "images/762755678.jpg", "width": 828, "height": 1792, "boxes": []}
+{"photo_id": "762769124", "image_path": "images/762769124.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "762769386", "image_path": "images/762769386.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "762771338", "image_path": "images/762771338.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762771513", "image_path": "images/762771513.jpg", "width": 1554, "height": 1554, "boxes": []}
+{"photo_id": "762772149", "image_path": "images/762772149.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762780827", "image_path": "images/762780827.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762788190", "image_path": "images/762788190.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "762788617", "image_path": "images/762788617.jpg", "width": 1542, "height": 2048, "boxes": []}
+{"photo_id": "762802773", "image_path": "images/762802773.jpg", "width": 2048, "height": 1366, "boxes": []}
+{"photo_id": "762803377", "image_path": "images/762803377.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762806123", "image_path": "images/762806123.jpg", "width": 2048, "height": 2048, "boxes": []}
+{"photo_id": "762809463", "image_path": "images/762809463.jpg", "width": 1162, "height": 1550, "boxes": []}
+{"photo_id": "762848813", "image_path": "images/762848813.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762849049", "image_path": "images/762849049.jpg", "width": 946, "height": 2048, "boxes": []}
+{"photo_id": "762871070", "image_path": "images/762871070.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762900111", "image_path": "images/762900111.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762902372", "image_path": "images/762902372.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762949023", "image_path": "images/762949023.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762953035", "image_path": "images/762953035.jpg", "width": 1536, "height": 2048, "boxes": []}
+{"photo_id": "762958304", "image_path": "images/762958304.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "762958785", "image_path": "images/762958785.jpg", "width": 1152, "height": 2048, "boxes": []}
+{"photo_id": "762976006", "image_path": "images/762976006.jpg", "width": 1737, "height": 2048, "boxes": []}
+{"photo_id": "763000941", "image_path": "images/763000941.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "763009856", "image_path": "images/763009856.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "763011688", "image_path": "images/763011688.jpg", "width": 2048, "height": 1536, "boxes": []}
+{"photo_id": "763020247", "image_path": "images/763020247.jpg", "width": 2048, "height": 1536, "boxes": []}

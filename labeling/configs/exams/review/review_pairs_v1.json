@@ -1,0 +1,1451 @@
+[
+  {
+    "set": "training",
+    "photo_id": "578486437",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.2513,
+        "top": 0.245,
+        "width": 0.4741,
+        "height": 0.4815
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2513,
+        "top": 0.245,
+        "width": 0.4741,
+        "height": 0.4815
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "train-01"
+  },
+  {
+    "set": "training",
+    "photo_id": "267700844",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.3398,
+        "top": 0.3401,
+        "width": 0.3188,
+        "height": 0.3199
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.3398,
+        "top": 0.3401,
+        "width": 0.3188,
+        "height": 0.3199
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "train-02"
+  },
+  {
+    "set": "training",
+    "photo_id": "231547757",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.1641,
+        "top": 0,
+        "width": 0.8359,
+        "height": 0.9245
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.1641,
+        "top": 0,
+        "width": 0.8359,
+        "height": 0.9245
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "train-03"
+  },
+  {
+    "set": "training",
+    "photo_id": "748729010",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "train-04"
+  },
+  {
+    "set": "training",
+    "photo_id": "693861897",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "train-05"
+  },
+  {
+    "set": "training",
+    "photo_id": "380522940",
+    "kind": "missed",
+    "verdict": "bad",
+    "reason": "missed",
+    "boxes": [
+      {
+        "left": 0.1367,
+        "top": 0.4453,
+        "width": 0.4134,
+        "height": 0.4385
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2637,
+        "top": 0.1973,
+        "width": 0.4948,
+        "height": 0.354
+      },
+      {
+        "left": 0.1367,
+        "top": 0.4453,
+        "width": 0.4134,
+        "height": 0.4385
+      }
+    ],
+    "iou_with_reference": [
+      0.09,
+      1.0
+    ],
+    "pair_id": "train-06"
+  },
+  {
+    "set": "training",
+    "photo_id": "105831691",
+    "kind": "extra_insect",
+    "verdict": "bad",
+    "reason": "extra",
+    "boxes": [
+      {
+        "left": 0.33,
+        "top": 0.3,
+        "width": 0.44,
+        "height": 0.31
+      }
+    ],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "train-07"
+  },
+  {
+    "set": "training",
+    "photo_id": "108268477",
+    "kind": "cut",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.207,
+        "top": 0.3784,
+        "width": 0.4583,
+        "height": 0.1399
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.207,
+        "top": 0.3784,
+        "width": 0.4583,
+        "height": 0.2256
+      }
+    ],
+    "iou_with_reference": [
+      0.62
+    ],
+    "pair_id": "train-08"
+  },
+  {
+    "set": "training",
+    "photo_id": "735982811",
+    "kind": "wide",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.3166,
+        "top": 0.3783,
+        "width": 0.4809,
+        "height": 0.2691
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.3721,
+        "top": 0.4094,
+        "width": 0.3699,
+        "height": 0.207
+      }
+    ],
+    "iou_with_reference": [
+      0.59
+    ],
+    "pair_id": "train-09"
+  },
+  {
+    "set": "training",
+    "photo_id": "380522940",
+    "kind": "merged",
+    "verdict": "bad",
+    "reason": "merged",
+    "boxes": [
+      {
+        "left": 0.1367,
+        "top": 0.1973,
+        "width": 0.6218,
+        "height": 0.6865
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2637,
+        "top": 0.1973,
+        "width": 0.4948,
+        "height": 0.354
+      },
+      {
+        "left": 0.1367,
+        "top": 0.4453,
+        "width": 0.4134,
+        "height": 0.4385
+      }
+    ],
+    "iou_with_reference": [
+      0.41,
+      0.42
+    ],
+    "pair_id": "train-10"
+  },
+  {
+    "set": "exam",
+    "photo_id": "759076220",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.2339,
+        "top": 0.2981,
+        "width": 0.5171,
+        "height": 0.3957
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2339,
+        "top": 0.2981,
+        "width": 0.5171,
+        "height": 0.3957
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "exam-01"
+  },
+  {
+    "set": "exam",
+    "photo_id": "58872437",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0,
+        "top": 0,
+        "width": 0.8359863854409183,
+        "height": 0.9872379216043756
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0,
+        "top": 0,
+        "width": 0.8359863854409183,
+        "height": 0.9872379216043756
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "exam-02"
+  },
+  {
+    "set": "exam",
+    "photo_id": "116372737",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.4002129601460298,
+        "top": 0.34001823154056515,
+        "width": 0.22026163675083665,
+        "height": 0.2989972652689153
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.4002129601460298,
+        "top": 0.34001823154056515,
+        "width": 0.22026163675083665,
+        "height": 0.2989972652689153
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "exam-03"
+  },
+  {
+    "set": "exam",
+    "photo_id": "135569620",
+    "kind": "cut",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.0214,
+        "top": 0.2525,
+        "width": 0.8204,
+        "height": 0.373
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.021422046850464838,
+        "top": 0.25250683682771197,
+        "width": 0.820419348256346,
+        "height": 0.601640838650866
+      }
+    ],
+    "iou_with_reference": [
+      0.62
+    ],
+    "pair_id": "exam-04"
+  },
+  {
+    "set": "exam",
+    "photo_id": "163471844",
+    "kind": "missed",
+    "verdict": "bad",
+    "reason": "missed",
+    "boxes": [],
+    "reference_boxes": [
+      {
+        "left": 0.3522988502868565,
+        "top": 0.37101185050136737,
+        "width": 0.3761197986971042,
+        "height": 0.30082041932543296
+      }
+    ],
+    "iou_with_reference": [
+      0
+    ],
+    "pair_id": "exam-05"
+  },
+  {
+    "set": "exam",
+    "photo_id": "185655315",
+    "kind": "wide",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.3482,
+        "top": 0.0377,
+        "width": 0.5477,
+        "height": 0.9054
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.4113652971352935,
+        "top": 0.1422060164083865,
+        "width": 0.4213423373882213,
+        "height": 0.6964448495897904
+      }
+    ],
+    "iou_with_reference": [
+      0.59
+    ],
+    "pair_id": "exam-06"
+  },
+  {
+    "set": "exam",
+    "photo_id": "123838939",
+    "kind": "extra_bg",
+    "verdict": "bad",
+    "reason": "extra",
+    "boxes": [
+      {
+        "left": 0.23752962294669674,
+        "top": 0.3764813126709207,
+        "width": 0.39249042494544883,
+        "height": 0.3801276207839562
+      },
+      {
+        "left": 0.75,
+        "top": 0.03,
+        "width": 0.22,
+        "height": 0.22
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.23752962294669674,
+        "top": 0.3764813126709207,
+        "width": 0.39249042494544883,
+        "height": 0.3801276207839562
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "exam-07"
+  },
+  {
+    "set": "exam",
+    "photo_id": "111273515",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "exam-08"
+  },
+  {
+    "set": "exam",
+    "photo_id": "156184937",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "exam-09"
+  },
+  {
+    "set": "exam",
+    "photo_id": "594752976",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "exam-10"
+  },
+  {
+    "set": "exam",
+    "photo_id": "489444765",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "exam-11"
+  },
+  {
+    "set": "exam",
+    "photo_id": "455638255",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "exam-12"
+  },
+  {
+    "set": "exam",
+    "photo_id": "243763845",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "exam-13"
+  },
+  {
+    "set": "exam",
+    "photo_id": "762902372",
+    "kind": "extra_insect",
+    "verdict": "bad",
+    "reason": "extra",
+    "boxes": [
+      {
+        "left": 0.33,
+        "top": 0.42,
+        "width": 0.25,
+        "height": 0.22
+      }
+    ],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "exam-14"
+  },
+  {
+    "set": "exam",
+    "photo_id": "757205789",
+    "kind": "extra_insect",
+    "verdict": "bad",
+    "reason": "extra",
+    "boxes": [
+      {
+        "left": 0.29,
+        "top": 0.42,
+        "width": 0.24,
+        "height": 0.19
+      }
+    ],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "exam-15"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "218372958",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.2305,
+        "top": 0.2974,
+        "width": 0.5495,
+        "height": 0.377
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2305,
+        "top": 0.2974,
+        "width": 0.5495,
+        "height": 0.377
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-01"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "608273983",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.23002557122946837,
+        "top": 0.5724790374170644,
+        "width": 0.3478049425339484,
+        "height": 0.12215317040427809
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.23002557122946837,
+        "top": 0.5724790374170644,
+        "width": 0.3478049425339484,
+        "height": 0.12215317040427809
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-02"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "442322044",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.3728144756703349,
+        "top": 0.41385597082953507,
+        "width": 0.26260000490852364,
+        "height": 0.2935278030993619
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.3728144756703349,
+        "top": 0.41385597082953507,
+        "width": 0.26260000490852364,
+        "height": 0.2935278030993619
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-03"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "552117435",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.0908,
+        "top": 0.2754,
+        "width": 0.8044,
+        "height": 0.5347
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.0908,
+        "top": 0.2754,
+        "width": 0.8044,
+        "height": 0.5347
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-04"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "562348093",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.1402,
+        "top": 0.0594,
+        "width": 0.776,
+        "height": 0.8635
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.1402,
+        "top": 0.0594,
+        "width": 0.776,
+        "height": 0.8635
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-05"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "706991786",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.21073631210118504,
+        "top": 0.2862351868732908,
+        "width": 0.6757824369492555,
+        "height": 0.43208751139471285
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.21073631210118504,
+        "top": 0.2862351868732908,
+        "width": 0.6757824369492555,
+        "height": 0.43208751139471285
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-06"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "761542014",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.4282,
+        "top": 0.2095,
+        "width": 0.3872,
+        "height": 0.4535
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.4282,
+        "top": 0.2095,
+        "width": 0.3872,
+        "height": 0.4535
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-07"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "638433254",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.1733,
+        "top": 0.3503,
+        "width": 0.293,
+        "height": 0.5697
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.1733,
+        "top": 0.3503,
+        "width": 0.293,
+        "height": 0.5697
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-08"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "397885614",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.30127810346879924,
+        "top": 0.18231540565177756,
+        "width": 0.4190993843510581,
+        "height": 0.45852324521422066
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.30127810346879924,
+        "top": 0.18231540565177756,
+        "width": 0.4190993843510581,
+        "height": 0.45852324521422066
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-09"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "316879414",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.2124,
+        "top": 0.373,
+        "width": 0.3726,
+        "height": 0.2715
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2124,
+        "top": 0.373,
+        "width": 0.3726,
+        "height": 0.2715
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-10"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "134554576",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.2630000617213613,
+        "top": 0.4412032816773017,
+        "width": 0.39987845639623215,
+        "height": 0.2835004557885141
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2630000617213613,
+        "top": 0.4412032816773017,
+        "width": 0.39987845639623215,
+        "height": 0.2835004557885141
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-11"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "714495542",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.2711772087600363,
+        "top": 0.19234275296262535,
+        "width": 0.5690302216020262,
+        "height": 0.5004557885141294
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2711772087600363,
+        "top": 0.19234275296262535,
+        "width": 0.5690302216020262,
+        "height": 0.5004557885141294
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-12"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "686990867",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.28580471730237,
+        "top": 0.11030082041932543,
+        "width": 0.48417733353212167,
+        "height": 0.6198723792160438
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.28580471730237,
+        "top": 0.11030082041932543,
+        "width": 0.48417733353212167,
+        "height": 0.6198723792160438
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-13"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "745618651",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.0509,
+        "top": 0.1193,
+        "width": 0.8968,
+        "height": 0.6548
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.0509,
+        "top": 0.1193,
+        "width": 0.8968,
+        "height": 0.6548
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-14"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "107636245",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.4263,
+        "top": 0.3919,
+        "width": 0.18962,
+        "height": 0.226
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.4263,
+        "top": 0.3919,
+        "width": 0.18962,
+        "height": 0.226
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-15"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "734953212",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.3875994913081919,
+        "top": 0.33546034639927075,
+        "width": 0.23269943150790545,
+        "height": 0.2488605287146764
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.3875994913081919,
+        "top": 0.33546034639927075,
+        "width": 0.23269943150790545,
+        "height": 0.2488605287146764
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-16"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "685522812",
+    "kind": "ok",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [
+      {
+        "left": 0.0983,
+        "top": 0.3164,
+        "width": 0.4524,
+        "height": 0.2749
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.0983,
+        "top": 0.3164,
+        "width": 0.4524,
+        "height": 0.2749
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-17"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "218372958",
+    "kind": "missed",
+    "verdict": "bad",
+    "reason": "missed",
+    "boxes": [],
+    "reference_boxes": [
+      {
+        "left": 0.2305,
+        "top": 0.2974,
+        "width": 0.5495,
+        "height": 0.377
+      }
+    ],
+    "iou_with_reference": [
+      0
+    ],
+    "pair_id": "control-18"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "608273983",
+    "kind": "extra_bg",
+    "verdict": "bad",
+    "reason": "extra",
+    "boxes": [
+      {
+        "left": 0.23002557122946837,
+        "top": 0.5724790374170644,
+        "width": 0.3478049425339484,
+        "height": 0.12215317040427809
+      },
+      {
+        "left": 0.7613,
+        "top": 0.03,
+        "width": 0.2087,
+        "height": 0.1
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.23002557122946837,
+        "top": 0.5724790374170644,
+        "width": 0.3478049425339484,
+        "height": 0.12215317040427809
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-19"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "442322044",
+    "kind": "cut",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.3728,
+        "top": 0.4139,
+        "width": 0.2626,
+        "height": 0.182
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.3728144756703349,
+        "top": 0.41385597082953507,
+        "width": 0.26260000490852364,
+        "height": 0.2935278030993619
+      }
+    ],
+    "iou_with_reference": [
+      0.62
+    ],
+    "pair_id": "control-20"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "552117435",
+    "kind": "wide",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.0,
+        "top": 0.1818,
+        "width": 1.0,
+        "height": 0.7218
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.0908,
+        "top": 0.2754,
+        "width": 0.8044,
+        "height": 0.5347
+      }
+    ],
+    "iou_with_reference": [
+      0.6
+    ],
+    "pair_id": "control-21"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "562348093",
+    "kind": "missed",
+    "verdict": "bad",
+    "reason": "missed",
+    "boxes": [],
+    "reference_boxes": [
+      {
+        "left": 0.1402,
+        "top": 0.0594,
+        "width": 0.776,
+        "height": 0.8635
+      }
+    ],
+    "iou_with_reference": [
+      0
+    ],
+    "pair_id": "control-22"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "706991786",
+    "kind": "extra_bg",
+    "verdict": "bad",
+    "reason": "extra",
+    "boxes": [
+      {
+        "left": 0.21073631210118504,
+        "top": 0.2862351868732908,
+        "width": 0.6757824369492555,
+        "height": 0.43208751139471285
+      },
+      {
+        "left": 0.03,
+        "top": 0.03,
+        "width": 0.22,
+        "height": 0.22
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.21073631210118504,
+        "top": 0.2862351868732908,
+        "width": 0.6757824369492555,
+        "height": 0.43208751139471285
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-23"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "761542014",
+    "kind": "cut",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.4282,
+        "top": 0.2095,
+        "width": 0.3872,
+        "height": 0.2812
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.4282,
+        "top": 0.2095,
+        "width": 0.3872,
+        "height": 0.4535
+      }
+    ],
+    "iou_with_reference": [
+      0.62
+    ],
+    "pair_id": "control-24"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "638433254",
+    "kind": "wide",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.1293,
+        "top": 0.2648,
+        "width": 0.3809,
+        "height": 0.7352
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.1733,
+        "top": 0.3503,
+        "width": 0.293,
+        "height": 0.5697
+      }
+    ],
+    "iou_with_reference": [
+      0.6
+    ],
+    "pair_id": "control-25"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "397885614",
+    "kind": "missed",
+    "verdict": "bad",
+    "reason": "missed",
+    "boxes": [],
+    "reference_boxes": [
+      {
+        "left": 0.30127810346879924,
+        "top": 0.18231540565177756,
+        "width": 0.4190993843510581,
+        "height": 0.45852324521422066
+      }
+    ],
+    "iou_with_reference": [
+      0
+    ],
+    "pair_id": "control-26"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "316879414",
+    "kind": "extra_bg",
+    "verdict": "bad",
+    "reason": "extra",
+    "boxes": [
+      {
+        "left": 0.2124,
+        "top": 0.373,
+        "width": 0.3726,
+        "height": 0.2715
+      },
+      {
+        "left": 0.75,
+        "top": 0.03,
+        "width": 0.22,
+        "height": 0.1629
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2124,
+        "top": 0.373,
+        "width": 0.3726,
+        "height": 0.2715
+      }
+    ],
+    "iou_with_reference": [
+      1.0
+    ],
+    "pair_id": "control-27"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "134554576",
+    "kind": "cut",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.263,
+        "top": 0.4412,
+        "width": 0.3999,
+        "height": 0.1758
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2630000617213613,
+        "top": 0.4412032816773017,
+        "width": 0.39987845639623215,
+        "height": 0.2835004557885141
+      }
+    ],
+    "iou_with_reference": [
+      0.62
+    ],
+    "pair_id": "control-28"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "714495542",
+    "kind": "wide",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.1858,
+        "top": 0.1173,
+        "width": 0.7397,
+        "height": 0.6506
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.2711772087600363,
+        "top": 0.19234275296262535,
+        "width": 0.5690302216020262,
+        "height": 0.5004557885141294
+      }
+    ],
+    "iou_with_reference": [
+      0.59
+    ],
+    "pair_id": "control-29"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "686990867",
+    "kind": "missed",
+    "verdict": "bad",
+    "reason": "missed",
+    "boxes": [],
+    "reference_boxes": [
+      {
+        "left": 0.28580471730237,
+        "top": 0.11030082041932543,
+        "width": 0.48417733353212167,
+        "height": 0.6198723792160438
+      }
+    ],
+    "iou_with_reference": [
+      0
+    ],
+    "pair_id": "control-30"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "745618651",
+    "kind": "missed",
+    "verdict": "bad",
+    "reason": "missed",
+    "boxes": [],
+    "reference_boxes": [
+      {
+        "left": 0.0509,
+        "top": 0.1193,
+        "width": 0.8968,
+        "height": 0.6548
+      }
+    ],
+    "iou_with_reference": [
+      0
+    ],
+    "pair_id": "control-31"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "107636245",
+    "kind": "cut",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.4263,
+        "top": 0.3919,
+        "width": 0.1896,
+        "height": 0.1401
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.4263,
+        "top": 0.3919,
+        "width": 0.18962,
+        "height": 0.226
+      }
+    ],
+    "iou_with_reference": [
+      0.62
+    ],
+    "pair_id": "control-32"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "734953212",
+    "kind": "wide",
+    "verdict": "bad",
+    "reason": "loose",
+    "boxes": [
+      {
+        "left": 0.3527,
+        "top": 0.2981,
+        "width": 0.3025,
+        "height": 0.3235
+      }
+    ],
+    "reference_boxes": [
+      {
+        "left": 0.3875994913081919,
+        "top": 0.33546034639927075,
+        "width": 0.23269943150790545,
+        "height": 0.2488605287146764
+      }
+    ],
+    "iou_with_reference": [
+      0.59
+    ],
+    "pair_id": "control-33"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "685522812",
+    "kind": "missed",
+    "verdict": "bad",
+    "reason": "missed",
+    "boxes": [],
+    "reference_boxes": [
+      {
+        "left": 0.0983,
+        "top": 0.3164,
+        "width": 0.4524,
+        "height": 0.2749
+      }
+    ],
+    "iou_with_reference": [
+      0
+    ],
+    "pair_id": "control-34"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "759522084",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "control-35"
+  },
+  {
+    "set": "honeypot",
+    "photo_id": "529813567",
+    "kind": "ok_empty",
+    "verdict": "ok",
+    "reason": null,
+    "boxes": [],
+    "reference_boxes": [],
+    "iou_with_reference": [],
+    "pair_id": "control-36"
+  }
+]

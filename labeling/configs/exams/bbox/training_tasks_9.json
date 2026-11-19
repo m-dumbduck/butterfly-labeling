@@ -1,0 +1,146 @@
+[
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "380522940",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/380522940/original.jpeg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Присмотритесь к центру фото: насекомые могут заходить друг за друга. Каждой бабочке нужна своя рамка, плотно по крыльям, усикам и лапкам. Рамки могут пересекаться."
+  },
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "108268477",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/108268477/original.jpeg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Посмотрите в центр фото под листьями. Рамка должна охватывать оба крыла целиком и усики, без лишнего пустого места вокруг."
+  },
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "735982811",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/735982811/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Ночных бабочек и моль тоже обводим. Рамка должна плотно охватывать крылья и усики."
+  },
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "231547757",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/231547757/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Если бабочка обрезана краем фото, обводите только то, что видно, до самого края кадра. Скрытую часть не дорисовывайте."
+  },
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "267700844",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/267700844/original.jpeg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Осмотрите опавшие листья: бабочка может сливаться с фоном. Увеличьте фото, рамка должна захватывать крылья и усики."
+  },
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "578486437",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/578486437/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Рамка должна плотно охватывать оба крыла и усики. Другие насекомые на цветах не считаются."
+  },
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "748729010",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/748729010/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": true
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Посмотрите на насекомое: есть ли у него крылья? Гусениц и куколок не обводим. Если бабочек нет, отметьте «Бабочек нет»."
+  },
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "105831691",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/105831691/original.jpeg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": true
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Присмотритесь к насекомому на бревне: какие у него тело и крылья? Пчёл, шмелей и ос не обводим."
+  },
+  {
+    "pool_id": "6862951",
+    "input_values": {
+      "photo_id": "693861897",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/693861897/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": true
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Осмотрите всё фото. Жуков и других насекомых не обводим. Если взрослых бабочек нет, отметьте «Бабочек нет» и не рисуйте рамок."
+  }
+]

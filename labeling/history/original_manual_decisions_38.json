@@ -1,0 +1,446 @@
+{
+  "1013509": {
+    "method": "avg05",
+    "why": "одна бабочка, разметки совпадают по смыслу (0,73)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 1,
+    "annotations": [
+      "1013509|000068bb72--6af82c456975ca3af9bd5a53",
+      "1013509|000068bb72--6af82c4292971c05f721a9a5"
+    ]
+  },
+  "138010255": {
+    "method": "avg05",
+    "why": "парусник, обе разметки совпали (0,91)",
+    "route": "bbox",
+    "auto_status": "fix",
+    "auto_why": "принятых нет, есть «исправление»",
+    "n_boxes": 1,
+    "annotations": [
+      "138010255|000068bb72--6af82dc446986e001396e535",
+      "138010255|000068bb72--6af82db9e0c94e36ef15ae28"
+    ]
+  },
+  "756575793": {
+    "method": "avg05",
+    "why": "одна бабочка на ботинке (0,90)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 1,
+    "annotations": [
+      "756575793|000068bb72--6af82eafe0c94e36ef15cd6d",
+      "756575793|000068bb72--6af82ec9354d690bb08e023a"
+    ]
+  },
+  "597721622": {
+    "method": "avg05",
+    "why": "2 парусника (0,77 / 0,96)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 2,
+    "annotations": [
+      "597721622|000068bb72--6af82d991b9b340833a06f5b",
+      "597721622|000068bb72--6af82da292971c05f721d947"
+    ]
+  },
+  "446301802": {
+    "method": "avg05",
+    "why": "2 бабочки (0,88 / 0,96)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 2,
+    "annotations": [
+      "446301802|000068bb72--6af82d5d354d690bb08dcd91",
+      "446301802|000068bb72--6af82d65354d690bb08dce60"
+    ]
+  },
+  "736215374": {
+    "method": "avg05",
+    "why": "бражник (0,99)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 1,
+    "annotations": [
+      "736215374|000068bb72--6af82ce0752c30483b516ca4",
+      "736215374|000068bb72--6af82d3ee0c94e36ef15a0c9"
+    ]
+  },
+  "74459866": {
+    "method": "none",
+    "why": "ручейник Glyphotaelius",
+    "route": "review_only",
+    "auto_status": "fix",
+    "auto_why": "fix",
+    "n_boxes": 0,
+    "annotations": [
+      "74459866|no-bbox"
+    ]
+  },
+  "425857766": {
+    "method": "avg05",
+    "why": "одна голубянка (0,91)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 1,
+    "annotations": [
+      "425857766|000068bb72--6af82df146986e001396eb80",
+      "425857766|000068bb72--6af82df66975ca3af9bd902d"
+    ]
+  },
+  "439945209": {
+    "method": "take_B",
+    "why": "вторая обвела и обрезанное размытое крыло второй бабочки у края — по инструкции верно",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 2,
+    "annotations": [
+      "439945209|000068bb72--6af82eae4a59ec7bbd0ae376",
+      "439945209|000068bb72--6af82eb0f03f3c0af95c53d7"
+    ]
+  },
+  "560763637": {
+    "method": "avg05",
+    "why": "одна бабочка (0,76)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 1,
+    "annotations": [
+      "560763637|000068bb72--6af82bde752c30483b51484a",
+      "560763637|000068bb72--6af82bd2e0c94e36ef1562bf"
+    ]
+  },
+  "688498072": {
+    "method": "avg05",
+    "why": "одна бабочка (0,76)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 1,
+    "annotations": [
+      "688498072|000068bb72--6af82cc9f03f3c0af95c10f5",
+      "688498072|000068bb72--6af82cc50e9fca0f8339dfb1"
+    ]
+  },
+  "597419379": {
+    "method": "union",
+    "why": "скопление лимонных белянок: первая обвела ~56 светлых, вторая 2 тёмных слева, которых нет у первой",
+    "route": "bbox",
+    "auto_status": "fix",
+    "auto_why": "принятых нет, есть «исправление»",
+    "n_boxes": 57,
+    "annotations": [
+      "597419379|000068bb72--6af82ca146986e001396c39e",
+      "597419379|000068bb72--6af82ca21b9b340833a04fdf"
+    ]
+  },
+  "417706725": {
+    "method": "avg05",
+    "why": "4 бабочки, все совпали при 0,5",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 4,
+    "annotations": [
+      "417706725|000068bb72--6af82c111a486a20632e3000",
+      "417706725|000068bb72--6af82c15f03f3c0af95bc7b0"
+    ]
+  },
+  "327719751": {
+    "method": "take_B",
+    "why": "пара данаид: у первой лишняя третья рамка, вторая — две бабочки",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 2,
+    "annotations": [
+      "327719751|000068bb72--6af82b7e1a486a20632e1d00",
+      "327719751|000068bb72--6af82b7846986e0013969327"
+    ]
+  },
+  "719020547": {
+    "method": "none",
+    "why": "муравьиный лев Palpares",
+    "route": "review_only",
+    "auto_status": "fix",
+    "auto_why": "fix",
+    "n_boxes": 0,
+    "annotations": [
+      "719020547|no-bbox"
+    ]
+  },
+  "90840453": {
+    "method": "none",
+    "why": "аскалаф (сетчатокрылое)",
+    "route": "review_only",
+    "auto_status": "manual",
+    "auto_why": "need_vote",
+    "n_boxes": 0,
+    "annotations": [
+      "90840453|no-bbox"
+    ]
+  },
+  "120235758": {
+    "method": "avg05",
+    "why": "одна бабочка (0,80)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 1,
+    "annotations": [
+      "120235758|000068bb72--6af82c3a46986e001396b225",
+      "120235758|000068bb72--6af82c26354d690bb08da3f1"
+    ]
+  },
+  "135568688": {
+    "method": "avg05",
+    "why": "монарх, обе разметки совпали (IoU 0,95), голоса 2+1 и 1+2",
+    "route": "bbox",
+    "auto_status": "fix",
+    "auto_why": "принятых нет, есть «исправление»",
+    "n_boxes": 1,
+    "annotations": [
+      "135568688|000068bb72--6af82e3346986e001396f3e9",
+      "135568688|000068bb72--6af831df0e9fca0f833ab68f"
+    ]
+  },
+  "595595950": {
+    "method": "take_B",
+    "why": "Battus philenor: вторая обвела только бабочку, первая захватила белёсое под ней (спорно)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 1,
+    "annotations": [
+      "595595950|000068bb72--6af82db64a59ec7bbd0ab28e",
+      "595595950|000068bb72--6af82dcde0c94e36ef15b0ab"
+    ]
+  },
+  "759104703": {
+    "method": "avg05",
+    "why": "Atteva aurea — моль, похожая на осу; обе разметки совпали (0,97)",
+    "route": "bbox",
+    "auto_status": "fix",
+    "auto_why": "принятых нет, есть «исправление»",
+    "n_boxes": 1,
+    "annotations": [
+      "759104703|000068bb72--6af832548771430f414a3288",
+      "759104703|000068bb72--6af82e70752c30483b519e17"
+    ]
+  },
+  "220119482": {
+    "method": "none",
+    "why": "злак и муха-ктырь; «не загрузилась» у одного, у двух других открылась",
+    "route": "review_only",
+    "auto_status": "manual",
+    "auto_why": "manual_load_error",
+    "n_boxes": 0,
+    "annotations": [
+      "220119482|no-bbox"
+    ]
+  },
+  "745312551": {
+    "method": "avg05",
+    "why": "одна бабочка (0,97)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 1,
+    "annotations": [
+      "745312551|000068bb72--6af82cac46986e001396c507",
+      "745312551|000068bb72--6af8601c752c30483b596f8a"
+    ]
+  },
+  "410695444": {
+    "method": "none",
+    "why": "злак на асфальте",
+    "route": "review_only",
+    "auto_status": "manual",
+    "auto_why": "need_vote",
+    "n_boxes": 0,
+    "annotations": [
+      "410695444|no-bbox"
+    ]
+  },
+  "687965100": {
+    "method": "avg05",
+    "why": "одна бабочка (0,84)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 1,
+    "annotations": [
+      "687965100|000068bb72--6af82e0646986e001396eea8",
+      "687965100|000068bb72--6af8602246986e00139f9215"
+    ]
+  },
+  "267700011": {
+    "method": "avg05",
+    "why": "одна бабочка (0,82)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 1,
+    "annotations": [
+      "267700011|000068bb72--6af82e0646986e001396eea8",
+      "267700011|000068bb72--6af8602246986e00139f9215"
+    ]
+  },
+  "91569183": {
+    "method": "none",
+    "why": "ручейник Nemotaulius",
+    "route": "review_only",
+    "auto_status": "fix",
+    "auto_why": "fix",
+    "n_boxes": 0,
+    "annotations": [
+      "91569183|no-bbox"
+    ]
+  },
+  "353901773": {
+    "method": "none",
+    "why": "пчела и журчалка на астре",
+    "route": "review_only",
+    "auto_status": "manual",
+    "auto_why": "manual_2_1",
+    "n_boxes": 0,
+    "annotations": [
+      "353901773|no-bbox"
+    ]
+  },
+  "367623": {
+    "method": "avg05+A",
+    "why": "23 белянки: 21 рамка совпала, плюс 2 рамки первой без пары",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 23,
+    "annotations": [
+      "367623|000068bb72--6af82c944a59ec7bbd0a8d96",
+      "367623|000068bb72--6af82c8f354d690bb08db3ae"
+    ]
+  },
+  "60053685": {
+    "method": "none",
+    "why": "ручейник Psychoglypha",
+    "route": "review_only",
+    "auto_status": "manual",
+    "auto_why": "manual_2_1",
+    "n_boxes": 0,
+    "annotations": [
+      "60053685|no-bbox"
+    ]
+  },
+  "260378624": {
+    "method": "none",
+    "why": "ручейник Mystacides (не чешуекрылое), похож на моль",
+    "route": "review_only",
+    "auto_status": "fix",
+    "auto_why": "fix",
+    "n_boxes": 0,
+    "annotations": [
+      "260378624|no-bbox"
+    ]
+  },
+  "224599051": {
+    "method": "none",
+    "why": "пчёлы-плотники",
+    "route": "review_only",
+    "auto_status": "manual",
+    "auto_why": "need_vote",
+    "n_boxes": 0,
+    "annotations": [
+      "224599051|no-bbox"
+    ]
+  },
+  "544238351": {
+    "method": "avg05",
+    "why": "2 червонца; у второй лишняя крошечная рамка внизу — отброшена",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 2,
+    "annotations": [
+      "544238351|000068bb72--6af82d3ee0c94e36ef15a0c9",
+      "544238351|000068bb72--6af82ce0752c30483b516ca4"
+    ]
+  },
+  "544908995": {
+    "method": "none",
+    "why": "сетчатокрылое Drepanepteryx (похоже на сухой лист / моль)",
+    "route": "review_only",
+    "auto_status": "manual",
+    "auto_why": "manual_2_1",
+    "n_boxes": 0,
+    "annotations": [
+      "544908995|no-bbox"
+    ]
+  },
+  "635645545": {
+    "method": "avg05",
+    "why": "бабочка за мокрым стеклом (0,95)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "принятых нет: manual_2_1, manual_2_1",
+    "n_boxes": 1,
+    "annotations": [
+      "635645545|000068bb72--6af82d650e9fca0f8339efc5",
+      "635645545|000068bb72--6af82d740e9fca0f8339f10e"
+    ]
+  },
+  "116596376": {
+    "method": "avg05",
+    "why": "одна толстоголовка (0,83)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 1,
+    "annotations": [
+      "116596376|000068bb72--6af82d9b1a486a20632e66ee",
+      "116596376|000068bb72--6af82d99752c30483b518030"
+    ]
+  },
+  "511637315": {
+    "method": "avg05",
+    "why": "2 бабочки (0,79 / 0,89)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 2,
+    "annotations": [
+      "511637315|000068bb72--6af82d071a486a20632e5829",
+      "511637315|000068bb72--6af82d5b1b9b340833a06861"
+    ]
+  },
+  "52856906": {
+    "method": "none",
+    "why": "ручейник Limnephilus",
+    "route": "review_only",
+    "auto_status": "manual",
+    "auto_why": "need_vote",
+    "n_boxes": 0,
+    "annotations": [
+      "52856906|no-bbox"
+    ]
+  },
+  "621601327": {
+    "method": "avg05",
+    "why": "одна голубянка (0,82)",
+    "route": "bbox",
+    "auto_status": "manual",
+    "auto_why": "две принятые расходятся",
+    "n_boxes": 1,
+    "annotations": [
+      "621601327|000068bb72--6af82e4d46986e001396f741",
+      "621601327|000068bb72--6af82e4ee0c94e36ef15c036"
+    ]
+  }
+}

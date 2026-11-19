@@ -1,0 +1,246 @@
+[
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "578486437",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/578486437/original.jpg",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.2513,
+          "top": 0.245,
+          "width": 0.4741,
+          "height": 0.4815
+        }
+      ],
+      "bbox_assignment_id": "train-01"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "ok"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Просмотрите всё фото и каждую рамку: стоит ли рамка на бабочке, плотно ли её охватывает, у каждой ли бабочки своя рамка."
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "267700844",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/267700844/original.jpeg",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3398,
+          "top": 0.3401,
+          "width": 0.3188,
+          "height": 0.3199
+        }
+      ],
+      "bbox_assignment_id": "train-02"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "ok"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Просмотрите всё фото и каждую рамку: стоит ли рамка на бабочке, плотно ли её охватывает, у каждой ли бабочки своя рамка."
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "231547757",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/231547757/original.jpg",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.1641,
+          "top": 0,
+          "width": 0.8359,
+          "height": 0.9245
+        }
+      ],
+      "bbox_assignment_id": "train-03"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "ok"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Просмотрите всё фото и каждую рамку: стоит ли рамка на бабочке, плотно ли её охватывает, у каждой ли бабочки своя рамка."
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "748729010",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/748729010/original.jpg",
+      "boxes": [],
+      "bbox_assignment_id": "train-04"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "ok"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Просмотрите всё фото, увеличьте его. Есть ли здесь взрослая бабочка? Гусениц, пчёл, ос и жуков не обводим."
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "693861897",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/693861897/original.jpg",
+      "boxes": [],
+      "bbox_assignment_id": "train-05"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "ok"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Просмотрите всё фото, увеличьте его. Есть ли здесь взрослая бабочка? Гусениц, пчёл, ос и жуков не обводим."
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "380522940",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/380522940/original.jpeg",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.1367,
+          "top": 0.4453,
+          "width": 0.4134,
+          "height": 0.4385
+        }
+      ],
+      "bbox_assignment_id": "train-06"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "bad"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Просмотрите всё фото: у каждой ли бабочки есть своя рамка?"
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "105831691",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/105831691/original.jpeg",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.33,
+          "top": 0.3,
+          "width": 0.44,
+          "height": 0.31
+        }
+      ],
+      "bbox_assignment_id": "train-07"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "bad"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Посмотрите, на ком стоит рамка: это взрослая бабочка?"
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "108268477",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/108268477/original.jpeg",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.207,
+          "top": 0.3784,
+          "width": 0.4583,
+          "height": 0.1399
+        }
+      ],
+      "bbox_assignment_id": "train-08"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "bad"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Сравните рамку с бабочкой: вся ли бабочка внутри рамки, с крыльями и усиками?"
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "735982811",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/735982811/original.jpg",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.3166,
+          "top": 0.3783,
+          "width": 0.4809,
+          "height": 0.2691
+        }
+      ],
+      "bbox_assignment_id": "train-09"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "bad"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Сравните рамку с бабочкой: плотно ли рамка охватывает бабочку или вокруг много пустого места?"
+  },
+  {
+    "pool_id": "6863012",
+    "input_values": {
+      "photo_id": "380522940",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/380522940/original.jpeg",
+      "boxes": [
+        {
+          "shape": "rectangle",
+          "left": 0.1367,
+          "top": 0.1973,
+          "width": 0.6218,
+          "height": 0.6865
+        }
+      ],
+      "bbox_assignment_id": "train-10"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "verdict": "bad"
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "message_on_unknown_solution": "Посчитайте бабочек и рамки: у каждой бабочки должна быть своя рамка."
+  }
+]

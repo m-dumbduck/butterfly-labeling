@@ -1,0 +1,104 @@
+{
+  "pool_id": "6862956",
+  "overlap": 1000,
+  "tasks": [
+    {
+      "input_values": {
+        "photo_id": "759076220",
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759076220/original.jpg"
+      },
+      "known_solutions": [
+        {
+          "output_values": {
+            "no_butterflies": false
+          },
+          "correctness_weight": 1
+        }
+      ]
+    },
+    {
+      "input_values": {
+        "photo_id": "135569620",
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/135569620/original.jpeg"
+      },
+      "known_solutions": [
+        {
+          "output_values": {
+            "no_butterflies": false
+          },
+          "correctness_weight": 1
+        }
+      ]
+    },
+    {
+      "input_values": {
+        "photo_id": "58872437",
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/58872437/original.jpg"
+      },
+      "known_solutions": [
+        {
+          "output_values": {
+            "no_butterflies": false
+          },
+          "correctness_weight": 1
+        }
+      ]
+    },
+    {
+      "input_values": {
+        "photo_id": "163471844",
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/163471844/original.jpeg"
+      },
+      "known_solutions": [
+        {
+          "output_values": {
+            "no_butterflies": false
+          },
+          "correctness_weight": 1
+        }
+      ]
+    },
+    {
+      "input_values": {
+        "photo_id": "116372737",
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/116372737/original.jpeg"
+      },
+      "known_solutions": [
+        {
+          "output_values": {
+            "no_butterflies": false
+          },
+          "correctness_weight": 1
+        }
+      ]
+    },
+    {
+      "input_values": {
+        "photo_id": "185655315",
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/185655315/original.jpeg"
+      },
+      "known_solutions": [
+        {
+          "output_values": {
+            "no_butterflies": false
+          },
+          "correctness_weight": 1
+        }
+      ]
+    },
+    {
+      "input_values": {
+        "photo_id": "123838939",
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/123838939/original.jpg"
+      },
+      "known_solutions": [
+        {
+          "output_values": {
+            "no_butterflies": false
+          },
+          "correctness_weight": 1
+        }
+      ]
+    }
+  ]
+}

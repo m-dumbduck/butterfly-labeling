@@ -1,0 +1,78 @@
+{
+  "bbox": {
+    "pool": "6870245",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 74,
+      "EXPIRED": 15,
+      "REJECTED": 24,
+      "SKIPPED": 1
+    }
+  },
+  "new_crowd": {
+    "pool": "6870246",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 4,
+      "EXPIRED": 4,
+      "SKIPPED": 1
+    }
+  },
+  "old_crowd": {
+    "pool": "6870247",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 6,
+      "EXPIRED": 5,
+      "SKIPPED": 4
+    }
+  },
+  "old_overlap": {
+    "pool": "6870248",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 2
+    }
+  },
+  "review": {
+    "pool": "6870249",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 186,
+      "EXPIRED": 35
+    }
+  },
+  "review_hard": {
+    "pool": "6870250",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 36,
+      "EXPIRED": 5
+    }
+  },
+  "bbox_refill": {
+    "pool": "6870418",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 24,
+      "EXPIRED": 3
+    }
+  },
+  "review_refill": {
+    "pool": "6870419",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 11,
+      "EXPIRED": 2
+    }
+  },
+  "review_hard_refill": {
+    "pool": "6870420",
+    "status": "CLOSED",
+    "assignments": {
+      "ACCEPTED": 1
+    }
+  },
+  "balance": 31.35,
+  "checked_utc": "2026-11-19T11:46:51.440774+00:00"
+}

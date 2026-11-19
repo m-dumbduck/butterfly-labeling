@@ -1,0 +1,406 @@
+[
+  {
+    "photo_id": "380522940",
+    "kind": "boxes",
+    "schema": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "anyOf": [
+        {
+          "items": [
+            {
+              "type": "object",
+              "required": [
+                "left",
+                "top",
+                "width",
+                "height"
+              ],
+              "properties": {
+                "left": {
+                  "type": "number",
+                  "minimum": 0.25133,
+                  "maximum": 0.27607
+                },
+                "top": {
+                  "type": "number",
+                  "minimum": 0.18845,
+                  "maximum": 0.20615
+                },
+                "width": {
+                  "type": "number",
+                  "minimum": 0.47996,
+                  "maximum": 0.50964
+                },
+                "height": {
+                  "type": "number",
+                  "minimum": 0.34338,
+                  "maximum": 0.36462
+                }
+              }
+            },
+            {
+              "type": "object",
+              "required": [
+                "left",
+                "top",
+                "width",
+                "height"
+              ],
+              "properties": {
+                "left": {
+                  "type": "number",
+                  "minimum": 0.12636,
+                  "maximum": 0.14703
+                },
+                "top": {
+                  "type": "number",
+                  "minimum": 0.43434,
+                  "maximum": 0.45626
+                },
+                "width": {
+                  "type": "number",
+                  "minimum": 0.401,
+                  "maximum": 0.4258
+                },
+                "height": {
+                  "type": "number",
+                  "minimum": 0.42534,
+                  "maximum": 0.45166
+                }
+              }
+            }
+          ]
+        },
+        {
+          "items": [
+            {
+              "type": "object",
+              "required": [
+                "left",
+                "top",
+                "width",
+                "height"
+              ],
+              "properties": {
+                "left": {
+                  "type": "number",
+                  "minimum": 0.12636,
+                  "maximum": 0.14703
+                },
+                "top": {
+                  "type": "number",
+                  "minimum": 0.43434,
+                  "maximum": 0.45626
+                },
+                "width": {
+                  "type": "number",
+                  "minimum": 0.401,
+                  "maximum": 0.4258
+                },
+                "height": {
+                  "type": "number",
+                  "minimum": 0.42534,
+                  "maximum": 0.45166
+                }
+              }
+            },
+            {
+              "type": "object",
+              "required": [
+                "left",
+                "top",
+                "width",
+                "height"
+              ],
+              "properties": {
+                "left": {
+                  "type": "number",
+                  "minimum": 0.25133,
+                  "maximum": 0.27607
+                },
+                "top": {
+                  "type": "number",
+                  "minimum": 0.18845,
+                  "maximum": 0.20615
+                },
+                "width": {
+                  "type": "number",
+                  "minimum": 0.47996,
+                  "maximum": 0.50964
+                },
+                "height": {
+                  "type": "number",
+                  "minimum": 0.34338,
+                  "maximum": 0.36462
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "hint": "Присмотритесь к центру фото: насекомые могут заходить друг за друга. Каждой бабочке нужна своя рамка, плотно по крыльям, усикам и лапкам. Рамки могут пересекаться.",
+    "tolerance": {
+      "edge": 0.025,
+      "size": 0.03,
+      "worst_iou": 0.852
+    }
+  },
+  {
+    "photo_id": "108268477",
+    "kind": "boxes",
+    "schema": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": [
+        {
+          "type": "object",
+          "required": [
+            "left",
+            "top",
+            "width",
+            "height"
+          ],
+          "properties": {
+            "left": {
+              "type": "number",
+              "minimum": 0.19554,
+              "maximum": 0.21846
+            },
+            "top": {
+              "type": "number",
+              "minimum": 0.37276,
+              "maximum": 0.38404
+            },
+            "width": {
+              "type": "number",
+              "minimum": 0.44455,
+              "maximum": 0.47205
+            },
+            "height": {
+              "type": "number",
+              "minimum": 0.21883,
+              "maximum": 0.23237
+            }
+          }
+        }
+      ]
+    },
+    "hint": "Посмотрите в центр фото под листьями. Рамка должна охватывать оба крыла целиком и усики, без лишнего пустого места вокруг.",
+    "tolerance": {
+      "edge": 0.025,
+      "size": 0.03,
+      "worst_iou": 0.852
+    }
+  },
+  {
+    "photo_id": "735982811",
+    "kind": "boxes",
+    "schema": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": [
+        {
+          "type": "object",
+          "required": [
+            "left",
+            "top",
+            "width",
+            "height"
+          ],
+          "properties": {
+            "left": {
+              "type": "number",
+              "minimum": 0.36285,
+              "maximum": 0.38135
+            },
+            "top": {
+              "type": "number",
+              "minimum": 0.40423,
+              "maximum": 0.41457
+            },
+            "width": {
+              "type": "number",
+              "minimum": 0.3588,
+              "maximum": 0.381
+            },
+            "height": {
+              "type": "number",
+              "minimum": 0.20079,
+              "maximum": 0.21321
+            }
+          }
+        }
+      ]
+    },
+    "hint": "Ночных бабочек и моль тоже обводим. Рамка должна плотно охватывать крылья и усики.",
+    "tolerance": {
+      "edge": 0.025,
+      "size": 0.03,
+      "worst_iou": 0.852
+    }
+  },
+  {
+    "photo_id": "231547757",
+    "kind": "boxes",
+    "schema": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": [
+        {
+          "type": "object",
+          "required": [
+            "left",
+            "top",
+            "width",
+            "height"
+          ],
+          "properties": {
+            "left": {
+              "type": "number",
+              "minimum": 0.1432,
+              "maximum": 0.185
+            },
+            "top": {
+              "type": "number",
+              "minimum": 0.0,
+              "maximum": 0.02311
+            },
+            "width": {
+              "type": "number",
+              "minimum": 0.81082,
+              "maximum": 0.86098
+            },
+            "height": {
+              "type": "number",
+              "minimum": 0.89676,
+              "maximum": 0.95224
+            }
+          }
+        }
+      ]
+    },
+    "hint": "Если бабочка обрезана краем фото, обводите только то, что видно, до самого края кадра. Скрытую часть не дорисовывайте.",
+    "tolerance": {
+      "edge": 0.025,
+      "size": 0.03,
+      "worst_iou": 0.852
+    }
+  },
+  {
+    "photo_id": "267700844",
+    "kind": "boxes",
+    "schema": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": [
+        {
+          "type": "object",
+          "required": [
+            "left",
+            "top",
+            "width",
+            "height"
+          ],
+          "properties": {
+            "left": {
+              "type": "number",
+              "minimum": 0.33183,
+              "maximum": 0.34777
+            },
+            "top": {
+              "type": "number",
+              "minimum": 0.3321,
+              "maximum": 0.3481
+            },
+            "width": {
+              "type": "number",
+              "minimum": 0.30924,
+              "maximum": 0.32836
+            },
+            "height": {
+              "type": "number",
+              "minimum": 0.3103,
+              "maximum": 0.3295
+            }
+          }
+        }
+      ]
+    },
+    "hint": "Осмотрите опавшие листья: бабочка может сливаться с фоном. Увеличьте фото, рамка должна захватывать крылья и усики.",
+    "tolerance": {
+      "edge": 0.025,
+      "size": 0.03,
+      "worst_iou": 0.852
+    }
+  },
+  {
+    "photo_id": "578486437",
+    "kind": "boxes",
+    "schema": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": [
+        {
+          "type": "object",
+          "required": [
+            "left",
+            "top",
+            "width",
+            "height"
+          ],
+          "properties": {
+            "left": {
+              "type": "number",
+              "minimum": 0.23945,
+              "maximum": 0.26315
+            },
+            "top": {
+              "type": "number",
+              "minimum": 0.23296,
+              "maximum": 0.25704
+            },
+            "width": {
+              "type": "number",
+              "minimum": 0.45988,
+              "maximum": 0.48832
+            },
+            "height": {
+              "type": "number",
+              "minimum": 0.46705,
+              "maximum": 0.49594
+            }
+          }
+        }
+      ]
+    },
+    "hint": "Рамка должна плотно охватывать оба крыла и усики. Другие насекомые на цветах не считаются.",
+    "tolerance": {
+      "edge": 0.025,
+      "size": 0.03,
+      "worst_iou": 0.852
+    }
+  },
+  {
+    "photo_id": "748729010",
+    "kind": "none",
+    "hint": "Посмотрите на насекомое: есть ли у него крылья? Гусениц и куколок не обводим. Если бабочек нет, отметьте «Бабочек нет»."
+  },
+  {
+    "photo_id": "105831691",
+    "kind": "none",
+    "hint": "Присмотритесь к насекомому на бревне: какие у него тело и крылья? Пчёл, шмелей и ос не обводим."
+  },
+  {
+    "photo_id": "693861897",
+    "kind": "none",
+    "hint": "Осмотрите всё фото. Жуков и других насекомых не обводим. Если взрослых бабочек нет, отметьте «Бабочек нет» и не рисуйте рамок."
+  }
+]

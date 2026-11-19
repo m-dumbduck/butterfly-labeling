@@ -1,0 +1,11 @@
+{
+  "total_photos": 991,
+  "new_photos": 391,
+  "original_photos": 600,
+  "human_queue": 33,
+  "human_confirmed": 31,
+  "assistant_final": 2,
+  "pending_human_photo_ids": [],
+  "ready_for_final_handoff": true,
+  "warning": "Two assistant final decisions have medium confidence; preserve their provenance and include all images in evaluation."
+}

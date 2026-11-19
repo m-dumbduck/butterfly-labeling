@@ -1,0 +1,31 @@
+{
+  "photos": 991,
+  "original": 600,
+  "new": 391,
+  "positive_images": 506,
+  "negative_images": 485,
+  "boxes": 673,
+  "evaluation_primary": 991,
+  "legacy_crowd_only": 934,
+  "exam_id_overlap": 0,
+  "duplicate_image_sha256": 0,
+  "all_images_decoded": true,
+  "all_boxes_valid": true,
+  "licenses": {
+    "cc0": 991
+  },
+  "adjudication_status": {
+    "earlier_dataset": 596,
+    "human_confirmed": 31,
+    "assistant_visual": 46,
+    "assistant_final": 2,
+    "crowd_consensus": 316
+  },
+  "labels_sha256": "60d0967ee385e501d5b6c528da57d3b666e0e014379aaac881daa02459863e6a",
+  "manifest_sha256": "02ec6dd2982bb331d968ef553565f57ac38606083b9126819c2fa328ed04c37b",
+  "assistant_medium_confidence_ids": [
+    "702337445",
+    "760651018"
+  ],
+  "checksum_note": "labels_sha256 refers to the original private handoff labels.json; the public labels_with_provenance.json has pseudonymized worker IDs and portable paths. manifest_sha256 remains unchanged."
+}

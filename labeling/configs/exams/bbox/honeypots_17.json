@@ -1,0 +1,274 @@
+[
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "218372958",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/218372958/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "608273983",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/608273983/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "442322044",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/442322044/original.jpeg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "552117435",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/552117435/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "562348093",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/562348093/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "706991786",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/706991786/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "761542014",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761542014/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "638433254",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/638433254/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "397885614",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/397885614/original.jpeg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "316879414",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/316879414/original.jpeg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "134554576",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/134554576/original.jpeg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "714495542",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/714495542/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "686990867",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/686990867/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "745618651",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/745618651/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "107636245",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/107636245/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "734953212",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/734953212/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  },
+  {
+    "pool_id": "6863730",
+    "input_values": {
+      "photo_id": "685522812",
+      "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/685522812/original.jpg"
+    },
+    "known_solutions": [
+      {
+        "output_values": {
+          "no_butterflies": false
+        },
+        "correctness_weight": 1
+      }
+    ],
+    "infinite_overlap": true
+  }
+]

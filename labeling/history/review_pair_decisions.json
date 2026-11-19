@@ -1,0 +1,4758 @@
+{
+  "618590344|000068d4e5--6afded939a3ccf124f29353c": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "105565905|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759893290|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758174914|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "741997553|000068d4e5--6afdec03a6287e79d3ce06a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760840040|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757765859|000068d4e5--6afdeb377760fd2ec7027bc6": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "430535352|000068d592--6afe0b020a354570f1aecb3d": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "743226029|000068d4e5--6afdec077760fd2ec7029e45": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732041998|000068d4e5--6afdf152d4140f4279fe0c66": {
+    "decision": "insufficient_votes",
+    "votes": [
+      "ok",
+      "ok"
+    ]
+  },
+  "734798894|000068d4e5--6afded2eb97a6340c750e30b": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "762725258|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "694685933|000068d592--6afe0acf637bb6386697d967": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "725933377|000068d4e5--6afdee0e9a3ccf124f2943f0": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759944563|000068d592--6afe0b0b9a3ccf124f2dad4b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759749239|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "743129753|000068d4e5--6afdedca637bb638669329b9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760589291|000068d592--6afe0a4713c5a15cfd4ce732": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760229912|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759008377|000068d4e5--6afdeb377760fd2ec7027bc6": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760958061|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751709816|000068d4e5--6afdedca637bb638669329b9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "749064857|000068d592--6afe0ae293859475ce7a263b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746623083|000068d4e5--6afded2aa6287e79d3ce3252": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "754086375|000068d592--6afe0a6bef0654541c8d42b7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "706667985|000068d4e5--6afded01fbab195e3dd9b384": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759008377|000068d592--6afe0ae1fbab195e3dde9eba": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "370577649|000068d4e5--6afdec1a22cbfd19963d4046": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "218431721|000068d4e5--6afdecb313c5a15cfd480d44": {
+    "decision": "load_error",
+    "votes": [
+      "ok",
+      "load_error",
+      "ok"
+    ]
+  },
+  "757765401|000068d592--6afe0ae2ef0654541c8d52f1": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "367623|000068d4e7--6afdeb45d4140f4279fd003e": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "bad",
+      "ok"
+    ]
+  },
+  "761354770|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761675297|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "750945144|000068d592--6afe0b21637bb6386697e50b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757765859|000068d592--6afe0b1493859475ce7a2f73": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748769607|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757765401|000068d4e5--6afdee04b97a6340c750fd32": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "bad",
+      "ok"
+    ]
+  },
+  "521419365|000068d4e5--6afdec90b97a6340c750ca32": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "129650272|000068d4e5--6afdec607760fd2ec702aa7c": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "762769386|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "472634655|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "100337874|000068d4e5--6afdede8b97a6340c750f9df": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "734172352|000068d592--6afe0adb637bb6386697dab9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760792261|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760951471|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759433065|000068d4e5--6afdedbaa6287e79d3ce488e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732835830|000068d592--6afe0b4cd4140f4279025496": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762772149|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762657376|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "111676180|000068d4e5--6afdecf5b97a6340c750d890": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "420819460|000068d592--6afe0b1493859475ce7a2f73": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "107634858|000068d4e5--6afdece60a354570f1a982e5": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "750944432|000068d592--6afe0acf637bb6386697d967": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "734727345|000068d4e5--6afdee0fb97a6340c750fec7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "681026233|000068d4e5--6afdec8593859475ce752779": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762803377|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "214437606|000068d4e5--6afded38637bb63866931697": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758293137|000068d4e5--6afdedc1fbab195e3dd9cdad": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "754257489|000068d4e5--6afdec0093859475ce75160d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "129650272|000068d4e5--6afdec7493859475ce752457": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761828886|000068d4e5--6afdede6637bb63866932d54": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "699836133|000068d592--6afe0a93b97a6340c755d50a": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760605789|000068d4e5--6afdec57ef0654541c88a0a9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757796125|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759415174|000068d592--6afe0a93b97a6340c755d50a": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "695283021|000068d4e5--6afded81d4140f4279fd800e": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "762788617|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758126480|000068d4e5--6afdedca637bb638669329b9": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "670734334|000068d592--6afe0ae2ef0654541c8d52f1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "741474310|000068d592--6afe0a957760fd2ec707ac77": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745211036|000068d4e5--6afded2eb97a6340c750e30b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "741997553|000068d592--6afe0a957760fd2ec707ac77": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "694685204|000068d4e5--6afded1cfbab195e3dd9b7ac": {
+    "decision": "load_error",
+    "votes": [
+      "load_error",
+      "ok",
+      "ok"
+    ]
+  },
+  "761548607|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "741537383|000068d592--6afe0b207760fd2ec707c002": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "363499338|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742494378|000068d4e5--6afdee0da6287e79d3ce5467": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761771653|000068d4e5--6afded857760fd2ec702d8a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "736571587|000068d4e5--6afdeb87a6287e79d3cdf3a7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "618590344|000068d4e5--6afded9bb97a6340c750f166": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "111676180|000068d592--6afe0ad7637bb6386697da01": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759866241|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "675442662|000068d4e5--6afdedb57760fd2ec702dd80": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "755317913|000068d4e5--6afdee0c93859475ce756306": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "ok",
+      "bad"
+    ]
+  },
+  "694685204|000068d592--6afe0a959a3ccf124f2d9f4f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758980574|000068d4e5--6afded857760fd2ec702d8a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "580638|000068d4e7--6afdeb3f0a354570f1a9473f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757277256|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758937419|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "691321831|000068d4e5--6afdec077760fd2ec7029e45": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761828886|000068d4e5--6afdedd7ef0654541c88d5ce": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "706912650|000068d4e5--6afdecc5b97a6340c750d144": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761923398|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742707602|000068d4e5--6afdecf5b97a6340c750d890": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "2095326|000068d592--6afe0b09fbab195e3ddea354": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "761444107|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "752175084|000068d4e5--6afdec03a6287e79d3ce06a1": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "761405156|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759449780|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "701215793|000068d592--6afe0ac6fbab195e3dde9b61": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751709823|000068d592--6afe0a35637bb6386697c485": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742466405|000068d4e5--6afdec8593859475ce752779": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "682059194|000068d592--6afe0a959a3ccf124f2d9f4f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "372706993|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745687982|000068d4e5--6afdf152d4140f4279fe0c66": {
+    "decision": "insufficient_votes",
+    "votes": [
+      "bad",
+      "ok"
+    ]
+  },
+  "746618912|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "738793688|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762771338|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "724380962|000068d4e5--6afdeba613c5a15cfd47e602": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "756712996|000068d4e5--6afded5ad4140f4279fd76da": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "393494362|000068d4e5--6afdee29637bb638669336ad": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "105103174|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762509018|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760119158|000068d592--6afe0b4cd4140f4279025496": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759975921|000068d592--6afe0a6bef0654541c8d42b7": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "758340327|000068d592--6afe0b4322cbfd1996419224": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "682058008|000068d592--6afe0b4322cbfd1996419224": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "430571120|000068d4e5--6afdec1a22cbfd19963d4046": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "580638|000068d4e7--6afdeb3ca6287e79d3cde97a": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "bad",
+      "bad"
+    ]
+  },
+  "734287272|000068d4e5--6afded5cef0654541c88c6c1": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "746932602|000068d4e5--6afdec607760fd2ec702aa7c": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "100337874|000068d4e5--6afdedfd7760fd2ec702e94a": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "756699351|000068d4e5--6afdedb57760fd2ec702dd80": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "681026233|000068d4e5--6afdeca3fbab195e3dd9a554": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "755752580|000068d4e5--6afdec1422cbfd19963d3fe3": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "734727345|000068d4e5--6afdee0e9a3ccf124f2943f0": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751709680|000068d4e5--6afdedb57760fd2ec702dd80": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "736571587|000068d592--6afe0ab60a354570f1aec33d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762871070|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758126480|000068d592--6afe0ac6fbab195e3dde9b61": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761899402|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751389959|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "719545472|000068d4e5--6afdec120a354570f1a9665b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "702001457|000068d4e5--6afdedc1fbab195e3dd9cdad": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759689017|000068d592--6afe0ab60a354570f1aec33d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761037191|000068d4e5--6afdebfe93859475ce75159d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759703692|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "743417138|000068d592--6afe0b207760fd2ec707c002": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "130935110|000068d4e5--6afdebc7d4140f4279fd1316": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758364081|000068d4e5--6afdedbaa6287e79d3ce488e": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "695745216|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751709823|000068d4e5--6afdeccda6287e79d3ce23b1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "102196985|000068d4e5--6afdec0e7760fd2ec7029f86": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760798118|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760312319|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746101432|000068d4e5--6afdede6637bb63866932d54": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762806123|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "743848189|000068d4e5--6afdecddb97a6340c750d49f": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "702001457|000068d592--6afe0b09fbab195e3ddea354": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748833289|000068d4e5--6afdec120a354570f1a9665b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751555263|000068d592--6afe0ae2ef0654541c8d52f1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "734172482|000068d592--6afe0b21637bb6386697e50b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "422715213|000068d4e5--6afdec57fbab195e3dd999f6": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760946289|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761551914|no-bbox": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "695514043|000068d4e5--6afdec8da6287e79d3ce1aae": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762176006|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761881419|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759133629|no-bbox": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "760157726|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "367053091|000068d592--6afe0a3aef0654541c8d3c44": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760083024|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "695283021|000068d4e5--6afded857760fd2ec702d8a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737510070|000068d4e5--6afdec620a354570f1a96f36": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "ok",
+      "bad"
+    ]
+  },
+  "363476686|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751191419|000068d4e5--6afded27b97a6340c750e1a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "363477970|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761337769|000068d4e5--6afdec51ef0654541c889fcc": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "731248772|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "430535352|000068d4e5--6afded5cef0654541c88c6c1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "736001415|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746857129|000068d4e5--6afdecd89a3ccf124f291eaf": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "747814033|000068d4e5--6afdedaa9a3ccf124f2937ca": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "751555263|000068d4e5--6afdeccda6287e79d3ce23b1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748369770|000068d4e5--6afdecbd7760fd2ec702b75e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758617832|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758293137|000068d592--6afe0a959a3ccf124f2d9f4f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742496299|000068d592--6afe0b09fbab195e3ddea354": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737432343|000068d4e5--6afdeb9d7760fd2ec7028bfc": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "108753842|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760486414|000068d4e5--6afded50d4140f4279fd7003": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746101432|000068d4e5--6afdedd7ef0654541c88d5ce": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758112264|000068d4e5--6afdec8593859475ce752779": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745965357|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762788190|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "704042321|000068d4e5--6afdeb9d7760fd2ec7028bfc": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761583466|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759942248|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "521419365|000068d4e5--6afdec8da6287e79d3ce1aae": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "738240552|000068d4e5--6afdec0aef0654541c889313": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748832630|000068d4e5--6afdedb613c5a15cfd4836c3": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "94780787|000068d4e6--6afdeb6c13c5a15cfd47dca0": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "730072978|000068d4e5--6afdec57fbab195e3dd999f6": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732041998|000068d4e5--6afded6713c5a15cfd482605": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "749062414|000068d592--6afe0ac6fbab195e3dde9b61": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "741474310|000068d4e5--6afdedc1fbab195e3dd9cdad": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "708131858|000068d592--6afe0b4cd4140f4279025496": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "695514043|000068d4e5--6afdec90b97a6340c750ca32": {
+    "decision": "majority_bad",
+    "votes": [
+      "ok",
+      "bad",
+      "bad"
+    ]
+  },
+  "744674489|000068d4e5--6afded7393859475ce754c1d": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "750944432|000068d4e5--6afdecf5b97a6340c750d890": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "754257489|000068d4e5--6afdec57ef0654541c88a0a9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "753007352|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "2095326|000068d592--6afe0b020a354570f1aecb3d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746330827|000068d592--6afe0ae1fbab195e3dde9eba": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "449740805|000068d4e5--6afdec8593859475ce752779": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759018213|000068d592--6afe0b21637bb6386697e50b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "102196985|000068d4e5--6afdec0713c5a15cfd47f5d1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "687682628|000068d4e5--6afdee0fb97a6340c750fec7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761421024|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "224145767|000068d4e5--6afded1cfbab195e3dd9b7ac": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "706912650|000068d592--6afe0a93b97a6340c755d50a": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "550948540|000068d592--6afe0a4713c5a15cfd4ce732": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "384990565|000068d592--6afe0a3aef0654541c8d3c44": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759689017|000068d592--6afe0ac6fbab195e3dde9b61": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758638811|000068d4e5--6afdeba693859475ce750988": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "472625416|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "755317913|000068d4e5--6afdee0da6287e79d3ce5467": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762657661|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "729877926|000068d592--6afe0ad7637bb6386697da01": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760981741|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "173227152|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "731862534|000068d4e5--6afdec51ef0654541c889fcc": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751709613|000068d4e5--6afdebfe93859475ce75159d": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "420819460|000068d592--6afe0b207760fd2ec707c002": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "751709816|000068d592--6afe0a4713c5a15cfd4ce732": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "701215793|000068d4e5--6afded01fbab195e3dd9b384": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "439880872|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762224488|000068d4e5--6afded27b97a6340c750e1a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759320301|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "752722922|000068d4e5--6afdee0c93859475ce756306": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762949023|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "750945144|000068d4e5--6afdec1a22cbfd19963d4046": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746857129|000068d4e5--6afdecd4d4140f4279fd3fea": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "667238360|000068d4e5--6afded7393859475ce754c1d": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "724523952|000068d592--6afe0a3d13c5a15cfd4ce5a4": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "370577649|000068d592--6afe0b207760fd2ec707c002": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "694686326|000068d4e5--6afdec0093859475ce75160d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759612392|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732595699|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "334402232|000068d4e5--6afded5ad4140f4279fd76da": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761444271|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761443761|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "747770173|000068d592--6afe0adb637bb6386697dab9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "267853459|000068d4e5--6afded2aa6287e79d3ce3252": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "218431721|000068d4e5--6afdecac0a354570f1a97a0b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762388167|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "730086809|000068d4e5--6afdee1bef0654541c88df25": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759863477|000068d4e5--6afdecbd7760fd2ec702b75e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "754086375|000068d4e5--6afdecddb97a6340c750d49f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742496299|000068d4e5--6afdec57fbab195e3dd999f6": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "730087139|000068d592--6afe0a6bef0654541c8d42b7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "753502603|000068d4e5--6afdebfe93859475ce75159d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758112264|000068d4e5--6afdeca3fbab195e3dd9a554": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "762958785|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "743226029|000068d4e5--6afdec0aef0654541c889313": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757766479|000068d4e5--6afdec077760fd2ec7029e45": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "437998750|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759413006|000068d4e5--6afded939a3ccf124f29353c": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760983506|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "204259768|000068d4e5--6afdeb9d7760fd2ec7028bfc": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "744674489|000068d4e5--6afded38637bb63866931697": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "746905942|000068d4e5--6afdec7993859475ce752593": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "739211165|000068d592--6afe0a35637bb6386697c485": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "111676223|000068d592--6afe0ae293859475ce7a263b": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "351211661|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "694685933|000068d4e5--6afded429a3ccf124f292cdd": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "367053091|000068d592--6afe0a3d13c5a15cfd4ce5a4": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "449740805|000068d4e5--6afdeca3fbab195e3dd9a554": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759811844|000068d4e5--6afded50d4140f4279fd7003": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751709680|000068d4e5--6afdedaa9a3ccf124f2937ca": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "438004556|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759120704|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762802773|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "724388446|000068d4e5--6afded429a3ccf124f292cdd": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "749953122|000068d4e5--6afded27b97a6340c750e1a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761260140|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "687682628|000068d4e5--6afdee0e9a3ccf124f2943f0": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "375420526|000068d4e6--6afded9b7760fd2ec702dad2": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "158945470|000068d4e5--6afdeb87a6287e79d3cdf3a7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "334402232|000068d4e5--6afded50d4140f4279fd7003": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760578624|000068d4e5--6afdee0fb97a6340c750fec7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746905942|000068d4e5--6afdec620a354570f1a96f36": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "755736310|000068d4e5--6afded5cef0654541c88c6c1": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "749062228|000068d4e5--6afded939a3ccf124f29353c": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "734798894|000068d4e5--6afded2aa6287e79d3ce3252": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "731862612|000068d4e5--6afdedca637bb638669329b9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "670734348|000068d4e5--6afdece60a354570f1a982e5": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "724388446|000068d592--6afe0a3d13c5a15cfd4ce5a4": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "711324682|000068d4e5--6afdec57fbab195e3dd999f6": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "745687982|000068d4e5--6afded6713c5a15cfd482605": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "76501316|000068d4e5--6afdede6637bb63866932d54": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "667238360|000068d4e5--6afded38637bb63866931697": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "450733970|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "709108768|000068d4e5--6afdec7993859475ce752593": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748831582|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761358489|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "248391782|000068d4e5--6afdecf5b97a6340c750d890": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762181634|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "739211165|000068d4e5--6afdeccda6287e79d3ce23b1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758638811|000068d592--6afe0a957760fd2ec707ac77": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760117348|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "108522472|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "701743503|000068d4e5--6afdec120a354570f1a9665b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761304859|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761445474|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758593107|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748369770|000068d4e5--6afdece60a354570f1a982e5": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "397757124|000068d4e5--6afdec607760fd2ec702aa7c": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "740875698|000068d4e5--6afded27b97a6340c750e1a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "699835331|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "739590814|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760771076|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "688149710|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "430571120|000068d592--6afe0adb637bb6386697dab9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "708131858|000068d4e5--6afdec03a6287e79d3ce06a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "753406492|000068d4e5--6afdec0713c5a15cfd47f5d1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "450239303|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "709108768|000068d4e5--6afdec620a354570f1a96f36": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "706667985|000068d592--6afe0b020a354570f1aecb3d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "727216039|000068d4e5--6afded6713c5a15cfd482605": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761800013|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "743129753|000068d592--6afe0b1493859475ce7a2f73": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762849049|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "727216039|000068d4e5--6afdf152d4140f4279fe0c66": {
+    "decision": "insufficient_votes",
+    "votes": [
+      "ok",
+      "ok"
+    ]
+  },
+  "712663308|000068d4e5--6afdec0093859475ce75160d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751191419|000068d4e5--6afdecddb97a6340c750d4b0": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762681050|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760179112|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759005955|000068d4e5--6afded7393859475ce754c1d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "397757124|000068d4e5--6afdec7493859475ce752457": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "76501316|000068d4e5--6afdedd7ef0654541c88d5ce": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760486414|000068d4e5--6afded5ad4140f4279fd76da": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745637827|000068d4e5--6afdec90b97a6340c750ca32": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761267620|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "660156979|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "461545777|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "438057297|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762900111|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762195872|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746514780|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759073486|000068d4e5--6afdecc5b97a6340c750d144": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "730560002|000068d592--6afe0b1493859475ce7a2f73": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759942365|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762976006|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761869172|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746623083|000068d4e5--6afded2eb97a6340c750e30b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "724754717|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "691321831|000068d4e5--6afdec0aef0654541c889313": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "762848813|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "550952862|000068d4e5--6afdede8b97a6340c750f9df": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759413006|000068d4e5--6afded9bb97a6340c750f166": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760798203|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "485537886|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "752722922|000068d4e5--6afdee0da6287e79d3ce5467": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "670734348|000068d4e5--6afdecbd7760fd2ec702b75e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757255347|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "724523952|000068d4e5--6afdeccda6287e79d3ce23b1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "756856199|000068d4e5--6afdf152d4140f4279fe0c66": {
+    "decision": "insufficient_votes",
+    "votes": [
+      "ok",
+      "ok"
+    ]
+  },
+  "725933377|000068d4e5--6afdee0fb97a6340c750fec7": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "733878217|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760922831|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745211036|000068d4e5--6afded2aa6287e79d3ce3252": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748832630|000068d4e5--6afdedbaa6287e79d3ce488e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759444377|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732052448|000068d592--6afe0a4713c5a15cfd4ce732": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "760863871|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760980351|000068d4e5--6afdec7993859475ce752593": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759316826|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758994575|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761197537|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732442978|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760383473|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "750394590|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "743848189|000068d592--6afe0a3d13c5a15cfd4ce5a4": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761801607|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "498410481|000068d4e5--6afdec0713c5a15cfd47f5d1": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "739824005|000068d4e5--6afdec7493859475ce752457": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759863477|000068d4e5--6afdece60a354570f1a982e5": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745210546|000068d592--6afe0acf637bb6386697d967": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "384990565|000068d4e5--6afdec51ef0654541c889fcc": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "694686326|000068d4e5--6afdec57ef0654541c88a0a9": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "597419379|000068d4e7--6afdeb50b97a6340c750997f": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "bad",
+      "bad"
+    ]
+  },
+  "749062228|000068d4e5--6afded9bb97a6340c750f166": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "707208974|000068d4e5--6afdee0c93859475ce756306": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "367623|000068d4e7--6afdec65ef0654541c88a27e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758303142|000068d4e5--6afdecb313c5a15cfd480d44": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762224488|000068d4e5--6afdecddb97a6340c750d4b0": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737578968|000068d4e5--6afdee1bef0654541c88df25": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "131917646|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745423573|000068d4e5--6afdecb313c5a15cfd480d44": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751183098|000068d592--6afe0a35637bb6386697c485": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746330827|000068d4e5--6afdeb377760fd2ec7027bc6": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "731641051|000068d4e5--6afdeb377760fd2ec7027bc6": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737676284|000068d592--6afe0ae2ef0654541c8d52f1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "730560002|000068d4e5--6afdedc1fbab195e3dd9cdad": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760913412|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758364081|000068d4e5--6afdedb613c5a15cfd4836c3": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "682059194|000068d4e5--6afdee04b97a6340c750fd32": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "103687361|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "224145767|000068d592--6afe0ae293859475ce7a263b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751183098|000068d592--6afe0a3aef0654541c8d3c44": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737676284|000068d4e5--6afdee04b97a6340c750fd32": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759018213|000068d4e5--6afdecddb97a6340c750d49f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759413026|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "730613716|000068d4e5--6afdecd89a3ccf124f291eaf": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759005955|000068d4e5--6afded38637bb63866931697": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759563419|000068d592--6afe0a35637bb6386697c485": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761197134|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "730086809|000068d4e5--6afdee180a354570f1a9b028": {
+    "decision": "majority_bad",
+    "votes": [
+      "ok",
+      "bad",
+      "bad"
+    ]
+  },
+  "758303142|000068d4e5--6afdecac0a354570f1a97a0b": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "762958304|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "724380962|000068d4e5--6afdebfe93859475ce75159d": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "761444714|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "701743503|000068d4e5--6afdec1422cbfd19963d3fe3": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "755736310|000068d592--6afe0ab60a354570f1aec33d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761849947|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759811844|000068d4e5--6afded5ad4140f4279fd76da": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759577710|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "733322497|000068d4e5--6afded1cfbab195e3dd9b7ac": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "756603624|000068d4e5--6afdf22da6287e79d3cf0409": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732052448|000068d4e5--6afdecddb97a6340c750d49f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757933363|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748173221|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761337769|000068d592--6afe0b09fbab195e3ddea354": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "749064857|000068d4e5--6afded429a3ccf124f292cdd": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "675442662|000068d4e5--6afdedaa9a3ccf124f2937ca": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "550952862|000068d4e5--6afdedfd7760fd2ec702e94a": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758370761|000068d4e5--6afdecd89a3ccf124f291eaf": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760651018|000068d4e5--6afdee1bef0654541c88df25": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "752175084|000068d592--6afe0b4322cbfd1996419224": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "730072978|000068d592--6afe0adb637bb6386697dab9": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "749953122|000068d4e5--6afdecddb97a6340c750d4b0": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "719545472|000068d4e5--6afdec1422cbfd19963d3fe3": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "755752580|000068d4e5--6afdec120a354570f1a9665b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "744146940|000068d4e5--6afdedb613c5a15cfd4836c3": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759975921|000068d4e5--6afdeba693859475ce750988": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761241260|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "158945470|000068d592--6afe0ae1fbab195e3dde9eba": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "174086363|000068d4e5--6afdecb313c5a15cfd480d44": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "509056853|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761037191|000068d4e5--6afdeba613c5a15cfd47e602": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "248391782|000068d592--6afe0b020a354570f1aecb3d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762780827|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759563419|000068d4e5--6afded01fbab195e3dd9b384": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "752466576|000068d4e5--6afdede8b97a6340c750f9df": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761981482|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762769124|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761309126|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746329041|000068d4e5--6afdec8da6287e79d3ce1aae": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "730613716|000068d4e5--6afdecd4d4140f4279fd3fea": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760217820|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748833289|000068d4e5--6afdec1422cbfd19963d3fe3": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "733322497|000068d592--6afe0b0b9a3ccf124f2dad4b": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "737583740|000068d4e5--6afdec0713c5a15cfd47f5d1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "747814033|000068d4e5--6afdedb57760fd2ec702dd80": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "753406492|000068d4e5--6afdec0e7760fd2ec7029f86": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "734172352|000068d592--6afe0ae1fbab195e3dde9eba": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "756699351|000068d4e5--6afdedaa9a3ccf124f2937ca": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "749062414|000068d4e5--6afdec51ef0654541c889fcc": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762657262|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758798048|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "298953148|000068d4e5--6afded81d4140f4279fd800e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759415174|000068d4e5--6afdeb87a6287e79d3cdf3a7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "174086363|000068d4e5--6afdecac0a354570f1a97a0b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737432343|000068d4e5--6afdebc7d4140f4279fd1316": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "731862534|000068d592--6afe0a3aef0654541c8d3c44": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "550948540|000068d4e5--6afdecc5b97a6340c750d144": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "bad",
+      "ok"
+    ]
+  },
+  "761350781|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "740875698|000068d4e5--6afdecddb97a6340c750d4b0": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "704042321|000068d4e5--6afdebc7d4140f4279fd1316": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "109523441|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "712663308|000068d4e5--6afdec57ef0654541c88a0a9": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "130935110|000068d4e5--6afdeb9d7760fd2ec7028bfc": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732835830|000068d4e5--6afded429a3ccf124f292cdd": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761897558|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758370761|000068d4e5--6afdecd4d4140f4279fd3fea": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "759885754|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746329041|000068d4e5--6afdec90b97a6340c750ca32": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759433065|000068d4e5--6afdedb613c5a15cfd4836c3": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "327719751|000068d4e8--6afdeb7a13c5a15cfd47deb9": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "422715213|000068d592--6afe0a93b97a6340c755d50a": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "ok",
+      "bad"
+    ]
+  },
+  "731862612|000068d592--6afe0ad7637bb6386697da01": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "751280962|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759847001|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "111676223|000068d4e5--6afdec1a22cbfd19963d4046": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "732442238|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761477291|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "363500044|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "711324682|000068d592--6afe0b4cd4140f4279025496": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "312140186|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745637827|000068d4e5--6afdec8da6287e79d3ce1aae": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "734287272|000068d592--6afe0a6bef0654541c8d42b7": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "759945606|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "327719751|000068d4e8--6afdeb3593859475ce74f7f1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760721830|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748241008|000068d4e5--6afded939a3ccf124f29353c": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "498410481|000068d4e5--6afdec0e7760fd2ec7029f86": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "707208974|000068d4e5--6afdee0da6287e79d3ce5467": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757766479|000068d4e5--6afdec0aef0654541c889313": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "757416267|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "702337445|000068d4e5--6afdede8b97a6340c750f9df": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762771513|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761692529|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "563927619|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "108352907|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760805719|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "94780787|000068d4e6--6afdeb6cfbab195e3dd976db": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760810709|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "752466576|000068d4e5--6afdedfd7760fd2ec702e94a": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "751709613|000068d4e5--6afdeba613c5a15cfd47e602": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762184582|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760872533|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762258001|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760493378|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "741695822|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760605789|000068d4e5--6afdec0093859475ce75160d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760388714|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759073486|000068d592--6afe0a957760fd2ec707ac77": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "107634858|000068d4e5--6afdecbd7760fd2ec702b75e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "597419379|000068d4e7--6afded8893859475ce754ea8": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "ok",
+      "bad"
+    ]
+  },
+  "743417138|000068d592--6afe0b21637bb6386697e50b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761625019|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762670058|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761005915|000068d4e5--6afded1cfbab195e3dd9b7ac": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "116906744|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762953035|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761856271|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "699086112|000068d4e5--6afdede6637bb63866932d54": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "129652573|000068d4e5--6afdecd89a3ccf124f291eaf": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  },
+  "761404830|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759459773|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "204259768|000068d4e5--6afdebc7d4140f4279fd1316": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760133932|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737578968|000068d4e5--6afdee180a354570f1a9b028": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "739824005|000068d4e5--6afdec607760fd2ec702aa7c": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760578624|000068d4e5--6afdee0e9a3ccf124f2943f0": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "bad",
+      "ok"
+    ]
+  },
+  "756856199|000068d4e5--6afded6713c5a15cfd482605": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762657064|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "738240552|000068d4e5--6afdec077760fd2ec7029e45": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758340946|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762387946|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "735761817|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742707602|000068d592--6afe0ad7637bb6386697da01": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "753502603|000068d4e5--6afdeba613c5a15cfd47e602": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761814526|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "393494362|000068d4e5--6afdf22da6287e79d3cf0409": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "741537383|000068d4e5--6afdec03a6287e79d3ce06a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "746932602|000068d4e5--6afdec7493859475ce752457": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "bad",
+      "ok"
+    ]
+  },
+  "699836133|000068d4e5--6afdecc5b97a6340c750d144": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762139560|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "437999764|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "194151682|000068d4e5--6afdee180a354570f1a9b028": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762809463|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761005915|000068d592--6afe0b0b9a3ccf124f2dad4b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "298953148|000068d4e5--6afded857760fd2ec702d8a1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742494378|000068d4e5--6afdee0c93859475ce756306": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "756712996|000068d4e5--6afded50d4140f4279fd7003": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "267853459|000068d4e5--6afded2eb97a6340c750e30b": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "747770173|000068d592--6afe0acf637bb6386697d967": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "734172482|000068d592--6afe0b4322cbfd1996419224": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758340327|000068d4e5--6afdeba693859475ce750988": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737510070|000068d4e5--6afdec7993859475ce752593": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "730087139|000068d4e5--6afdeb87a6287e79d3cdf3a7": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760921514|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760980351|000068d4e5--6afdec620a354570f1a96f36": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "670734334|000068d592--6afe0ae293859475ce7a263b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745210546|000068d592--6afe0ab60a354570f1aec33d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "729877926|000068d4e5--6afdeba693859475ce750988": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "699086112|000068d4e5--6afdedd7ef0654541c88d5ce": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "759944563|000068d4e5--6afded5cef0654541c88c6c1": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "364417185|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "762425314|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761669085|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760119158|000068d592--6afe0b0b9a3ccf124f2dad4b": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "129652573|000068d4e5--6afdecd4d4140f4279fd3fea": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742466405|000068d4e5--6afdeca3fbab195e3dd9a554": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "737583740|000068d4e5--6afdec0e7760fd2ec7029f86": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "375420526|000068d4e6--6afdeb61ef0654541c88770f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "756603624|000068d4e5--6afdee29637bb638669336ad": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761489345|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761771653|000068d4e5--6afded81d4140f4279fd800e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760651018|000068d4e5--6afdee180a354570f1a9b028": {
+    "decision": "majority_bad",
+    "votes": [
+      "bad",
+      "ok",
+      "bad"
+    ]
+  },
+  "702337445|000068d4e5--6afdedfd7760fd2ec702e94a": {
+    "decision": "disagreement",
+    "votes": [
+      "ok",
+      "ok",
+      "bad"
+    ]
+  },
+  "194151682|000068d4e5--6afdee1bef0654541c88df25": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748241008|000068d4e5--6afded9bb97a6340c750f166": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "731641051|000068d592--6afe0a959a3ccf124f2d9f4f": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "742960405|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "682058008|000068d4e5--6afdee04b97a6340c750fd32": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "761794506|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "758980574|000068d4e5--6afded81d4140f4279fd800e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "748085502|no-bbox": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "760589291|000068d4e5--6afded01fbab195e3dd9b384": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "744146940|000068d4e5--6afdedbaa6287e79d3ce488e": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "214437606|000068d4e5--6afded7393859475ce754c1d": {
+    "decision": "unanimous_ok",
+    "votes": [
+      "ok",
+      "ok",
+      "ok"
+    ]
+  },
+  "745423573|000068d4e5--6afdecac0a354570f1a97a0b": {
+    "decision": "disagreement",
+    "votes": [
+      "bad",
+      "ok",
+      "ok"
+    ]
+  }
+}
